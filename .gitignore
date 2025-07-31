@@ -1,0 +1,5 @@
+/.DS_Store
+/.vscode
+/__pycache__
+/parsed_data.json
+/raw_data.json
