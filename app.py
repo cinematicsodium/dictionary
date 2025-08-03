@@ -34,15 +34,15 @@ class Dictionary:
         eid = convert_to_eid(word)
         primary_result = self.eid_to_data.get(eid)
         if primary_result:
-            primary_result = Translation(**primary_result)
+            primary_result = Translation(primary_result)
             return eid, primary_result, []
 
         alternatives = []
         for alt_eid, entry in self.eid_to_data.items():
             if eid and (eid.startswith(alt_eid) or alt_eid.startswith(eid)):
-                alternatives.append(Translation(**entry))
+                alternatives.append(Translation(entry))
             elif eid and (alt_eid in eid or eid in alt_eid):
-                alternatives.append(Translation(**entry))
+                alternatives.append(Translation(entry))
             if len(alternatives) >= 20:
                 break
         return eid, None, alternatives
@@ -53,14 +53,14 @@ class Dictionary:
         ]
         w_sfx = "" if len(result.mescalero.words) == 1 else "s"
         t_sfx = "s" if len(result.mescalero.literal_translations) > 1 else ""
-        st.write(f"**English Word:** {result.english}")
-        st.write(f"**Mescalero Word{w_sfx}:** {'  |  '.join(result.mescalero.words)}")
+        st.write(f"English Word: {result.english}")
+        st.write(f"Mescalero Word{w_sfx}: {'  |  '.join(result.mescalero.words)}")
         if result.mescalero.literal_translations:
             st.write(
-                f"**Literal Translation{t_sfx}:** {'  |  '.join(result.mescalero.literal_translations)}"
+                f"Literal Translation{t_sfx}: {'  |  '.join(result.mescalero.literal_translations)}"
             )
         st.write(
-            f"**Category:** {self.cid_to_category.get(result.cid, 'Unknown Category')}"
+            f"Category: {self.cid_to_category.get(result.cid, 'Unknown Category')}"
         )
 
     def run(self):
@@ -69,7 +69,7 @@ class Dictionary:
         random_word = st.button("Select a Random Word")
         if random_word:
             selection = random.choice(list(self.eid_to_data.values()))
-            translation = Translation(**selection)
+            translation = Translation(selection)
             self.display_result(translation)
             return
         if not word:
