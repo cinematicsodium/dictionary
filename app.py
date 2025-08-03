@@ -1,20 +1,22 @@
 # from rich.traceback import install
 # install(show_locals=True)
 
+import random
+
 import streamlit as st
+
 from dictionarydata import dictionary_data
+from translation import Translation
 from utils import convert_to_eid
 
 
 class Dictionary:
     def __init__(self, dictionary_data):
-        self.data: dict = dictionary_data
-        self.cid_to_category: dict = self.data["cid_to_category"]
-        self.eid_to_data: dict[str, dict] = self.data["eid_to_data"]
-        self.eid = ""
-        self.primary_result: dict = {}
-        self.alternative_results: list = []
-
+        self.cid_to_category: dict = dictionary_data["cid_to_category"]
+        self.eid_to_data: dict[str, dict] = dictionary_data["eid_to_data"]
+        self.english_words: list[str] = [
+            entry["english"] for entry in self.eid_to_data.values()
+        ]
 
     def initialize(self):
         st.set_page_config(
@@ -28,81 +30,62 @@ class Dictionary:
             "<br><br>If there's no exact match, you'll get some similar suggestions."
         )
 
-    def primary_search(self):
-        word = st.text_input("Enter a word to search:")
-        if word:
-            self.eid = convert_to_eid(word)
-            found_entry = self.eid_to_data.get(self.eid)
-            if found_entry:
-                self.primary_result = found_entry
-            else:
-                return
+    def search(self, word: str) -> tuple[str, Translation | None, list[Translation]]:
+        eid = convert_to_eid(word)
+        primary_result = self.eid_to_data.get(eid)
+        if primary_result:
+            primary_result = Translation(**primary_result)
+            return eid, primary_result, []
 
-    def secondary_search(self):
-        eid_by_prefix = []
-        alternative_eids = []
+        alternatives = []
+        for alt_eid, entry in self.eid_to_data.items():
+            if eid and (eid.startswith(alt_eid) or alt_eid.startswith(eid)):
+                alternatives.append(Translation(**entry))
+            elif eid and (alt_eid in eid or eid in alt_eid):
+                alternatives.append(Translation(**entry))
+            if len(alternatives) >= 20:
+                break
+        return eid, None, alternatives
 
-        for eid in self.eid_to_data:
-            if self.eid.startswith(eid) or eid.startswith(self.eid):
-                eid_by_prefix.append(eid)
-            elif eid in self.eid or self.eid in eid:
-                alternative_eids.append(eid)
-
-        eid_by_prefix.extend(alternative_eids)
-        for idx, eid in enumerate(eid_by_prefix):
-            if idx < 10:
-                result = self.eid_to_data[eid]
-                self.alternative_results.append(result)
-
-    def unpack_result(self, result: dict) -> list:
-        cid = result.get("CID")
-        category = self.cid_to_category.get(cid, "Unknown Category")
-        english_word = result["english"]
-        mescalero_data = result["mescalero"]
-        ms_words = mescalero_data["words"]
-        ms_literal_translations = mescalero_data["literal_translations"]
-        return [english_word, ms_words, ms_literal_translations, category]
-
-    def display_result(self, result):
-        unpacked = self.unpack_result(result)
-        en_word, ms_words, ms_translations, category = unpacked
-        word = "Word" if len(ms_words) == 1 else "Words"
-        st.write(f"**English Word:** {en_word}")
-        st.write(f"**Mescalero {word}:** {'  |  '.join(ms_words)}")
-        ms_translations = [mt for mt in ms_translations if mt != en_word]
-        if ms_translations:
+    def display_result(self, result: Translation):
+        result.mescalero.literal_translations = [
+            mt for mt in result.mescalero.literal_translations if mt != result.english
+        ]
+        w_sfx = "" if len(result.mescalero.words) == 1 else "s"
+        t_sfx = "s" if len(result.mescalero.literal_translations) > 1 else ""
+        st.write(f"**English Word:** {result.english}")
+        st.write(f"**Mescalero Word{w_sfx}:** {'  |  '.join(result.mescalero.words)}")
+        if result.mescalero.literal_translations:
             st.write(
-                f"**Mescalero Literal Translations:** {'  |  '.join(ms_translations)}"
+                f"**Literal Translation{t_sfx}:** {'  |  '.join(result.mescalero.literal_translations)}"
             )
-        st.write(f"**Category:** {category}")
-
-    def display_primary_result(self):
-        st.subheader("Primary Result")
-        self.display_result(self.primary_result)
-
-    def display_alternative_results(self):
-        st.subheader("Alternative Results")
-        for result in self.alternative_results:
-            self.display_result(result)
-            st.write("---")
+        st.write(
+            f"**Category:** {self.cid_to_category.get(result.cid, 'Unknown Category')}"
+        )
 
     def run(self):
         self.initialize()
-        self.primary_search()
-        if not self.eid:
+        word = st.text_input("Enter a word to search:")
+        random_word = st.button("Select a Random Word")
+        if random_word:
+            selection = random.choice(list(self.eid_to_data.values()))
+            translation = Translation(**selection)
+            self.display_result(translation)
             return
-
-        elif self.primary_result:
-            self.display_primary_result()
+        if not word:
             return
-
-        elif len(self.eid) >= 3:
-            st.write("No exact match found. Searching for similar entries...")
-            self.secondary_search()
-            if self.alternative_results:
-                self.display_alternative_results()
-            else:
-                st.write("No similar entries found. Please try a different word.")
+        eid, primary_result, alternatives = self.search(word)
+        if primary_result:
+            st.markdown("## Primary Result")
+            self.display_result(primary_result)
+        elif len(eid) >= 3:
+            st.write("No exact match found.")
+            if alternatives:
+                st.markdown("## Alternative Results")
+                st.markdown(f"### Words that contain '{eid}':")
+                for result in alternatives:
+                    self.display_result(result)
+                    st.markdown("---")
         else:
             st.write("No match found. Please try a different word.")
 

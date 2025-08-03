@@ -3,3 +3,5 @@
 /__pycache__
 /parsed_data.json
 /raw_data.json
+/z__test.py
+/english_words.json

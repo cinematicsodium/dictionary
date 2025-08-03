@@ -32,14 +32,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
     },
     "eid_to_data": {
         "abaloneshell": {
-            "CID": "C003",
-            "EID": "abaloneshell",
+            "cid": "C003",
+            "eid": "abaloneshell",
             "english": "abalone shell",
             "mescalero": {"literal_translations": [], "words": ["díchilį́"]},
         },
         "abdomen": {
-            "CID": "C001",
-            "EID": "abdomen",
+            "cid": "C001",
+            "eid": "abdomen",
             "english": "abdomen",
             "mescalero": {
                 "literal_translations": ["around the navel"],
@@ -47,8 +47,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "aboutaroundus": {
-            "CID": "C001",
-            "EID": "aboutaroundus",
+            "cid": "C001",
+            "eid": "aboutaroundus",
             "english": "about around us",
             "mescalero": {
                 "literal_translations": [],
@@ -56,8 +56,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "abovelaluz": {
-            "CID": "C001",
-            "EID": "abovelaluz",
+            "cid": "C001",
+            "eid": "abovelaluz",
             "english": "above laluz",
             "mescalero": {
                 "literal_translations": ["yellow emerging"],
@@ -65,8 +65,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "aboveredcabinn": {
-            "CID": "C001",
-            "EID": "aboveredcabinn",
+            "cid": "C001",
+            "eid": "aboveredcabinn",
             "english": "above red cabin",
             "mescalero": {
                 "literal_translations": ["water is under a douglas fir tree"],
@@ -74,8 +74,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "acorn": {
-            "CID": "C004",
-            "EID": "acorn",
+            "cid": "C004",
+            "eid": "acorn",
             "english": "acorn",
             "mescalero": {
                 "literal_translations": ["the one which is yellow inside"],
@@ -83,14 +83,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "adoption": {
-            "CID": "C017",
-            "EID": "adoption",
+            "cid": "C017",
+            "eid": "adoption",
             "english": "adoption",
             "mescalero": {"literal_translations": [], "words": ["nágushńtį́"]},
         },
         "adulthoodman": {
-            "CID": "C018",
-            "EID": "adulthoodman",
+            "cid": "C018",
+            "eid": "adulthoodman",
             "english": "adulthood, man",
             "mescalero": {
                 "literal_translations": ["one became a man"],
@@ -98,8 +98,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "adulthoodwoman": {
-            "CID": "C001",
-            "EID": "adulthoodwoman",
+            "cid": "C001",
+            "eid": "adulthoodwoman",
             "english": "adulthood, woman",
             "mescalero": {
                 "literal_translations": ["one became a woman"],
@@ -107,8 +107,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "age": {
-            "CID": "C018",
-            "EID": "age",
+            "cid": "C018",
+            "eid": "age",
             "english": "age",
             "mescalero": {
                 "literal_translations": ["how many growing seasons"],
@@ -116,14 +116,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ahead": {
-            "CID": "C001",
-            "EID": "ahead",
+            "cid": "C001",
+            "eid": "ahead",
             "english": "ahead",
             "mescalero": {"literal_translations": [], "words": ["'ashan"]},
         },
         "airconditioner": {
-            "CID": "C001",
-            "EID": "airconditioner",
+            "cid": "C001",
+            "eid": "airconditioner",
             "english": "air conditioner",
             "mescalero": {
                 "literal_translations": ["something with which to make it cool"],
@@ -131,8 +131,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "airplane": {
-            "CID": "C001",
-            "EID": "airplane",
+            "cid": "C001",
+            "eid": "airplane",
             "english": "airplane",
             "mescalero": {
                 "literal_translations": ["something that flies"],
@@ -140,8 +140,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "alamogordo": {
-            "CID": "C019",
-            "EID": "alamogordo",
+            "cid": "C019",
+            "eid": "alamogordo",
             "english": "alamogordo",
             "mescalero": {
                 "literal_translations": [
@@ -152,26 +152,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "albuquerque": {
-            "CID": "C019",
-            "EID": "albuquerque",
+            "cid": "C019",
+            "eid": "albuquerque",
             "english": "albuquerque",
             "mescalero": {"literal_translations": [], "words": ["'izgégi"]},
         },
         "alfalfa": {
-            "CID": "C025",
-            "EID": "alfalfa",
+            "cid": "C025",
+            "eid": "alfalfa",
             "english": "alfalfa",
             "mescalero": {"literal_translations": [], "words": ["łį́ bitł'u nánt'í'í"]},
         },
         "algae": {
-            "CID": "C025",
-            "EID": "algae",
+            "cid": "C025",
+            "eid": "algae",
             "english": "algae",
             "mescalero": {"literal_translations": [], "words": ["dlááí"]},
         },
         "algerita": {
-            "CID": "C025",
-            "EID": "algerita",
+            "cid": "C025",
+            "eid": "algerita",
             "english": "algerita",
             "mescalero": {
                 "literal_translations": ["yellow bark tree"],
@@ -179,20 +179,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "allover": {
-            "CID": "C020",
-            "EID": "allover",
+            "cid": "C020",
+            "eid": "allover",
             "english": "all over",
             "mescalero": {"literal_translations": [], "words": ["áłík'eenya"]},
         },
         "always": {
-            "CID": "C020",
-            "EID": "always",
+            "cid": "C020",
+            "eid": "always",
             "english": "always",
             "mescalero": {"literal_translations": [], "words": ["dákuji"]},
         },
         "amarillotexas": {
-            "CID": "C019",
-            "EID": "amarillotexas",
+            "cid": "C019",
+            "eid": "amarillotexas",
             "english": "amarillo, texas",
             "mescalero": {
                 "literal_translations": ["white on hilltop", "yellow on hilltop"],
@@ -200,8 +200,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ancestors": {
-            "CID": "C017",
-            "EID": "ancestors",
+            "cid": "C017",
+            "eid": "ancestors",
             "english": "ancestors",
             "mescalero": {
                 "literal_translations": ["relatives of long ago"],
@@ -209,14 +209,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "angel": {
-            "CID": "C020",
-            "EID": "angel",
+            "cid": "C020",
+            "eid": "angel",
             "english": "angel",
             "mescalero": {"literal_translations": [], "words": ["ndé nájiishch'íní"]},
         },
         "ankle": {
-            "CID": "C006",
-            "EID": "ankle",
+            "cid": "C006",
+            "eid": "ankle",
             "english": "ankle",
             "mescalero": {
                 "literal_translations": ["foot bone"],
@@ -224,8 +224,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ankletendon": {
-            "CID": "C006",
-            "EID": "ankletendon",
+            "cid": "C006",
+            "eid": "ankletendon",
             "english": "ankle tendon",
             "mescalero": {
                 "literal_translations": ["foot tendon"],
@@ -233,62 +233,62 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "antelope": {
-            "CID": "C002",
-            "EID": "antelope",
+            "cid": "C002",
+            "eid": "antelope",
             "english": "antelope",
             "mescalero": {"literal_translations": [], "words": ["ch'ilaé"]},
         },
         "antelopedoe": {
-            "CID": "C002",
-            "EID": "antelopedoe",
+            "cid": "C002",
+            "eid": "antelopedoe",
             "english": "antelope doe",
             "mescalero": {"literal_translations": [], "words": ["ch'ilaétsaye"]},
         },
         "antelopemeat": {
-            "CID": "C004",
-            "EID": "antelopemeat",
+            "cid": "C004",
+            "eid": "antelopemeat",
             "english": "antelope meat",
             "mescalero": {"literal_translations": [], "words": ["ch'ilaé bitsį"]},
         },
         "any": {
-            "CID": "C020",
-            "EID": "any",
+            "cid": "C020",
+            "eid": "any",
             "english": "any",
             "mescalero": {"literal_translations": [], "words": ["įi'"]},
         },
         "anytime": {
-            "CID": "C020",
-            "EID": "anytime",
+            "cid": "C020",
+            "eid": "anytime",
             "english": "anytime",
             "mescalero": {"literal_translations": [], "words": ["daxa'e'"]},
         },
         "apachebananasoapweedfruit": {
-            "CID": "C004",
-            "EID": "apachebananasoapweedfruit",
+            "cid": "C004",
+            "eid": "apachebananasoapweedfruit",
             "english": "apache banana; soap weed fruit",
             "mescalero": {"literal_translations": [], "words": ["gushk'ane"]},
         },
         "apachecabbageyuccablooms": {
-            "CID": "C004",
-            "EID": "apachecabbageyuccablooms",
+            "cid": "C004",
+            "eid": "apachecabbageyuccablooms",
             "english": "apache cabbage; yucca blooms",
             "mescalero": {"literal_translations": [], "words": ["'iigaa'{"]},
         },
         "apachedumplings": {
-            "CID": "C004",
-            "EID": "apachedumplings",
+            "cid": "C004",
+            "eid": "apachedumplings",
             "english": "apache dumplings",
             "mescalero": {"literal_translations": [], "words": ["da'hanája'{"]},
         },
         "apachehominy": {
-            "CID": "C004",
-            "EID": "apachehominy",
+            "cid": "C004",
+            "eid": "apachehominy",
             "english": "apache hominy",
             "mescalero": {"literal_translations": [], "words": ["dishį́je'"]},
         },
         "apachemattress": {
-            "CID": "C003",
-            "EID": "apachemattress",
+            "cid": "C003",
+            "eid": "apachemattress",
             "english": "apache mattress",
             "mescalero": {
                 "literal_translations": ["weed bed"],
@@ -296,14 +296,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "apachemush": {
-            "CID": "C004",
-            "EID": "apachemush",
+            "cid": "C004",
+            "eid": "apachemush",
             "english": "apache mush",
             "mescalero": {"literal_translations": [], "words": ["'itį'ánaasadidze"]},
         },
         "apachepotato": {
-            "CID": "C025",
-            "EID": "apachepotato",
+            "cid": "C025",
+            "eid": "apachepotato",
             "english": "apache potato",
             "mescalero": {
                 "literal_translations": ["peeling medicine"],
@@ -311,8 +311,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "apachesachet": {
-            "CID": "C025",
-            "EID": "apachesachet",
+            "cid": "C025",
+            "eid": "apachesachet",
             "english": "apache sachet",
             "mescalero": {
                 "literal_translations": ["a mint with purple flowers"],
@@ -320,20 +320,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "apachesoup": {
-            "CID": "C004",
-            "EID": "apachesoup",
+            "cid": "C004",
+            "eid": "apachesoup",
             "english": "apache soup",
             "mescalero": {"literal_translations": [], "words": ["táał, 'itu'"]},
         },
         "apachespinach": {
-            "CID": "C004",
-            "EID": "apachespinach",
+            "cid": "C004",
+            "eid": "apachespinach",
             "english": "apache spinach",
             "mescalero": {"literal_translations": ["a leaf"], "words": ["'it'ą'"]},
         },
         "apachesummito": {
-            "CID": "C026",
-            "EID": "apachesummito",
+            "cid": "C026",
+            "eid": "apachesummito",
             "english": "apache summit",
             "mescalero": {
                 "literal_translations": ["where the road goes over the mountain"],
@@ -341,14 +341,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "apachetortillas": {
-            "CID": "C004",
-            "EID": "apachetortillas",
+            "cid": "C004",
+            "eid": "apachetortillas",
             "english": "apache tortillas",
             "mescalero": {"literal_translations": [], "words": ["tseguut'ei'"]},
         },
         "appaloosa": {
-            "CID": "C002",
-            "EID": "appaloosa",
+            "cid": "C002",
+            "eid": "appaloosa",
             "english": "appaloosa",
             "mescalero": {
                 "literal_translations": ["spotted horse"],
@@ -356,32 +356,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "apple": {
-            "CID": "C001",
-            "EID": "apple",
+            "cid": "C001",
+            "eid": "apple",
             "english": "apple",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["mansána"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["mansána"]},
         },
         "apples": {
-            "CID": "C001",
-            "EID": "apples",
+            "cid": "C001",
+            "eid": "apples",
             "english": "apples",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["mansána"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["mansána"]},
         },
         "apricot": {
-            "CID": "C029",
-            "EID": "apricot",
+            "cid": "C029",
+            "eid": "apricot",
             "english": "apricot",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["'ligúugis"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["'ligúugis"]},
         },
         "apricots": {
-            "CID": "C014",
-            "EID": "apricots",
+            "cid": "C014",
+            "eid": "apricots",
             "english": "apricots",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["'izguugis"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["'izguugis"]},
         },
         "april": {
-            "CID": "C022",
-            "EID": "april",
+            "cid": "C022",
+            "eid": "april",
             "english": "april",
             "mescalero": {
                 "literal_translations": ["it is beginning to bud again"],
@@ -389,8 +389,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ariddrydesert": {
-            "CID": "C007",
-            "EID": "ariddrydesert",
+            "cid": "C007",
+            "eid": "ariddrydesert",
             "english": "arid dry desert",
             "mescalero": {
                 "literal_translations": ["dry land"],
@@ -398,14 +398,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "arm": {
-            "CID": "C006",
-            "EID": "arm",
+            "cid": "C006",
+            "eid": "arm",
             "english": "arm",
             "mescalero": {"literal_translations": [], "words": ["-gane"]},
         },
         "arrow": {
-            "CID": "C003",
-            "EID": "arrow",
+            "cid": "C003",
+            "eid": "arrow",
             "english": "arrow",
             "mescalero": {
                 "literal_translations": [],
@@ -413,20 +413,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "arrowhead": {
-            "CID": "C003",
-            "EID": "arrowhead",
+            "cid": "C003",
+            "eid": "arrowhead",
             "english": "arrowhead",
             "mescalero": {"literal_translations": [], "words": ["ma'ítt'ús"]},
         },
         "arroyo": {
-            "CID": "C001",
-            "EID": "arroyo",
+            "cid": "C001",
+            "eid": "arroyo",
             "english": "arroyo",
             "mescalero": {"literal_translations": [], "words": ["gun'a"]},
         },
         "ashes": {
-            "CID": "C008",
-            "EID": "ashes",
+            "cid": "C008",
+            "eid": "ashes",
             "english": "ashes",
             "mescalero": {
                 "literal_translations": [],
@@ -434,8 +434,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "aspen": {
-            "CID": "C029",
-            "EID": "aspen",
+            "cid": "C029",
+            "eid": "aspen",
             "english": "aspen",
             "mescalero": {
                 "literal_translations": ["round leaf"],
@@ -443,8 +443,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "august": {
-            "CID": "C022",
-            "EID": "august",
+            "cid": "C022",
+            "eid": "august",
             "english": "august",
             "mescalero": {
                 "literal_translations": ["everything has ripened"],
@@ -452,14 +452,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "autumn": {
-            "CID": "C022",
-            "EID": "autumn",
+            "cid": "C022",
+            "eid": "autumn",
             "english": "autumn",
             "mescalero": {"literal_translations": [], "words": ["dąąk'e"]},
         },
         "awlholder": {
-            "CID": "C003",
-            "EID": "awlholder",
+            "cid": "C003",
+            "eid": "awlholder",
             "english": "awl holder",
             "mescalero": {
                 "literal_translations": ["needle bag"],
@@ -467,8 +467,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "axe": {
-            "CID": "C003",
-            "EID": "axe",
+            "cid": "C003",
+            "eid": "axe",
             "english": "axe",
             "mescalero": {
                 "literal_translations": [],
@@ -476,8 +476,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "axelgrease": {
-            "CID": "C021",
-            "EID": "axelgrease",
+            "cid": "C021",
+            "eid": "axelgrease",
             "english": "axel grease",
             "mescalero": {
                 "literal_translations": ["that with which one greases wagon wheels"],
@@ -485,32 +485,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "babyfinger": {
-            "CID": "C006",
-            "EID": "babyfinger",
+            "cid": "C006",
+            "eid": "babyfinger",
             "english": "baby finger",
             "mescalero": {"literal_translations": [], "words": ["-laazhaye"]},
         },
         "babyhood": {
-            "CID": "C018",
-            "EID": "babyhood",
+            "cid": "C018",
+            "eid": "babyhood",
             "english": "babyhood",
             "mescalero": {"literal_translations": [], "words": ["'ézchiné jíli"]},
         },
         "babytoe": {
-            "CID": "C006",
-            "EID": "babytoe",
+            "cid": "C006",
+            "eid": "babytoe",
             "english": "baby toe",
             "mescalero": {"literal_translations": [], "words": ["-keezhaye"]},
         },
         "back": {
-            "CID": "C006",
-            "EID": "back",
+            "cid": "C006",
+            "eid": "back",
             "english": "back",
             "mescalero": {"literal_translations": [], "words": ["-kangha"]},
         },
         "backhoe": {
-            "CID": "C021",
-            "EID": "backhoe",
+            "cid": "C021",
+            "eid": "backhoe",
             "english": "back hoe",
             "mescalero": {
                 "literal_translations": ["that with which one digs around"],
@@ -518,8 +518,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "backofhead": {
-            "CID": "C006",
-            "EID": "backofhead",
+            "cid": "C006",
+            "eid": "backofhead",
             "english": "back of head",
             "mescalero": {
                 "literal_translations": ["nape of neck"],
@@ -527,20 +527,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "backoftentteepee": {
-            "CID": "C003",
-            "EID": "backoftentteepee",
+            "cid": "C003",
+            "eid": "backoftentteepee",
             "english": "back of tent, teepee",
             "mescalero": {"literal_translations": [], "words": ["'ichísht'aya"]},
         },
         "bacon": {
-            "CID": "C014",
-            "EID": "bacon",
+            "cid": "C014",
+            "eid": "bacon",
             "english": "bacon",
             "mescalero": {"literal_translations": ["pig"], "words": ["gúuchi"]},
         },
         "bacongrease": {
-            "CID": "C014",
-            "EID": "bacongrease",
+            "cid": "C014",
+            "eid": "bacongrease",
             "english": "bacon grease",
             "mescalero": {
                 "literal_translations": ["pig fat"],
@@ -548,8 +548,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "badger": {
-            "CID": "C002",
-            "EID": "badger",
+            "cid": "C002",
+            "eid": "badger",
             "english": "badger",
             "mescalero": {
                 "literal_translations": ["digger"],
@@ -557,8 +557,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bailer": {
-            "CID": "C021",
-            "EID": "bailer",
+            "cid": "C021",
+            "eid": "bailer",
             "english": "bailer",
             "mescalero": {
                 "literal_translations": ["that which ties plants"],
@@ -566,14 +566,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bakingpowder": {
-            "CID": "C014",
-            "EID": "bakingpowder",
+            "cid": "C014",
+            "eid": "bakingpowder",
             "english": "baking powder",
             "mescalero": {"literal_translations": [], "words": ["beenáániiyuz"]},
         },
         "banana": {
-            "CID": "C014",
-            "EID": "banana",
+            "cid": "C014",
+            "eid": "banana",
             "english": "banana",
             "mescalero": {
                 "literal_translations": ["white man's banana"],
@@ -581,23 +581,23 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bandana": {
-            "CID": "C001",
-            "EID": "bandana",
+            "cid": "C001",
+            "eid": "bandana",
             "english": "bandana",
             "mescalero": {
-                "literal_translations": ["Spanish"],
+                "literal_translations": ["(via Spanish)"],
                 "words": ["tsį k'édeesdfsí bąąyu"],
             },
         },
         "bank": {
-            "CID": "C011",
-            "EID": "bank",
+            "cid": "C011",
+            "eid": "bank",
             "english": "bank",
             "mescalero": {"literal_translations": [], "words": ["bis"]},
         },
         "bark": {
-            "CID": "C029",
-            "EID": "bark",
+            "cid": "C029",
+            "eid": "bark",
             "english": "bark",
             "mescalero": {
                 "literal_translations": [],
@@ -605,14 +605,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "barn": {
-            "CID": "C020",
-            "EID": "barn",
+            "cid": "C020",
+            "eid": "barn",
             "english": "barn",
             "mescalero": {"literal_translations": [], "words": ["į bighą"]},
         },
         "barrett": {
-            "CID": "C003",
-            "EID": "barrett",
+            "cid": "C003",
+            "eid": "barrett",
             "english": "barrett",
             "mescalero": {
                 "literal_translations": ["the thing to put hair on"],
@@ -620,20 +620,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bat": {
-            "CID": "C002",
-            "EID": "bat",
+            "cid": "C002",
+            "eid": "bat",
             "english": "bat",
             "mescalero": {"literal_translations": [], "words": ["jańsht'ude"]},
         },
         "bead": {
-            "CID": "C003",
-            "EID": "bead",
+            "cid": "C003",
+            "eid": "bead",
             "english": "bead",
             "mescalero": {"literal_translations": [], "words": ["yuu'"]},
         },
         "beaddesigns": {
-            "CID": "C003",
-            "EID": "beaddesigns",
+            "cid": "C003",
+            "eid": "beaddesigns",
             "english": "bead designs",
             "mescalero": {
                 "literal_translations": [],
@@ -641,8 +641,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "beadedbag": {
-            "CID": "C003",
-            "EID": "beadedbag",
+            "cid": "C003",
+            "eid": "beadedbag",
             "english": "beaded bag",
             "mescalero": {
                 "literal_translations": [],
@@ -650,8 +650,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "beadedbelt": {
-            "CID": "C003",
-            "EID": "beadedbelt",
+            "cid": "C003",
+            "eid": "beadedbelt",
             "english": "beaded belt",
             "mescalero": {
                 "literal_translations": ["belt woven with beads"],
@@ -659,8 +659,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "beadingbeads": {
-            "CID": "C003",
-            "EID": "beadingbeads",
+            "cid": "C003",
+            "eid": "beadingbeads",
             "english": "beading beads",
             "mescalero": {
                 "literal_translations": [],
@@ -668,8 +668,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bear": {
-            "CID": "C002",
-            "EID": "bear",
+            "cid": "C002",
+            "eid": "bear",
             "english": "bear",
             "mescalero": {
                 "literal_translations": ["wide feet (Chiricahua)"],
@@ -677,8 +677,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bearsprings": {
-            "CID": "C026",
-            "EID": "bearsprings",
+            "cid": "C026",
+            "eid": "bearsprings",
             "english": "bear spring",
             "mescalero": {
                 "literal_translations": [],
@@ -686,14 +686,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "beaver": {
-            "CID": "C002",
-            "EID": "beaver",
+            "cid": "C002",
+            "eid": "beaver",
             "english": "beaver",
             "mescalero": {"literal_translations": [], "words": ["cháá"]},
         },
         "because": {
-            "CID": "C020",
-            "EID": "because",
+            "cid": "C020",
+            "eid": "because",
             "english": "because",
             "mescalero": {
                 "literal_translations": ["because of it"],
@@ -701,8 +701,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bedroomslippers": {
-            "CID": "C023",
-            "EID": "bedroomslippers",
+            "cid": "C023",
+            "eid": "bedroomslippers",
             "english": "bedroom slippers",
             "mescalero": {
                 "literal_translations": ["shoes that slip on"],
@@ -710,44 +710,44 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bee": {
-            "CID": "C001",
-            "EID": "bee",
+            "cid": "C001",
+            "eid": "bee",
             "english": "bee",
             "mescalero": {"literal_translations": [], "words": ["ts'įsanda"]},
         },
         "beefguts": {
-            "CID": "C014",
-            "EID": "beefguts",
+            "cid": "C014",
+            "eid": "beefguts",
             "english": "beef guts",
             "mescalero": {"literal_translations": [], "words": ["'ich'ii'"]},
         },
         "beefkidneys": {
-            "CID": "C014",
-            "EID": "beefkidneys",
+            "cid": "C014",
+            "eid": "beefkidneys",
             "english": "beef kidneys",
             "mescalero": {"literal_translations": [], "words": ["'itságsushch'uje"]},
         },
         "beefliver": {
-            "CID": "C014",
-            "EID": "beefliver",
+            "cid": "C014",
+            "eid": "beefliver",
             "english": "beef liver",
             "mescalero": {"literal_translations": [], "words": ["'izide"]},
         },
         "beeftongue": {
-            "CID": "C014",
-            "EID": "beeftongue",
+            "cid": "C014",
+            "eid": "beeftongue",
             "english": "beef tongue",
             "mescalero": {"literal_translations": [], "words": ["'izaade"]},
         },
         "beeftripe": {
-            "CID": "C014",
-            "EID": "beeftripe",
+            "cid": "C014",
+            "eid": "beeftripe",
             "english": "beef tripe",
             "mescalero": {"literal_translations": [], "words": ["'ich'ighade"]},
         },
         "beetle": {
-            "CID": "C016",
-            "EID": "beetle",
+            "cid": "C016",
+            "eid": "beetle",
             "english": "beetle",
             "mescalero": {
                 "literal_translations": ["a bug with a hard cover"],
@@ -755,8 +755,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "beliefs": {
-            "CID": "C020",
-            "EID": "beliefs",
+            "cid": "C020",
+            "eid": "beliefs",
             "english": "beliefs",
             "mescalero": {
                 "literal_translations": ["what one believes in, he believes in it"],
@@ -764,8 +764,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bells": {
-            "CID": "C003",
-            "EID": "bells",
+            "cid": "C003",
+            "eid": "bells",
             "english": "bells",
             "mescalero": {
                 "literal_translations": ["metal that rings"],
@@ -773,20 +773,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "belt": {
-            "CID": "C023",
-            "EID": "belt",
+            "cid": "C023",
+            "eid": "belt",
             "english": "belt",
             "mescalero": {"literal_translations": [], "words": ["sis"]},
         },
         "bent": {
-            "CID": "C001",
-            "EID": "bent",
+            "cid": "C001",
+            "eid": "bent",
             "english": "bent",
             "mescalero": {"literal_translations": ["it is bent"], "words": ["'úúts'ų"]},
         },
         "best": {
-            "CID": "C020",
-            "EID": "best",
+            "cid": "C020",
+            "eid": "best",
             "english": "best",
             "mescalero": {
                 "literal_translations": ["the best thing"],
@@ -794,8 +794,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "better": {
-            "CID": "C020",
-            "EID": "better",
+            "cid": "C020",
+            "eid": "better",
             "english": "better",
             "mescalero": {
                 "literal_translations": ["it is better"],
@@ -803,8 +803,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "betweenteeth": {
-            "CID": "C006",
-            "EID": "betweenteeth",
+            "cid": "C006",
+            "eid": "betweenteeth",
             "english": "between teeth",
             "mescalero": {
                 "literal_translations": [],
@@ -812,8 +812,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bicycle": {
-            "CID": "C021",
-            "EID": "bicycle",
+            "cid": "C021",
+            "eid": "bicycle",
             "english": "bicycle",
             "mescalero": {
                 "literal_translations": [
@@ -823,8 +823,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "big": {
-            "CID": "C027",
-            "EID": "big",
+            "cid": "C027",
+            "eid": "big",
             "english": "big",
             "mescalero": {
                 "literal_translations": ["it is big", "it is thick"],
@@ -832,8 +832,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bigdipper": {
-            "CID": "C011",
-            "EID": "bigdipper",
+            "cid": "C011",
+            "eid": "bigdipper",
             "english": "big dipper",
             "mescalero": {
                 "literal_translations": ["that which changes position"],
@@ -841,14 +841,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bigtoe": {
-            "CID": "C006",
-            "EID": "bigtoe",
+            "cid": "C006",
+            "eid": "bigtoe",
             "english": "big toe",
             "mescalero": {"literal_translations": [], "words": ["-kétsu"]},
         },
         "birth": {
-            "CID": "C018",
-            "EID": "birth",
+            "cid": "C018",
+            "eid": "birth",
             "english": "birth",
             "mescalero": {
                 "literal_translations": ["one has been born"],
@@ -856,8 +856,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "birthplace": {
-            "CID": "C018",
-            "EID": "birthplace",
+            "cid": "C018",
+            "eid": "birthplace",
             "english": "birthplace",
             "mescalero": {
                 "literal_translations": [],
@@ -865,8 +865,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "biscuits": {
-            "CID": "C014",
-            "EID": "biscuits",
+            "cid": "C014",
+            "eid": "biscuits",
             "english": "biscuits",
             "mescalero": {
                 "literal_translations": ["round bread"],
@@ -874,8 +874,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bit": {
-            "CID": "C028",
-            "EID": "bit",
+            "cid": "C028",
+            "eid": "bit",
             "english": "bit",
             "mescalero": {
                 "literal_translations": ["that which sticks in a horse's mouth"],
@@ -883,35 +883,35 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "black": {
-            "CID": "C001",
-            "EID": "black",
+            "cid": "C001",
+            "eid": "black",
             "english": "black",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["ízhi", "díxzi"],
             },
         },
         "blackant": {
-            "CID": "C016",
-            "EID": "blackant",
+            "cid": "C016",
+            "eid": "blackant",
             "english": "black ant",
             "mescalero": {"literal_translations": [], "words": ["gúúzhine"]},
         },
         "blackbird": {
-            "CID": "C001",
-            "EID": "blackbird",
+            "cid": "C001",
+            "eid": "blackbird",
             "english": "blackbird",
             "mescalero": {"literal_translations": [], "words": ["ch'aade"]},
         },
         "blackhandkerchief": {
-            "CID": "C003",
-            "EID": "blackhandkerchief",
+            "cid": "C003",
+            "eid": "blackhandkerchief",
             "english": "black handkerchief",
             "mescalero": {"literal_translations": [], "words": ["'iib'ízhiní"]},
         },
         "blackmountainc": {
-            "CID": "C026",
-            "EID": "blackmountainc",
+            "cid": "C026",
+            "eid": "blackmountainc",
             "english": "black mountain ",
             "mescalero": {
                 "literal_translations": ["metal rock is jutting out"],
@@ -919,8 +919,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "blacksmith": {
-            "CID": "C001",
-            "EID": "blacksmith",
+            "cid": "C001",
+            "eid": "blacksmith",
             "english": "blacksmith",
             "mescalero": {
                 "literal_translations": ["one who pounds metal"],
@@ -928,26 +928,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "blackwalnut": {
-            "CID": "C014",
-            "EID": "blackwalnut",
+            "cid": "C014",
+            "eid": "blackwalnut",
             "english": "black walnut",
             "mescalero": {"literal_translations": [], "words": ["haatsédé"]},
         },
         "bladder": {
-            "CID": "C006",
-            "EID": "bladder",
+            "cid": "C006",
+            "eid": "bladder",
             "english": "bladder",
             "mescalero": {"literal_translations": [], "words": ["-yeeltł'ijí"]},
         },
         "blanket": {
-            "CID": "C020",
-            "EID": "blanket",
+            "cid": "C020",
+            "eid": "blanket",
             "english": "blanket",
             "mescalero": {"literal_translations": [], "words": ["biíle, ch'íde"]},
         },
         "blossoms": {
-            "CID": "C029",
-            "EID": "blossoms",
+            "cid": "C029",
+            "eid": "blossoms",
             "english": "blossoms",
             "mescalero": {
                 "literal_translations": ["tree blooms", "flowers"],
@@ -955,8 +955,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "blowingsnow": {
-            "CID": "C007",
-            "EID": "blowingsnow",
+            "cid": "C007",
+            "eid": "blowingsnow",
             "english": "blowing snow",
             "mescalero": {
                 "literal_translations": ["it is starting to blow snow"],
@@ -964,26 +964,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "blue": {
-            "CID": "C008",
-            "EID": "blue",
+            "cid": "C008",
+            "eid": "blue",
             "english": "blue",
             "mescalero": {"literal_translations": [], "words": ["datł'ish"]},
         },
         "bluebird": {
-            "CID": "C005",
-            "EID": "bluebird",
+            "cid": "C005",
+            "eid": "bluebird",
             "english": "bluebird",
             "mescalero": {"literal_translations": [], "words": ["'izháshe datł'ijí"]},
         },
         "bluejay": {
-            "CID": "C005",
-            "EID": "bluejay",
+            "cid": "C005",
+            "eid": "bluejay",
             "english": "bluejay",
             "mescalero": {"literal_translations": [], "words": ["kų́yshe"]},
         },
         "bluelizard": {
-            "CID": "C001",
-            "EID": "bluelizard",
+            "cid": "C001",
+            "eid": "bluelizard",
             "english": "blue lizard",
             "mescalero": {
                 "literal_translations": ["it runs into the rectum"],
@@ -991,8 +991,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bluespruce": {
-            "CID": "C029",
-            "EID": "bluespruce",
+            "cid": "C029",
+            "eid": "bluespruce",
             "english": "blue spruce",
             "mescalero": {
                 "literal_translations": ["stickery fir"],
@@ -1000,8 +1000,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "boatshipraft": {
-            "CID": "C021",
-            "EID": "boatshipraft",
+            "cid": "C021",
+            "eid": "boatshipraft",
             "english": "boat ship raft",
             "mescalero": {
                 "literal_translations": ["wood that floats"],
@@ -1009,32 +1009,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bobcat": {
-            "CID": "C002",
-            "EID": "bobcat",
+            "cid": "C002",
+            "eid": "bobcat",
             "english": "bobcat",
             "mescalero": {"literal_translations": [], "words": ["maaghíde"]},
         },
         "bobwhite": {
-            "CID": "C005",
-            "EID": "bobwhite",
+            "cid": "C005",
+            "eid": "bobwhite",
             "english": "bobwhite",
             "mescalero": {"literal_translations": [], "words": ["chushtł'ázhine"]},
         },
         "bodyodor": {
-            "CID": "C006",
-            "EID": "bodyodor",
+            "cid": "C006",
+            "eid": "bodyodor",
             "english": "body odor",
             "mescalero": {"literal_translations": [], "words": ["k'úsh"]},
         },
         "boiledmeat": {
-            "CID": "C004",
-            "EID": "boiledmeat",
+            "cid": "C004",
+            "eid": "boiledmeat",
             "english": "boiled meat",
             "mescalero": {"literal_translations": [], "words": ["'itsį́shbéjé"]},
         },
         "bolotie": {
-            "CID": "C003",
-            "EID": "bolotie",
+            "cid": "C003",
+            "eid": "bolotie",
             "english": "bolo tie",
             "mescalero": {
                 "literal_translations": ["man's necklace"],
@@ -1042,8 +1042,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bone": {
-            "CID": "C001",
-            "EID": "bone",
+            "cid": "C001",
+            "eid": "bone",
             "english": "bone",
             "mescalero": {
                 "literal_translations": [],
@@ -1051,14 +1051,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bonebeads": {
-            "CID": "C003",
-            "EID": "bonebeads",
+            "cid": "C003",
+            "eid": "bonebeads",
             "english": "bone beads",
             "mescalero": {"literal_translations": [], "words": ["yuuts'ine"]},
         },
         "born": {
-            "CID": "C018",
-            "EID": "born",
+            "cid": "C018",
+            "eid": "born",
             "english": "born",
             "mescalero": {
                 "literal_translations": ["one came into being"],
@@ -1066,8 +1066,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bow": {
-            "CID": "C003",
-            "EID": "bow",
+            "cid": "C003",
+            "eid": "bow",
             "english": "bow",
             "mescalero": {
                 "literal_translations": ["it shoots arrows"],
@@ -1075,14 +1075,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bracelet": {
-            "CID": "C003",
-            "EID": "bracelet",
+            "cid": "C003",
+            "eid": "bracelet",
             "english": "bracelet",
             "mescalero": {"literal_translations": [], "words": ["laatsiné"]},
         },
         "braided": {
-            "CID": "C027",
-            "EID": "braided",
+            "cid": "C027",
+            "eid": "braided",
             "english": "braided",
             "mescalero": {
                 "literal_translations": ["it is braided"],
@@ -1090,20 +1090,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "braidedhair": {
-            "CID": "C003",
-            "EID": "braidedhair",
+            "cid": "C003",
+            "eid": "braidedhair",
             "english": "braided hair",
             "mescalero": {"literal_translations": [], "words": ["tsigáh hishbish"]},
         },
         "brain": {
-            "CID": "C006",
-            "EID": "brain",
+            "cid": "C006",
+            "eid": "brain",
             "english": "brain",
             "mescalero": {"literal_translations": [], "words": ["'eełtłaye"]},
         },
         "brakes": {
-            "CID": "C021",
-            "EID": "brakes",
+            "cid": "C021",
+            "eid": "brakes",
             "english": "brakes",
             "mescalero": {
                 "literal_translations": ["that with which to stop"],
@@ -1111,8 +1111,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "branches": {
-            "CID": "C029",
-            "EID": "branches",
+            "cid": "C029",
+            "eid": "branches",
             "english": "branches",
             "mescalero": {
                 "literal_translations": ["sticking out from trees"],
@@ -1120,8 +1120,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "brandingiron": {
-            "CID": "C028",
-            "EID": "brandingiron",
+            "cid": "C028",
+            "eid": "brandingiron",
             "english": "branding iron",
             "mescalero": {
                 "literal_translations": ["something with which to burn it"],
@@ -1129,50 +1129,50 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bread": {
-            "CID": "C014",
-            "EID": "bread",
+            "cid": "C014",
+            "eid": "bread",
             "english": "bread",
             "mescalero": {"literal_translations": [], "words": ["bán", "báaye"]},
         },
         "breadcookedintheashes": {
-            "CID": "C004",
-            "EID": "breadcookedintheashes",
+            "cid": "C004",
+            "eid": "breadcookedintheashes",
             "english": "bread cooked in the ashes",
             "mescalero": {"literal_translations": [], "words": ["łees'áń"]},
         },
         "breast": {
-            "CID": "C001",
-            "EID": "breast",
+            "cid": "C001",
+            "eid": "breast",
             "english": "breast",
             "mescalero": {"literal_translations": [], "words": ["-be'"]},
         },
         "breeze": {
-            "CID": "C007",
-            "EID": "breeze",
+            "cid": "C007",
+            "eid": "breeze",
             "english": "breeze",
             "mescalero": {"literal_translations": [], "words": ["ńích'į́'į́"]},
         },
         "bridle": {
-            "CID": "C003",
-            "EID": "bridle",
+            "cid": "C003",
+            "eid": "bridle",
             "english": "bridle",
             "mescalero": {"literal_translations": [], "words": ["zí bizee'.siláí"]},
         },
         "broadleaftree": {
-            "CID": "C029",
-            "EID": "broadleaftree",
+            "cid": "C029",
+            "eid": "broadleaftree",
             "english": "broad leaf tree",
             "mescalero": {"literal_translations": [], "words": ["tsį bit'ąą ntcezí"]},
         },
         "bronzecopper": {
-            "CID": "C008",
-            "EID": "bronzecopper",
+            "cid": "C008",
+            "eid": "bronzecopper",
             "english": "bronze; copper",
             "mescalero": {"literal_translations": [], "words": ["bésh zitu'í"]},
         },
         "buckdeer": {
-            "CID": "C002",
-            "EID": "buckdeer",
+            "cid": "C002",
+            "eid": "buckdeer",
             "english": "buck deer",
             "mescalero": {
                 "literal_translations": ["big deer"],
@@ -1180,14 +1180,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "buckeye": {
-            "CID": "C025",
-            "EID": "buckeye",
+            "cid": "C025",
+            "eid": "buckeye",
             "english": "buckeye",
             "mescalero": {"literal_translations": [], "words": ["biį́tsu bináa'"]},
         },
         "buckle": {
-            "CID": "C023",
-            "EID": "buckle",
+            "cid": "C023",
+            "eid": "buckle",
             "english": "buckle",
             "mescalero": {
                 "literal_translations": ["that with which a belt is fastened"],
@@ -1195,14 +1195,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "buckskindress": {
-            "CID": "C003",
-            "EID": "buckskindress",
+            "cid": "C003",
+            "eid": "buckskindress",
             "english": "buckskin dress",
             "mescalero": {"literal_translations": [], "words": ["'eutsa"]},
         },
         "buffalo": {
-            "CID": "C002",
-            "EID": "buffalo",
+            "cid": "C002",
+            "eid": "buffalo",
             "english": "buffalo",
             "mescalero": {
                 "literal_translations": ["black cattle"],
@@ -1210,14 +1210,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bug": {
-            "CID": "C016",
-            "EID": "bug",
+            "cid": "C016",
+            "eid": "bug",
             "english": "bug",
             "mescalero": {"literal_translations": [], "words": ["gúúye"]},
         },
         "buggyonehorsebuckboard": {
-            "CID": "C021",
-            "EID": "buggyonehorsebuckboard",
+            "cid": "C021",
+            "eid": "buggyonehorsebuckboard",
             "english": "buggy one horse buck board",
             "mescalero": {
                 "literal_translations": ["wagon that goes fast"],
@@ -1225,14 +1225,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bulldurham": {
-            "CID": "C003",
-            "EID": "bulldurham",
+            "cid": "C003",
+            "eid": "bulldurham",
             "english": "bull durham",
             "mescalero": {"literal_translations": [], "words": ["hiidisí"]},
         },
         "bullet": {
-            "CID": "C003",
-            "EID": "bullet",
+            "cid": "C003",
+            "eid": "bullet",
             "english": "bullet",
             "mescalero": {
                 "literal_translations": [],
@@ -1240,8 +1240,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bumblebee": {
-            "CID": "C016",
-            "EID": "bumblebee",
+            "cid": "C016",
+            "eid": "bumblebee",
             "english": "bumble bee",
             "mescalero": {
                 "literal_translations": ["the bug that stings"],
@@ -1249,8 +1249,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bumpy": {
-            "CID": "C027",
-            "EID": "bumpy",
+            "cid": "C027",
+            "eid": "bumpy",
             "english": "bumpy",
             "mescalero": {
                 "literal_translations": ["it is bumpy"],
@@ -1258,20 +1258,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "bunkhouse": {
-            "CID": "C020",
-            "EID": "bunkhouse",
+            "cid": "C020",
+            "eid": "bunkhouse",
             "english": "bunkhouse",
             "mescalero": {"literal_translations": [], "words": ["kį biyeejijéé'į́"]},
         },
         "burdenbasket": {
-            "CID": "C003",
-            "EID": "burdenbasket",
+            "cid": "C003",
+            "eid": "burdenbasket",
             "english": "burden basket",
             "mescalero": {"literal_translations": [], "words": ["'itsiįis"]},
         },
         "burial": {
-            "CID": "C018",
-            "EID": "burial",
+            "cid": "C018",
+            "eid": "burial",
             "english": "burial",
             "mescalero": {
                 "literal_translations": ["one is going to be buried"],
@@ -1279,32 +1279,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "burntareap": {
-            "CID": "C026",
-            "EID": "burntareap",
+            "cid": "C026",
+            "eid": "burntareap",
             "english": "burnt area",
             "mescalero": {"literal_translations": [], "words": ["tu'édi dadeezhayá"]},
         },
         "butter": {
-            "CID": "C014",
-            "EID": "butter",
+            "cid": "C014",
+            "eid": "butter",
             "english": "butter",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["mandańíya"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["mandańíya"]},
         },
         "butterfly": {
-            "CID": "C016",
-            "EID": "butterfly",
+            "cid": "C016",
+            "eid": "butterfly",
             "english": "butterfly",
             "mescalero": {"literal_translations": [], "words": ["hansht'aaye"]},
         },
         "buttocks": {
-            "CID": "C001",
-            "EID": "buttocks",
+            "cid": "C001",
+            "eid": "buttocks",
             "english": "buttocks",
             "mescalero": {"literal_translations": [], "words": ["-t'łaa'"]},
         },
         "buzzard": {
-            "CID": "C005",
-            "EID": "buzzard",
+            "cid": "C005",
+            "eid": "buzzard",
             "english": "buzzard",
             "mescalero": {
                 "literal_translations": ["tame tail"],
@@ -1312,20 +1312,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cabbagelettuce": {
-            "CID": "C014",
-            "EID": "cabbagelettuce",
+            "cid": "C014",
+            "eid": "cabbagelettuce",
             "english": "cabbage, lettuce",
             "mescalero": {"literal_translations": [], "words": []},
         },
         "cactus": {
-            "CID": "C025",
-            "EID": "cactus",
+            "cid": "C025",
+            "eid": "cactus",
             "english": "cactus",
             "mescalero": {"literal_translations": [], "words": ["xush"]},
         },
         "cake": {
-            "CID": "C014",
-            "EID": "cake",
+            "cid": "C014",
+            "eid": "cake",
             "english": "cake",
             "mescalero": {
                 "literal_translations": ["sweet bread"],
@@ -1333,8 +1333,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "calendar": {
-            "CID": "C009",
-            "EID": "calendar",
+            "cid": "C009",
+            "eid": "calendar",
             "english": "calendar",
             "mescalero": {
                 "literal_translations": ["that with which you count day after day"],
@@ -1342,8 +1342,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "calf": {
-            "CID": "C001",
-            "EID": "calf",
+            "cid": "C001",
+            "eid": "calf",
             "english": "calf",
             "mescalero": {
                 "literal_translations": [],
@@ -1351,8 +1351,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "camel": {
-            "CID": "C002",
-            "EID": "camel",
+            "cid": "C002",
+            "eid": "camel",
             "english": "camel",
             "mescalero": {
                 "literal_translations": ["the horse with a humped back"],
@@ -1360,8 +1360,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "campfires": {
-            "CID": "C020",
-            "EID": "campfires",
+            "cid": "C020",
+            "eid": "campfires",
             "english": "campfires",
             "mescalero": {
                 "literal_translations": ["Apache campfires, non-Apache campfires"],
@@ -1369,14 +1369,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "candy": {
-            "CID": "C014",
-            "EID": "candy",
+            "cid": "C014",
+            "eid": "candy",
             "english": "candy",
             "mescalero": {"literal_translations": [], "words": ["gułkąade"]},
         },
         "cannedfish": {
-            "CID": "C014",
-            "EID": "cannedfish",
+            "cid": "C014",
+            "eid": "cannedfish",
             "english": "canned fish",
             "mescalero": {
                 "literal_translations": [],
@@ -1384,32 +1384,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cantaloupe": {
-            "CID": "C014",
-            "EID": "cantaloupe",
+            "cid": "C014",
+            "eid": "cantaloupe",
             "english": "cantaloupe",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["malúune"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["malúune"]},
         },
         "canyon": {
-            "CID": "C011",
-            "EID": "canyon",
+            "cid": "C011",
+            "eid": "canyon",
             "english": "canyon",
             "mescalero": {"literal_translations": [], "words": ["nágún'aya"]},
         },
         "cap": {
-            "CID": "C023",
-            "EID": "cap",
+            "cid": "C023",
+            "eid": "cap",
             "english": "cap",
             "mescalero": {"literal_translations": [], "words": ["ch'a"]},
         },
         "capitan": {
-            "CID": "C019",
-            "EID": "capitan",
+            "cid": "C019",
+            "eid": "capitan",
             "english": "capitan",
             "mescalero": {"literal_translations": [], "words": ["gabidan'"]},
         },
         "capitanmountains": {
-            "CID": "C019",
-            "EID": "capitanmountains",
+            "cid": "C019",
+            "eid": "capitanmountains",
             "english": "capitan mountains",
             "mescalero": {
                 "literal_translations": ["it is sideways"],
@@ -1417,8 +1417,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "capulinspring": {
-            "CID": "C026",
-            "EID": "capulinspring",
+            "cid": "C026",
+            "eid": "capulinspring",
             "english": "capulin spring",
             "mescalero": {
                 "literal_translations": ["grasshopper's water"],
@@ -1426,8 +1426,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "carlsbad": {
-            "CID": "C019",
-            "EID": "carlsbad",
+            "cid": "C019",
+            "eid": "carlsbad",
             "english": "carlsbad",
             "mescalero": {
                 "literal_translations": ["home of the bats"],
@@ -1435,8 +1435,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "carpickuptruck": {
-            "CID": "C021",
-            "EID": "carpickuptruck",
+            "cid": "C021",
+            "eid": "carpickuptruck",
             "english": "car pickup truck",
             "mescalero": {
                 "literal_translations": ["that which runs"],
@@ -1444,14 +1444,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "carrizon": {
-            "CID": "C026",
-            "EID": "carrizon",
+            "cid": "C026",
+            "eid": "carrizon",
             "english": "carrizo",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["galísu"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["galísu"]},
         },
         "carrizozo": {
-            "CID": "C019",
-            "EID": "carrizozo",
+            "cid": "C019",
+            "eid": "carrizozo",
             "english": "carrizozo",
             "mescalero": {
                 "literal_translations": ["spring on the flat"],
@@ -1459,8 +1459,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cartridge": {
-            "CID": "C003",
-            "EID": "cartridge",
+            "cid": "C003",
+            "eid": "cartridge",
             "english": "cartridge",
             "mescalero": {
                 "literal_translations": [],
@@ -1468,44 +1468,44 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cat": {
-            "CID": "C002",
-            "EID": "cat",
+            "cid": "C002",
+            "eid": "cat",
             "english": "cat",
             "mescalero": {
-                "literal_translations": ["Spanish"],
+                "literal_translations": ["(via Spanish)"],
                 "words": ["niishdú'ye, gáadu"],
             },
         },
         "caterpillar": {
-            "CID": "C016",
-            "EID": "caterpillar",
+            "cid": "C016",
+            "eid": "caterpillar",
             "english": "caterpillar",
             "mescalero": {"literal_translations": [], "words": ["ch'ush nantłt'u'i"]},
         },
         "cattle": {
-            "CID": "C002",
-            "EID": "cattle",
+            "cid": "C002",
+            "eid": "cattle",
             "english": "cattle",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["'iyáné, naatsílé"],
             },
         },
         "caveshaftopening": {
-            "CID": "C011",
-            "EID": "caveshaftopening",
+            "cid": "C011",
+            "eid": "caveshaftopening",
             "english": "cave shaft opening",
             "mescalero": {"literal_translations": [], "words": ["'i'ii'ane"]},
         },
         "cedar": {
-            "CID": "C029",
-            "EID": "cedar",
+            "cid": "C029",
+            "eid": "cedar",
             "english": "cedar",
             "mescalero": {"literal_translations": [], "words": ["tałé", "tał"]},
         },
         "cedarchest": {
-            "CID": "C001",
-            "EID": "cedarchest",
+            "cid": "C001",
+            "eid": "cedarchest",
             "english": "cedar chest",
             "mescalero": {
                 "literal_translations": ["Spanish, wood trunk"],
@@ -1513,14 +1513,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cedarwithblueberries": {
-            "CID": "C029",
-            "EID": "cedarwithblueberries",
+            "cid": "C029",
+            "eid": "cedarwithblueberries",
             "english": "cedar with blue berries",
             "mescalero": {"literal_translations": [], "words": ["gadéeyú"]},
         },
         "cemetary": {
-            "CID": "C026",
-            "EID": "cemetary",
+            "cid": "C026",
+            "eid": "cemetary",
             "english": "cemetary",
             "mescalero": {
                 "literal_translations": ["across the way"],
@@ -1528,20 +1528,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "centipede": {
-            "CID": "C016",
-            "EID": "centipede",
+            "cid": "C016",
+            "eid": "centipede",
             "english": "centipede",
             "mescalero": {"literal_translations": [], "words": ["kųnkeidinidiizí"]},
         },
         "ceremonial": {
-            "CID": "C003",
-            "EID": "ceremonial",
+            "cid": "C003",
+            "eid": "ceremonial",
             "english": "ceremonial",
             "mescalero": {"literal_translations": [], "words": ["'itsiįis"]},
         },
         "chair": {
-            "CID": "C015",
-            "EID": "chair",
+            "cid": "C015",
+            "eid": "chair",
             "english": "chair",
             "mescalero": {
                 "literal_translations": ["that which one sits on"],
@@ -1549,14 +1549,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "chaps": {
-            "CID": "C020",
-            "EID": "chaps",
+            "cid": "C020",
+            "eid": "chaps",
             "english": "chaps",
             "mescalero": {"literal_translations": [], "words": ["'istxee'"]},
         },
         "charcoal": {
-            "CID": "C008",
-            "EID": "charcoal",
+            "cid": "C008",
+            "eid": "charcoal",
             "english": "charcoal",
             "mescalero": {
                 "literal_translations": [],
@@ -1564,8 +1564,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "checkeredcolor": {
-            "CID": "C008",
-            "EID": "checkeredcolor",
+            "cid": "C008",
+            "eid": "checkeredcolor",
             "english": "checkered color",
             "mescalero": {
                 "literal_translations": ["squares are all over it"],
@@ -1573,14 +1573,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cheeks": {
-            "CID": "C001",
-            "EID": "cheeks",
+            "cid": "C001",
+            "eid": "cheeks",
             "english": "cheeks",
             "mescalero": {"literal_translations": [], "words": ["-niitsį'"]},
         },
         "cheese": {
-            "CID": "C014",
-            "EID": "cheese",
+            "cid": "C014",
+            "eid": "cheese",
             "english": "cheese",
             "mescalero": {
                 "literal_translations": ["mud-like milk sitting"],
@@ -1588,8 +1588,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cherokeebillq": {
-            "CID": "C026",
-            "EID": "cherokeebillq",
+            "cid": "C026",
+            "eid": "cherokeebillq",
             "english": "cherokee bill",
             "mescalero": {
                 "literal_translations": [
@@ -1599,50 +1599,50 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cherries": {
-            "CID": "C014",
-            "EID": "cherries",
+            "cid": "C014",
+            "eid": "cherries",
             "english": "cherries",
             "mescalero": {"literal_translations": [], "words": ["dzé"]},
         },
         "cherry": {
-            "CID": "C029",
-            "EID": "cherry",
+            "cid": "C029",
+            "eid": "cherry",
             "english": "cherry",
             "mescalero": {"literal_translations": [], "words": ["dze"]},
         },
         "cherryspring": {
-            "CID": "C026",
-            "EID": "cherryspring",
+            "cid": "C026",
+            "eid": "cherryspring",
             "english": "cherry spring",
             "mescalero": {"literal_translations": [], "words": ["dzé bitu'"]},
         },
         "chestinside": {
-            "CID": "C001",
-            "EID": "chestinside",
+            "cid": "C001",
+            "eid": "chestinside",
             "english": "chest (inside)",
             "mescalero": {"literal_translations": [], "words": ["-jeje"]},
         },
         "chestoutside": {
-            "CID": "C001",
-            "EID": "chestoutside",
+            "cid": "C001",
+            "eid": "chestoutside",
             "english": "chest (outside)",
             "mescalero": {"literal_translations": [], "words": ["-tele"]},
         },
         "chicken": {
-            "CID": "C002",
-            "EID": "chicken",
+            "cid": "C002",
+            "eid": "chicken",
             "english": "chicken",
             "mescalero": {"literal_translations": [], "words": ["taje'"]},
         },
         "chigger": {
-            "CID": "C016",
-            "EID": "chigger",
+            "cid": "C016",
+            "eid": "chigger",
             "english": "chigger",
             "mescalero": {"literal_translations": [], "words": ["gúútúúdé́"]},
         },
         "chihuahuacity": {
-            "CID": "C019",
-            "EID": "chihuahuacity",
+            "cid": "C019",
+            "eid": "chihuahuacity",
             "english": "chihuahua city",
             "mescalero": {
                 "literal_translations": ["numerous burrows"],
@@ -1650,8 +1650,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "child": {
-            "CID": "C017",
-            "EID": "child",
+            "cid": "C017",
+            "eid": "child",
             "english": "child",
             "mescalero": {
                 "literal_translations": ["plural"],
@@ -1659,26 +1659,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "childoftheearth": {
-            "CID": "C016",
-            "EID": "childoftheearth",
+            "cid": "C016",
+            "eid": "childoftheearth",
             "english": "child of the earth",
             "mescalero": {"literal_translations": [], "words": ["gúútsíts'ine"]},
         },
         "children": {
-            "CID": "C017",
-            "EID": "children",
+            "cid": "C017",
+            "eid": "children",
             "english": "children",
             "mescalero": {"literal_translations": [], "words": ["'échiné, 'échínnde"]},
         },
         "chipmunk": {
-            "CID": "C002",
-            "EID": "chipmunk",
+            "cid": "C002",
+            "eid": "chipmunk",
             "english": "chipmunk",
             "mescalero": {"literal_translations": [], "words": ["guste'ile"]},
         },
         "chisel": {
-            "CID": "C028",
-            "EID": "chisel",
+            "cid": "C028",
+            "eid": "chisel",
             "english": "chisel",
             "mescalero": {
                 "literal_translations": ["something with which to chop"],
@@ -1686,8 +1686,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "chokecherries": {
-            "CID": "C025",
-            "EID": "chokecherries",
+            "cid": "C025",
+            "eid": "chokecherries",
             "english": "choke cherries",
             "mescalero": {
                 "literal_translations": ["bitter cherries"],
@@ -1695,8 +1695,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "chuckbox": {
-            "CID": "C015",
-            "EID": "chuckbox",
+            "cid": "C015",
+            "eid": "chuckbox",
             "english": "chuck box",
             "mescalero": {
                 "literal_translations": ["that in which food is stored"],
@@ -1704,8 +1704,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "chuckwagon": {
-            "CID": "C021",
-            "EID": "chuckwagon",
+            "cid": "C021",
+            "eid": "chuckwagon",
             "english": "chuck wagon",
             "mescalero": {
                 "literal_translations": ["wagon that hauls food"],
@@ -1713,14 +1713,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cicada": {
-            "CID": "C016",
-            "EID": "cicada",
+            "cid": "C016",
+            "eid": "cicada",
             "english": "cicada",
             "mescalero": {"literal_translations": [], "words": ["niigushch'ide"]},
         },
         "cienegitaj": {
-            "CID": "C026",
-            "EID": "cienegitaj",
+            "cid": "C026",
+            "eid": "cienegitaj",
             "english": "cienegita",
             "mescalero": {
                 "literal_translations": ["water on hilltop"],
@@ -1728,8 +1728,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cienegitaspringj": {
-            "CID": "C026",
-            "EID": "cienegitaspringj",
+            "cid": "C026",
+            "eid": "cienegitaspringj",
             "english": "cienegita spring",
             "mescalero": {
                 "literal_translations": ["spring on top of the mountain"],
@@ -1737,8 +1737,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cinch": {
-            "CID": "C028",
-            "EID": "cinch",
+            "cid": "C028",
+            "eid": "cinch",
             "english": "cinch",
             "mescalero": {
                 "literal_translations": ["that with which a saddle is tied"],
@@ -1746,8 +1746,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "circular": {
-            "CID": "C027",
-            "EID": "circular",
+            "cid": "C027",
+            "eid": "circular",
             "english": "circular",
             "mescalero": {
                 "literal_translations": ["it is circular"],
@@ -1755,8 +1755,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cirhuelasspringj": {
-            "CID": "C026",
-            "EID": "cirhuelasspringj",
+            "cid": "C026",
+            "eid": "cirhuelasspringj",
             "english": "cirhuelas spring",
             "mescalero": {
                 "literal_translations": ["where there is a growth of wild roses"],
@@ -1764,14 +1764,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cleannotsoiled": {
-            "CID": "C020",
-            "EID": "cleannotsoiled",
+            "cid": "C020",
+            "eid": "cleannotsoiled",
             "english": "clean, not soiled",
             "mescalero": {"literal_translations": [], "words": ["chį ba'éáį́"]},
         },
         "clerkofficeworkerbia": {
-            "CID": "C024",
-            "EID": "clerkofficeworkerbia",
+            "cid": "C024",
+            "eid": "clerkofficeworkerbia",
             "english": "clerk office worker bia",
             "mescalero": {
                 "literal_translations": ["one who writes"],
@@ -1779,8 +1779,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cliffsledgeofrocks": {
-            "CID": "C011",
-            "EID": "cliffsledgeofrocks",
+            "cid": "C011",
+            "eid": "cliffsledgeofrocks",
             "english": "cliffs ledge of rocks",
             "mescalero": {
                 "literal_translations": ["a ledge of rocks"],
@@ -1788,8 +1788,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cliffsrowofrocks": {
-            "CID": "C011",
-            "EID": "cliffsrowofrocks",
+            "cid": "C011",
+            "eid": "cliffsrowofrocks",
             "english": "cliffs row of rocks",
             "mescalero": {
                 "literal_translations": ["a row of rocks"],
@@ -1797,8 +1797,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "clock": {
-            "CID": "C015",
-            "EID": "clock",
+            "cid": "C015",
+            "eid": "clock",
             "english": "clock",
             "mescalero": {
                 "literal_translations": ["metal that turns"],
@@ -1806,26 +1806,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "clothinglouse": {
-            "CID": "C016",
-            "EID": "clothinglouse",
+            "cid": "C016",
+            "eid": "clothinglouse",
             "english": "clothing louse",
             "mescalero": {"literal_translations": [], "words": ["yaabaye"]},
         },
         "clothmoccasins": {
-            "CID": "C003",
-            "EID": "clothmoccasins",
+            "cid": "C003",
+            "eid": "clothmoccasins",
             "english": "cloth moccasins",
             "mescalero": {"literal_translations": [], "words": ["keegá"]},
         },
         "cloud": {
-            "CID": "C007",
-            "EID": "cloud",
+            "cid": "C007",
+            "eid": "cloud",
             "english": "cloud",
             "mescalero": {"literal_translations": [], "words": ["k'us"]},
         },
         "cloudburst": {
-            "CID": "C007",
-            "EID": "cloudburst",
+            "cid": "C007",
+            "eid": "cloudburst",
             "english": "cloudburst",
             "mescalero": {
                 "literal_translations": ["a lot of rain is falling"],
@@ -1833,8 +1833,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cloudcroft": {
-            "CID": "C019",
-            "EID": "cloudcroft",
+            "cid": "C019",
+            "eid": "cloudcroft",
             "english": "cloudcroft",
             "mescalero": {
                 "literal_translations": ["train stop on the mountain"],
@@ -1842,8 +1842,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cloudy": {
-            "CID": "C007",
-            "EID": "cloudy",
+            "cid": "C007",
+            "eid": "cloudy",
             "english": "cloudy",
             "mescalero": {
                 "literal_translations": ["it just got cloudy"],
@@ -1851,20 +1851,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "clownclothing": {
-            "CID": "C003",
-            "EID": "clownclothing",
+            "cid": "C003",
+            "eid": "clownclothing",
             "english": "clown clothing",
             "mescalero": {"literal_translations": [], "words": ["zibayé bi'ede"]},
         },
         "coal": {
-            "CID": "C011",
-            "EID": "coal",
+            "cid": "C011",
+            "eid": "coal",
             "english": "coal",
             "mescalero": {"literal_translations": ["fire rock"], "words": ["tsékų"]},
         },
         "coat": {
-            "CID": "C023",
-            "EID": "coat",
+            "cid": "C023",
+            "eid": "coat",
             "english": "coat",
             "mescalero": {
                 "literal_translations": ["big clothing"],
@@ -1872,17 +1872,17 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "coffee": {
-            "CID": "C014",
-            "EID": "coffee",
+            "cid": "C014",
+            "eid": "coffee",
             "english": "coffee",
             "mescalero": {
-                "literal_translations": ["Spanish"],
+                "literal_translations": ["(via Spanish)"],
                 "words": ["gaxee'", "k'axee'"],
             },
         },
         "coffeepot": {
-            "CID": "C015",
-            "EID": "coffeepot",
+            "cid": "C015",
+            "eid": "coffeepot",
             "english": "coffee pot",
             "mescalero": {
                 "literal_translations": ["that with which coffee is boiled"],
@@ -1890,8 +1890,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cold": {
-            "CID": "C007",
-            "EID": "cold",
+            "cid": "C007",
+            "eid": "cold",
             "english": "cold",
             "mescalero": {
                 "literal_translations": ["it is cold"],
@@ -1899,8 +1899,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "collarbone": {
-            "CID": "C001",
-            "EID": "collarbone",
+            "cid": "C001",
+            "eid": "collarbone",
             "english": "collar bone",
             "mescalero": {
                 "literal_translations": ["chest bone"],
@@ -1908,14 +1908,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "colt": {
-            "CID": "C002",
-            "EID": "colt",
+            "cid": "C002",
+            "eid": "colt",
             "english": "colt",
             "mescalero": {"literal_translations": [], "words": ["įįzhaa'"]},
         },
         "comanchecountry": {
-            "CID": "C019",
-            "EID": "comanchecountry",
+            "cid": "C019",
+            "eid": "comanchecountry",
             "english": "comanche country",
             "mescalero": {
                 "literal_translations": [],
@@ -1923,8 +1923,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "commode": {
-            "CID": "C015",
-            "EID": "commode",
+            "cid": "C015",
+            "eid": "commode",
             "english": "commode",
             "mescalero": {
                 "literal_translations": ["that in which one goes out"],
@@ -1932,14 +1932,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "completely": {
-            "CID": "C020",
-            "EID": "completely",
+            "cid": "C020",
+            "eid": "completely",
             "english": "completely",
             "mescalero": {"literal_translations": [], "words": ["áłík'e"]},
         },
         "cookies": {
-            "CID": "C014",
-            "EID": "cookies",
+            "cid": "C014",
+            "eid": "cookies",
             "english": "cookies",
             "mescalero": {
                 "literal_translations": ["sweet bread"],
@@ -1947,8 +1947,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cookingutensils": {
-            "CID": "C015",
-            "EID": "cookingutensils",
+            "cid": "C015",
+            "eid": "cookingutensils",
             "english": "cooking utensils",
             "mescalero": {
                 "literal_translations": ["that which is used to cook food"],
@@ -1956,8 +1956,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cool": {
-            "CID": "C007",
-            "EID": "cool",
+            "cid": "C007",
+            "eid": "cool",
             "english": "cool",
             "mescalero": {
                 "literal_translations": ["it is cool"],
@@ -1965,17 +1965,17 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "corn": {
-            "CID": "C014",
-            "EID": "corn",
+            "cid": "C014",
+            "eid": "corn",
             "english": "corn",
             "mescalero": {
-                "literal_translations": ["Spanish"],
+                "literal_translations": ["(via Spanish)"],
                 "words": ["'inaaá'", "'iludú"],
             },
         },
         "cornkernel": {
-            "CID": "C014",
-            "EID": "cornkernel",
+            "cid": "C014",
+            "eid": "cornkernel",
             "english": "corn kernel",
             "mescalero": {
                 "literal_translations": ["corn's teeth"],
@@ -1983,8 +1983,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "coronacountry": {
-            "CID": "C019",
-            "EID": "coronacountry",
+            "cid": "C019",
+            "eid": "coronacountry",
             "english": "corona country",
             "mescalero": {
                 "literal_translations": ["country of the antelope people"],
@@ -1992,8 +1992,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "corralhorse": {
-            "CID": "C028",
-            "EID": "corralhorse",
+            "cid": "C028",
+            "eid": "corralhorse",
             "english": "corral horse",
             "mescalero": {
                 "literal_translations": ["fenced in place for horses"],
@@ -2001,8 +2001,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "corralitos": {
-            "CID": "C019",
-            "EID": "corralitos",
+            "cid": "C019",
+            "eid": "corralitos",
             "english": "corralitos",
             "mescalero": {
                 "literal_translations": ["rock house"],
@@ -2010,8 +2010,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "corralsheep": {
-            "CID": "C028",
-            "EID": "corralsheep",
+            "cid": "C028",
+            "eid": "corralsheep",
             "english": "corral sheep",
             "mescalero": {
                 "literal_translations": ["windbreak for sheep"],
@@ -2019,8 +2019,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "correct": {
-            "CID": "C020",
-            "EID": "correct",
+            "cid": "C020",
+            "eid": "correct",
             "english": "correct",
             "mescalero": {
                 "literal_translations": ["it is right, correct"],
@@ -2028,14 +2028,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cottonwood": {
-            "CID": "C029",
-            "EID": "cottonwood",
+            "cid": "C029",
+            "eid": "cottonwood",
             "english": "cottonwood",
             "mescalero": {"literal_translations": [], "words": ["t'íis"]},
         },
         "councilmentribal": {
-            "CID": "C024",
-            "EID": "councilmentribal",
+            "cid": "C024",
+            "eid": "councilmentribal",
             "english": "councilmen tribal",
             "mescalero": {
                 "literal_translations": ["those who sit for the people"],
@@ -2043,8 +2043,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "coverall": {
-            "CID": "C023",
-            "EID": "coverall",
+            "cid": "C023",
+            "eid": "coverall",
             "english": "coverall",
             "mescalero": {
                 "literal_translations": ["clothes one stands in"],
@@ -2052,20 +2052,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cowboy": {
-            "CID": "C024",
-            "EID": "cowboy",
+            "cid": "C024",
+            "eid": "cowboy",
             "english": "cowboy",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["magéedu"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["magéedu"]},
         },
         "cowboyboots": {
-            "CID": "C020",
-            "EID": "cowboyboots",
+            "cid": "C020",
+            "eid": "cowboyboots",
             "english": "cowboy boots",
             "mescalero": {"literal_translations": [], "words": ["ké dagúndedzí"]},
         },
         "crackers": {
-            "CID": "C014",
-            "EID": "crackers",
+            "cid": "C014",
+            "eid": "crackers",
             "english": "crackers",
             "mescalero": {
                 "literal_translations": ["brittle bread"],
@@ -2073,8 +2073,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cradleboard": {
-            "CID": "C003",
-            "EID": "cradleboard",
+            "cid": "C003",
+            "eid": "cradleboard",
             "english": "cradle board",
             "mescalero": {
                 "literal_translations": ["cradle board"],
@@ -2082,8 +2082,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cradleboardceremony": {
-            "CID": "C018",
-            "EID": "cradleboardceremony",
+            "cid": "C018",
+            "eid": "cradleboardceremony",
             "english": "cradle board ceremony",
             "mescalero": {
                 "literal_translations": [],
@@ -2091,8 +2091,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cradleboardpart": {
-            "CID": "C003",
-            "EID": "cradleboardpart",
+            "cid": "C003",
+            "eid": "cradleboardpart",
             "english": "cradle board part",
             "mescalero": {
                 "literal_translations": [
@@ -2122,32 +2122,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cranberries": {
-            "CID": "C025",
-            "EID": "cranberries",
+            "cid": "C025",
+            "eid": "cranberries",
             "english": "cranberries",
             "mescalero": {"literal_translations": [], "words": ["da'ghyshe"]},
         },
         "crane": {
-            "CID": "C005",
-            "EID": "crane",
+            "cid": "C005",
+            "eid": "crane",
             "english": "crane",
             "mescalero": {"literal_translations": [], "words": ["tudaazłbai"]},
         },
         "creek": {
-            "CID": "C011",
-            "EID": "creek",
+            "cid": "C011",
+            "eid": "creek",
             "english": "creek",
             "mescalero": {"literal_translations": [], "words": ["túlíį"]},
         },
         "cricket": {
-            "CID": "C016",
-            "EID": "cricket",
+            "cid": "C016",
+            "eid": "cricket",
             "english": "cricket",
             "mescalero": {"literal_translations": [], "words": ["nįt'ąáé́"]},
         },
         "crooked": {
-            "CID": "C027",
-            "EID": "crooked",
+            "cid": "C027",
+            "eid": "crooked",
             "english": "crooked",
             "mescalero": {
                 "literal_translations": ["it is crooked"],
@@ -2155,26 +2155,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "cross": {
-            "CID": "C020",
-            "EID": "cross",
+            "cid": "C020",
+            "eid": "cross",
             "english": "cross",
             "mescalero": {"literal_translations": [], "words": ["tsįį́nłúuzi"]},
         },
         "crosssexedsiblingmanssisterwomansbrother": {
-            "CID": "C017",
-            "EID": "crosssexedsiblingmanssisterwomansbrother",
+            "cid": "C017",
+            "eid": "crosssexedsiblingmanssisterwomansbrother",
             "english": "cross-sexed sibling; man's sister, woman's brother",
             "mescalero": {"literal_translations": [], "words": ["-lą́"]},
         },
         "crotch": {
-            "CID": "C001",
-            "EID": "crotch",
+            "cid": "C001",
+            "eid": "crotch",
             "english": "crotch",
             "mescalero": {"literal_translations": [], "words": ["-k'aayee'"]},
         },
         "crow": {
-            "CID": "C005",
-            "EID": "crow",
+            "cid": "C005",
+            "eid": "crow",
             "english": "crow",
             "mescalero": {
                 "literal_translations": ["not brave or afraid"],
@@ -2182,8 +2182,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "crowbarlever": {
-            "CID": "C028",
-            "EID": "crowbarlever",
+            "cid": "C028",
+            "eid": "crowbarlever",
             "english": "crowbar lever",
             "mescalero": {
                 "literal_translations": ["metal with which to lift"],
@@ -2191,14 +2191,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "crownhead": {
-            "CID": "C001",
-            "EID": "crownhead",
+            "cid": "C001",
+            "eid": "crownhead",
             "english": "crown (head)",
             "mescalero": {"literal_translations": [], "words": ["-tsiít'áyá"]},
         },
         "crownorhorndancer": {
-            "CID": "C003",
-            "EID": "crownorhorndancer",
+            "cid": "C003",
+            "eid": "crownorhorndancer",
             "english": "crown or horn dancer",
             "mescalero": {
                 "literal_translations": ["crown dancer"],
@@ -2206,8 +2206,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "crownorhorndancercrownorhorn": {
-            "CID": "C003",
-            "EID": "crownorhorndancercrownorhorn",
+            "cid": "C003",
+            "eid": "crownorhorndancercrownorhorn",
             "english": "crown or horn dancer (crown or horn)",
             "mescalero": {
                 "literal_translations": ["crown or horn"],
@@ -2215,20 +2215,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "crucifix": {
-            "CID": "C020",
-            "EID": "crucifix",
+            "cid": "C020",
+            "eid": "crucifix",
             "english": "crucifix",
             "mescalero": {"literal_translations": [], "words": ["tsįį́nłúuzi"]},
         },
         "crystal": {
-            "CID": "C008",
-            "EID": "crystal",
+            "cid": "C008",
+            "eid": "crystal",
             "english": "crystal",
             "mescalero": {"literal_translations": [], "words": ["nts'ííle"]},
         },
         "curly": {
-            "CID": "C027",
-            "EID": "curly",
+            "cid": "C027",
+            "eid": "curly",
             "english": "curly",
             "mescalero": {
                 "literal_translations": ["it is curly"],
@@ -2236,17 +2236,17 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "curtainrods": {
-            "CID": "C015",
-            "EID": "curtainrods",
+            "cid": "C015",
+            "eid": "curtainrods",
             "english": "curtain rods",
             "mescalero": {
-                "literal_translations": ["Spanish"],
+                "literal_translations": ["(via Spanish)"],
                 "words": ["manáánashí beeda'ikaa'í"],
             },
         },
         "curtains": {
-            "CID": "C015",
-            "EID": "curtains",
+            "cid": "C015",
+            "eid": "curtains",
             "english": "curtains",
             "mescalero": {
                 "literal_translations": ["Spanish, that which hangs at the window"],
@@ -2254,8 +2254,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "daddylonglegs": {
-            "CID": "C016",
-            "EID": "daddylonglegs",
+            "cid": "C016",
+            "eid": "daddylonglegs",
             "english": "daddy longlegs",
             "mescalero": {
                 "literal_translations": ["spider with long legs"],
@@ -2263,8 +2263,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dam": {
-            "CID": "C011",
-            "EID": "dam",
+            "cid": "C011",
+            "eid": "dam",
             "english": "dam",
             "mescalero": {
                 "literal_translations": ["sealed water"],
@@ -2272,8 +2272,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "damp": {
-            "CID": "C007",
-            "EID": "damp",
+            "cid": "C007",
+            "eid": "damp",
             "english": "damp",
             "mescalero": {
                 "literal_translations": ["it is damp"],
@@ -2281,8 +2281,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dark": {
-            "CID": "C009",
-            "EID": "dark",
+            "cid": "C009",
+            "eid": "dark",
             "english": "dark",
             "mescalero": {
                 "literal_translations": ["it is dark"],
@@ -2290,8 +2290,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "darkbrown": {
-            "CID": "C008",
-            "EID": "darkbrown",
+            "cid": "C008",
+            "eid": "darkbrown",
             "english": "dark brown",
             "mescalero": {
                 "literal_translations": ["used to describe a dark brown horse"],
@@ -2299,32 +2299,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "daughter": {
-            "CID": "C017",
-            "EID": "daughter",
+            "cid": "C017",
+            "eid": "daughter",
             "english": "daughter",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["-ch'eekę'", "-ch'e', -yách'e'"],
             },
         },
         "day": {
-            "CID": "C009",
-            "EID": "day",
+            "cid": "C009",
+            "eid": "day",
             "english": "day",
             "mescalero": {"literal_translations": [], "words": ["jįgu"]},
         },
         "dayafterday": {
-            "CID": "C009",
-            "EID": "dayafterday",
+            "cid": "C009",
+            "eid": "dayafterday",
             "english": "day after day",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["daaztsujine", "daałtsujine"],
             },
         },
         "dayaftertomorrow": {
-            "CID": "C009",
-            "EID": "dayaftertomorrow",
+            "cid": "C009",
+            "eid": "dayaftertomorrow",
             "english": "day after tomorrow",
             "mescalero": {
                 "literal_translations": [],
@@ -2332,14 +2332,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "daybeforeyesterday": {
-            "CID": "C009",
-            "EID": "daybeforeyesterday",
+            "cid": "C009",
+            "eid": "daybeforeyesterday",
             "english": "day before yesterday",
             "mescalero": {"literal_translations": [], "words": ["'adáánúguhujida"]},
         },
         "daybreak": {
-            "CID": "C009",
-            "EID": "daybreak",
+            "cid": "C009",
+            "eid": "daybreak",
             "english": "daybreak",
             "mescalero": {
                 "literal_translations": ["the ground can be seen"],
@@ -2347,14 +2347,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "daylight": {
-            "CID": "C009",
-            "EID": "daylight",
+            "cid": "C009",
+            "eid": "daylight",
             "english": "daylight",
             "mescalero": {"literal_translations": [], "words": ["gat'į"]},
         },
         "deadmanlake": {
-            "CID": "C026",
-            "EID": "deadmanlake",
+            "cid": "C026",
+            "eid": "deadmanlake",
             "english": "deadman lake",
             "mescalero": {
                 "literal_translations": [],
@@ -2362,14 +2362,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "death": {
-            "CID": "C018",
-            "EID": "death",
+            "cid": "C018",
+            "eid": "death",
             "english": "death",
             "mescalero": {"literal_translations": [], "words": ["da'tsaa'í"]},
         },
         "december": {
-            "CID": "C022",
-            "EID": "december",
+            "cid": "C022",
+            "eid": "december",
             "english": "december",
             "mescalero": {
                 "literal_translations": ["the middle of winter"],
@@ -2377,14 +2377,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "deep": {
-            "CID": "C027",
-            "EID": "deep",
+            "cid": "C027",
+            "eid": "deep",
             "english": "deep",
             "mescalero": {"literal_translations": ["it is deep"], "words": ["nú́ya"]},
         },
         "deeplakej": {
-            "CID": "C026",
-            "EID": "deeplakej",
+            "cid": "C026",
+            "eid": "deeplakej",
             "english": "deep lake",
             "mescalero": {
                 "literal_translations": ["white waterfall"],
@@ -2392,8 +2392,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "demingnm": {
-            "CID": "C019",
-            "EID": "demingnm",
+            "cid": "C019",
+            "eid": "demingnm",
             "english": "deming, nm",
             "mescalero": {
                 "literal_translations": ["a growth of Mesquite in canyon"],
@@ -2401,14 +2401,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dented": {
-            "CID": "C001",
-            "EID": "dented",
+            "cid": "C001",
+            "eid": "dented",
             "english": "dented",
             "mescalero": {"literal_translations": ["it is bent"], "words": ["'úúts'ų"]},
         },
         "dew": {
-            "CID": "C007",
-            "EID": "dew",
+            "cid": "C007",
+            "eid": "dew",
             "english": "dew",
             "mescalero": {
                 "literal_translations": ["it is dewy"],
@@ -2416,8 +2416,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "diamondshaped": {
-            "CID": "C027",
-            "EID": "diamondshaped",
+            "cid": "C027",
+            "eid": "diamondshaped",
             "english": "diamond shaped",
             "mescalero": {
                 "literal_translations": ["Spanish, it is diamond shaped"],
@@ -2425,26 +2425,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "difficult": {
-            "CID": "C020",
-            "EID": "difficult",
+            "cid": "C020",
+            "eid": "difficult",
             "english": "difficult",
             "mescalero": {"literal_translations": ["not easy"], "words": ["dáduuda"]},
         },
         "dirttank": {
-            "CID": "C011",
-            "EID": "dirttank",
+            "cid": "C011",
+            "eid": "dirttank",
             "english": "dirt tank",
             "mescalero": {"literal_translations": [], "words": ["túbáhagach'í"]},
         },
         "dishes": {
-            "CID": "C015",
-            "EID": "dishes",
+            "cid": "C015",
+            "eid": "dishes",
             "english": "dishes",
             "mescalero": {"literal_translations": [], "words": ["'idee'"]},
         },
         "dishwasher": {
-            "CID": "C015",
-            "EID": "dishwasher",
+            "cid": "C015",
+            "eid": "dishwasher",
             "english": "dishwasher",
             "mescalero": {
                 "literal_translations": ["that which washes dishes"],
@@ -2452,8 +2452,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "distantrelatives": {
-            "CID": "C017",
-            "EID": "distantrelatives",
+            "cid": "C017",
+            "eid": "distantrelatives",
             "english": "distant relatives",
             "mescalero": {
                 "literal_translations": ["one's distant relatives"],
@@ -2461,14 +2461,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "docksumac": {
-            "CID": "C025",
-            "EID": "docksumac",
+            "cid": "C025",
+            "eid": "docksumac",
             "english": "dock sumac",
             "mescalero": {"literal_translations": [], "words": ["chugshtł'ine"]},
         },
         "doctor": {
-            "CID": "C024",
-            "EID": "doctor",
+            "cid": "C024",
+            "eid": "doctor",
             "english": "doctor",
             "mescalero": {
                 "literal_translations": ["one who makes medicine"],
@@ -2476,8 +2476,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dogcanyon": {
-            "CID": "C019",
-            "EID": "dogcanyon",
+            "cid": "C019",
+            "eid": "dogcanyon",
             "english": "dog canyon",
             "mescalero": {
                 "literal_translations": ["rock ledge or pocket"],
@@ -2485,8 +2485,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dogcollar": {
-            "CID": "C028",
-            "EID": "dogcollar",
+            "cid": "C028",
+            "eid": "dogcollar",
             "english": "dog collar",
             "mescalero": {
                 "literal_translations": ["dog necklace"],
@@ -2494,14 +2494,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dontdothatstopit": {
-            "CID": "C001",
-            "EID": "dontdothatstopit",
+            "cid": "C001",
+            "eid": "dontdothatstopit",
             "english": "don't do that, stop it",
             "mescalero": {"literal_translations": [], "words": ["duu ghát'įda"]},
         },
         "door": {
-            "CID": "C015",
-            "EID": "door",
+            "cid": "C015",
+            "eid": "door",
             "english": "door",
             "mescalero": {
                 "literal_translations": ["that which closes like a lid"],
@@ -2509,26 +2509,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "douglasfir": {
-            "CID": "C029",
-            "EID": "douglasfir",
+            "cid": "C029",
+            "eid": "douglasfir",
             "english": "douglas fir",
             "mescalero": {"literal_translations": [], "words": ["gańdeeze"]},
         },
         "dove": {
-            "CID": "C005",
-            "EID": "dove",
+            "cid": "C005",
+            "eid": "dove",
             "english": "dove",
             "mescalero": {"literal_translations": [], "words": ["niitsi'gané"]},
         },
         "down": {
-            "CID": "C010",
-            "EID": "down",
+            "cid": "C010",
+            "eid": "down",
             "english": "down",
             "mescalero": {"literal_translations": ["see page 22"], "words": ["hanya'"]},
         },
         "dragonfly": {
-            "CID": "C016",
-            "EID": "dragonfly",
+            "cid": "C016",
+            "eid": "dragonfly",
             "english": "dragonfly",
             "mescalero": {
                 "literal_translations": ["crossed bug"],
@@ -2536,8 +2536,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "drapes": {
-            "CID": "C015",
-            "EID": "drapes",
+            "cid": "C015",
+            "eid": "drapes",
             "english": "drapes",
             "mescalero": {
                 "literal_translations": ["Spanish, that which hangs at the window"],
@@ -2545,8 +2545,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dresser": {
-            "CID": "C015",
-            "EID": "dresser",
+            "cid": "C015",
+            "eid": "dresser",
             "english": "dresser",
             "mescalero": {
                 "literal_translations": ["that which you put clothes in"],
@@ -2554,8 +2554,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dresspartsbodydesignoncrowndancer": {
-            "CID": "C003",
-            "EID": "dresspartsbodydesignoncrowndancer",
+            "cid": "C003",
+            "eid": "dresspartsbodydesignoncrowndancer",
             "english": "dress parts (body design on crown dancer)",
             "mescalero": {
                 "literal_translations": ["body design on Crown Dancer"],
@@ -2563,8 +2563,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dresspartsmoccasins": {
-            "CID": "C003",
-            "EID": "dresspartsmoccasins",
+            "cid": "C003",
+            "eid": "dresspartsmoccasins",
             "english": "dress parts (moccasins)",
             "mescalero": {
                 "literal_translations": ["moccasins"],
@@ -2572,20 +2572,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "driedfruit": {
-            "CID": "C004",
-            "EID": "driedfruit",
+            "cid": "C004",
+            "eid": "driedfruit",
             "english": "dried fruit",
             "mescalero": {"literal_translations": [], "words": ["'itsgí'íchi'í'"]},
         },
         "driedmeat": {
-            "CID": "C004",
-            "EID": "driedmeat",
+            "cid": "C004",
+            "eid": "driedmeat",
             "english": "dried meat",
             "mescalero": {"literal_translations": [], "words": ["'itsįįsqa'"]},
         },
         "drippingspringsh": {
-            "CID": "C026",
-            "EID": "drippingspringsh",
+            "cid": "C026",
+            "eid": "drippingspringsh",
             "english": "dripping springs",
             "mescalero": {
                 "literal_translations": ["no water canyon"],
@@ -2593,8 +2593,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "drizzle": {
-            "CID": "C007",
-            "EID": "drizzle",
+            "cid": "C007",
+            "eid": "drizzle",
             "english": "drizzle",
             "mescalero": {
                 "literal_translations": ["it is drizzling"],
@@ -2602,8 +2602,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "drum": {
-            "CID": "C003",
-            "EID": "drum",
+            "cid": "C003",
+            "eid": "drum",
             "english": "drum",
             "mescalero": {
                 "literal_translations": [],
@@ -2611,14 +2611,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "drumstick": {
-            "CID": "C003",
-            "EID": "drumstick",
+            "cid": "C003",
+            "eid": "drumstick",
             "english": "drumstick",
             "mescalero": {"literal_translations": [], "words": ["'ísaa beefjíntłtísį́"]},
         },
         "drycanyonj": {
-            "CID": "C026",
-            "EID": "drycanyonj",
+            "cid": "C026",
+            "eid": "drycanyonj",
             "english": "dry canyon",
             "mescalero": {
                 "literal_translations": ["no water canyon"],
@@ -2626,8 +2626,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dryer": {
-            "CID": "C015",
-            "EID": "dryer",
+            "cid": "C015",
+            "eid": "dryer",
             "english": "dryer",
             "mescalero": {
                 "literal_translations": ["that which dries"],
@@ -2635,8 +2635,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dryingrack": {
-            "CID": "C003",
-            "EID": "dryingrack",
+            "cid": "C003",
+            "eid": "dryingrack",
             "english": "drying rack",
             "mescalero": {
                 "literal_translations": [],
@@ -2644,14 +2644,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "duck": {
-            "CID": "C005",
-            "EID": "duck",
+            "cid": "C005",
+            "eid": "duck",
             "english": "duck",
             "mescalero": {"literal_translations": [], "words": ["nanlaadé"]},
         },
         "dull": {
-            "CID": "C027",
-            "EID": "dull",
+            "cid": "C027",
+            "eid": "dull",
             "english": "dull",
             "mescalero": {
                 "literal_translations": ["it is not sharp"],
@@ -2659,8 +2659,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dumb": {
-            "CID": "C020",
-            "EID": "dumb",
+            "cid": "C020",
+            "eid": "dumb",
             "english": "dumb",
             "mescalero": {
                 "literal_translations": ["he is not smart"],
@@ -2668,8 +2668,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dustmop": {
-            "CID": "C015",
-            "EID": "dustmop",
+            "cid": "C015",
+            "eid": "dustmop",
             "english": "dust mop",
             "mescalero": {
                 "literal_translations": ["that with which to wipe the floor"],
@@ -2677,8 +2677,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dustpan": {
-            "CID": "C015",
-            "EID": "dustpan",
+            "cid": "C015",
+            "eid": "dustpan",
             "english": "dust pan",
             "mescalero": {
                 "literal_translations": ["that with which to scoop up dirt"],
@@ -2686,8 +2686,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "duststorm": {
-            "CID": "C007",
-            "EID": "duststorm",
+            "cid": "C007",
+            "eid": "duststorm",
             "english": "dust storm",
             "mescalero": {
                 "literal_translations": [
@@ -2698,8 +2698,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "dutchoven": {
-            "CID": "C015",
-            "EID": "dutchoven",
+            "cid": "C015",
+            "eid": "dutchoven",
             "english": "dutch oven",
             "mescalero": {
                 "literal_translations": ["that with which to bake"],
@@ -2707,8 +2707,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "eagle": {
-            "CID": "C005",
-            "EID": "eagle",
+            "cid": "C005",
+            "eid": "eagle",
             "english": "eagle",
             "mescalero": {
                 "literal_translations": ["large feathers"],
@@ -2716,8 +2716,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "eagletail": {
-            "CID": "C003",
-            "EID": "eagletail",
+            "cid": "C003",
+            "eid": "eagletail",
             "english": "eagle tail",
             "mescalero": {
                 "literal_translations": ["large tail"],
@@ -2725,14 +2725,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ear": {
-            "CID": "C001",
-            "EID": "ear",
+            "cid": "C001",
+            "eid": "ear",
             "english": "ear",
             "mescalero": {"literal_translations": [], "words": ["-jaa'"]},
         },
         "eardrum": {
-            "CID": "C001",
-            "EID": "eardrum",
+            "cid": "C001",
+            "eid": "eardrum",
             "english": "ear drum",
             "mescalero": {
                 "literal_translations": [],
@@ -2740,8 +2740,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "earlyafternoon": {
-            "CID": "C009",
-            "EID": "earlyafternoon",
+            "cid": "C009",
+            "eid": "earlyafternoon",
             "english": "early afternoon",
             "mescalero": {
                 "literal_translations": [],
@@ -2749,8 +2749,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "earlyevening": {
-            "CID": "C009",
-            "EID": "earlyevening",
+            "cid": "C009",
+            "eid": "earlyevening",
             "english": "early evening",
             "mescalero": {
                 "literal_translations": ["it is dark"],
@@ -2758,8 +2758,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "earring": {
-            "CID": "C003",
-            "EID": "earring",
+            "cid": "C003",
+            "eid": "earring",
             "english": "earring",
             "mescalero": {
                 "literal_translations": ["ear string"],
@@ -2767,32 +2767,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "earthquake": {
-            "CID": "C011",
-            "EID": "earthquake",
+            "cid": "C011",
+            "eid": "earthquake",
             "english": "earthquake",
             "mescalero": {"literal_translations": [], "words": ["niigudiyeena"]},
         },
         "earthworld": {
-            "CID": "C011",
-            "EID": "earthworld",
+            "cid": "C011",
+            "eid": "earthworld",
             "english": "earth world",
             "mescalero": {"literal_translations": [], "words": ["niigusdzání"]},
         },
         "earwax": {
-            "CID": "C001",
-            "EID": "earwax",
+            "cid": "C001",
+            "eid": "earwax",
             "english": "ear wax",
             "mescalero": {"literal_translations": [], "words": ["jaayeekaz"]},
         },
         "easily": {
-            "CID": "C020",
-            "EID": "easily",
+            "cid": "C020",
+            "eid": "easily",
             "english": "easily",
             "mescalero": {"literal_translations": [], "words": ["dááuuyáádu"]},
         },
         "east": {
-            "CID": "C001",
-            "EID": "east",
+            "cid": "C001",
+            "eid": "east",
             "english": "east",
             "mescalero": {
                 "literal_translations": ["from where the sun comes up"],
@@ -2800,14 +2800,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "easteastward": {
-            "CID": "C010",
-            "EID": "easteastward",
+            "cid": "C010",
+            "eid": "easteastward",
             "english": "east (eastward)",
             "mescalero": {"literal_translations": ["eastward"], "words": ["há'į'áyuu"]},
         },
         "eastmtspringj": {
-            "CID": "C026",
-            "EID": "eastmtspringj",
+            "cid": "C026",
+            "eid": "eastmtspringj",
             "english": "east mt. spring",
             "mescalero": {
                 "literal_translations": ["blue water pond"],
@@ -2815,23 +2815,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "easttowardtheeast": {
-            "CID": "C010",
-            "EID": "easttowardtheeast",
+            "cid": "C010",
+            "eid": "easttowardtheeast",
             "english": "east (toward the east)",
             "mescalero": {
                 "literal_translations": ["toward the east"],
                 "words": ["há'į'áyágu"],
             },
         },
+        "eat": {
+            "cid": "C020",
+            "eid": "eat",
+            "english": "eat",
+            "mescalero": {
+                "literal_translations": ['He/she/it is eating it.'],
+                "words": ["'iiyą́"]
+            },
+        },
         "eclipse": {
-            "CID": "C011",
-            "EID": "eclipse",
+            "cid": "C011",
+            "eid": "eclipse",
             "english": "eclipse",
             "mescalero": {"literal_translations": [], "words": ["'įzdéhánút'ash"]},
         },
         "eggs": {
-            "CID": "C014",
-            "EID": "eggs",
+            "cid": "C014",
+            "eid": "eggs",
             "english": "eggs",
             "mescalero": {
                 "literal_translations": [],
@@ -2839,20 +2848,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "eightcanyonl": {
-            "CID": "C026",
-            "EID": "eightcanyonl",
+            "cid": "C026",
+            "eid": "eightcanyonl",
             "english": "eight canyon",
             "mescalero": {"literal_translations": [], "words": ["tsaąbi' nágún'aya"]},
         },
         "elbow": {
-            "CID": "C001",
-            "EID": "elbow",
+            "cid": "C001",
+            "eid": "elbow",
             "english": "elbow",
             "mescalero": {"literal_translations": [], "words": ["-ch'uula'í"]},
         },
         "elbowstripcloth": {
-            "CID": "C003",
-            "EID": "elbowstripcloth",
+            "cid": "C003",
+            "eid": "elbowstripcloth",
             "english": "elbow strip cloth",
             "mescalero": {
                 "literal_translations": ["elbow strip cloth"],
@@ -2860,8 +2869,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "elderberry": {
-            "CID": "C025",
-            "EID": "elderberry",
+            "cid": "C025",
+            "eid": "elderberry",
             "english": "elder berry",
             "mescalero": {
                 "literal_translations": [],
@@ -2869,8 +2878,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "elkcanyons": {
-            "CID": "C026",
-            "EID": "elkcanyons",
+            "cid": "C026",
+            "eid": "elkcanyons",
             "english": "elk canyon",
             "mescalero": {
                 "literal_translations": ["where one came back"],
@@ -2878,20 +2887,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "elkdayschool": {
-            "CID": "C026",
-            "EID": "elkdayschool",
+            "cid": "C026",
+            "eid": "elkdayschool",
             "english": "elk day school",
             "mescalero": {"literal_translations": [], "words": ["nádáidzá'e' da'íta"]},
         },
         "elkmeat": {
-            "CID": "C004",
-            "EID": "elkmeat",
+            "cid": "C004",
+            "eid": "elkmeat",
             "english": "elk meat",
             "mescalero": {"literal_translations": [], "words": ["bintsef bitsį"]},
         },
         "elksilverv": {
-            "CID": "C026",
-            "EID": "elksilverv",
+            "cid": "C026",
+            "eid": "elksilverv",
             "english": "elk silver",
             "mescalero": {
                 "literal_translations": ["where two canyons meet"],
@@ -2899,8 +2908,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "elksprings": {
-            "CID": "C026",
-            "EID": "elksprings",
+            "cid": "C026",
+            "eid": "elksprings",
             "english": "elk spring",
             "mescalero": {
                 "literal_translations": [],
@@ -2908,14 +2917,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "elkstore": {
-            "CID": "C019",
-            "EID": "elkstore",
+            "cid": "C019",
+            "eid": "elkstore",
             "english": "elk store",
             "mescalero": {"literal_translations": [], "words": ["ze'bááyé"]},
         },
         "elpaso": {
-            "CID": "C019",
-            "EID": "elpaso",
+            "cid": "C019",
+            "eid": "elpaso",
             "english": "el paso",
             "mescalero": {
                 "literal_translations": ["rock jutting into the water"],
@@ -2923,14 +2932,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "emptycamp": {
-            "CID": "C011",
-            "EID": "emptycamp",
+            "cid": "C011",
+            "eid": "emptycamp",
             "english": "empty camp",
             "mescalero": {"literal_translations": [], "words": ["kuushk'e"]},
         },
         "emptycampnothingleft": {
-            "CID": "C011",
-            "EID": "emptycampnothingleft",
+            "cid": "C011",
+            "eid": "emptycampnothingleft",
             "english": "empty camp nothing left",
             "mescalero": {
                 "literal_translations": ["nothing is left"],
@@ -2938,8 +2947,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "encinospringsx": {
-            "CID": "C026",
-            "EID": "encinospringsx",
+            "cid": "C026",
+            "eid": "encinospringsx",
             "english": "encino springs",
             "mescalero": {
                 "literal_translations": ["growth of oak trees"],
@@ -2947,14 +2956,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "endless": {
-            "CID": "C018",
-            "EID": "endless",
+            "cid": "C018",
+            "eid": "endless",
             "english": "endless",
             "mescalero": {"literal_translations": [], "words": ["duu náguneeł'ádaji"]},
         },
         "erosion": {
-            "CID": "C007",
-            "EID": "erosion",
+            "cid": "C007",
+            "eid": "erosion",
             "english": "erosion",
             "mescalero": {
                 "literal_translations": ["it is washed out"],
@@ -2962,8 +2971,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "evening": {
-            "CID": "C009",
-            "EID": "evening",
+            "cid": "C009",
+            "eid": "evening",
             "english": "evening",
             "mescalero": {
                 "literal_translations": ["the ground is almost dark"],
@@ -2971,26 +2980,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "eveningstarmorningstar": {
-            "CID": "C011",
-            "EID": "eveningstarmorningstar",
+            "cid": "C011",
+            "eid": "eveningstarmorningstar",
             "english": "evening star morning star",
             "mescalero": {"literal_translations": [], "words": ["suųtsu"]},
         },
         "everlasting": {
-            "CID": "C018",
-            "EID": "everlasting",
+            "cid": "C018",
+            "eid": "everlasting",
             "english": "everlasting",
             "mescalero": {"literal_translations": [], "words": ["duu náguneeł'ádaji"]},
         },
         "everywhere": {
-            "CID": "C020",
-            "EID": "everywhere",
+            "cid": "C020",
+            "eid": "everywhere",
             "english": "everywhere",
             "mescalero": {"literal_translations": [], "words": ["áłík'eenya"]},
         },
         "existence": {
-            "CID": "C018",
-            "EID": "existence",
+            "cid": "C018",
+            "eid": "existence",
             "english": "existence",
             "mescalero": {
                 "literal_translations": ["one exists"],
@@ -2998,38 +3007,38 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "eye": {
-            "CID": "C001",
-            "EID": "eye",
+            "cid": "C001",
+            "eid": "eye",
             "english": "eye",
             "mescalero": {"literal_translations": [], "words": ["-ndaa'"]},
         },
         "eyebrow": {
-            "CID": "C001",
-            "EID": "eyebrow",
+            "cid": "C001",
+            "eid": "eyebrow",
             "english": "eyebrow",
             "mescalero": {"literal_translations": [], "words": ["-náat'eje"]},
         },
         "eyelash": {
-            "CID": "C001",
-            "EID": "eyelash",
+            "cid": "C001",
+            "eid": "eyelash",
             "english": "eye lash",
             "mescalero": {"literal_translations": [], "words": ["-náat'íje"]},
         },
         "face": {
-            "CID": "C001",
-            "EID": "face",
+            "cid": "C001",
+            "eid": "face",
             "english": "face",
             "mescalero": {"literal_translations": [], "words": ["-nii'"]},
         },
         "faded": {
-            "CID": "C008",
-            "EID": "faded",
+            "cid": "C008",
+            "eid": "faded",
             "english": "faded",
             "mescalero": {"literal_translations": [], "words": ["hiibaa'"]},
         },
         "faith": {
-            "CID": "C018",
-            "EID": "faith",
+            "cid": "C018",
+            "eid": "faith",
             "english": "faith",
             "mescalero": {
                 "literal_translations": ["what one believes"],
@@ -3037,14 +3046,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "fall": {
-            "CID": "C022",
-            "EID": "fall",
+            "cid": "C022",
+            "eid": "fall",
             "english": "fall",
             "mescalero": {"literal_translations": [], "words": ["dąąk'e"]},
         },
         "fat": {
-            "CID": "C014",
-            "EID": "fat",
+            "cid": "C014",
+            "eid": "fat",
             "english": "fat",
             "mescalero": {
                 "literal_translations": ["a lot of fat", "it is thick"],
@@ -3052,29 +3061,29 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "father": {
-            "CID": "C017",
-            "EID": "father",
+            "cid": "C017",
+            "eid": "father",
             "english": "father",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["-dade", "-taa'"],
             },
         },
         "fatty": {
-            "CID": "C027",
-            "EID": "fatty",
+            "cid": "C027",
+            "eid": "fatty",
             "english": "fatty",
             "mescalero": {"literal_translations": ["it is greasy"], "words": ["dááxe"]},
         },
         "feastgroundsj": {
-            "CID": "C026",
-            "EID": "feastgroundsj",
+            "cid": "C026",
+            "eid": "feastgroundsj",
             "english": "feastgrounds",
             "mescalero": {"literal_translations": [], "words": ["náda'idiya"]},
         },
         "feather": {
-            "CID": "C003",
-            "EID": "feather",
+            "cid": "C003",
+            "eid": "feather",
             "english": "feather",
             "mescalero": {
                 "literal_translations": [],
@@ -3082,8 +3091,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "february": {
-            "CID": "C022",
-            "EID": "february",
+            "cid": "C022",
+            "eid": "february",
             "english": "february",
             "mescalero": {
                 "literal_translations": ["on top of winter", "crazy winter"],
@@ -3091,8 +3100,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "fence": {
-            "CID": "C020",
-            "EID": "fence",
+            "cid": "C020",
+            "eid": "fence",
             "english": "fence",
             "mescalero": {
                 "literal_translations": ["line of metal"],
@@ -3100,8 +3109,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "fencecanyon": {
-            "CID": "C026",
-            "EID": "fencecanyon",
+            "cid": "C026",
+            "eid": "fencecanyon",
             "english": "fence canyon",
             "mescalero": {
                 "literal_translations": ["road toward white-tail"],
@@ -3109,8 +3118,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "field": {
-            "CID": "C020",
-            "EID": "field",
+            "cid": "C020",
+            "eid": "field",
             "english": "field",
             "mescalero": {
                 "literal_translations": ["also pasture, garden"],
@@ -3118,8 +3127,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "filerasp": {
-            "CID": "C028",
-            "EID": "filerasp",
+            "cid": "C028",
+            "eid": "filerasp",
             "english": "file rasp",
             "mescalero": {
                 "literal_translations": ["that with which one sharpens"],
@@ -3127,26 +3136,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "fingernail": {
-            "CID": "C001",
-            "EID": "fingernail",
+            "cid": "C001",
+            "eid": "fingernail",
             "english": "finger-nail",
             "mescalero": {"literal_translations": [], "words": ["-laashgane"]},
         },
         "fingertip": {
-            "CID": "C001",
-            "EID": "fingertip",
+            "cid": "C001",
+            "eid": "fingertip",
             "english": "finger-tip",
             "mescalero": {"literal_translations": [], "words": ["-laata"]},
         },
         "fir": {
-            "CID": "C029",
-            "EID": "fir",
+            "cid": "C029",
+            "eid": "fir",
             "english": "fir",
             "mescalero": {"literal_translations": [], "words": ["ch'u'uu"]},
         },
         "firefly": {
-            "CID": "C016",
-            "EID": "firefly",
+            "cid": "C016",
+            "eid": "firefly",
             "english": "firefly",
             "mescalero": {
                 "literal_translations": ["light carrier"],
@@ -3154,20 +3163,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "firemakingstick": {
-            "CID": "C003",
-            "EID": "firemakingstick",
+            "cid": "C003",
+            "eid": "firemakingstick",
             "english": "fire making stick",
             "mescalero": {"literal_translations": [], "words": ["kųųgish"]},
         },
         "firematchlight": {
-            "CID": "C011",
-            "EID": "firematchlight",
+            "cid": "C011",
+            "eid": "firematchlight",
             "english": "fire match light",
             "mescalero": {"literal_translations": [], "words": ["kų"]},
         },
         "firststeps": {
-            "CID": "C018",
-            "EID": "firststeps",
+            "cid": "C018",
+            "eid": "firststeps",
             "english": "first steps",
             "mescalero": {
                 "literal_translations": ["a baby makes its first steps"],
@@ -3175,20 +3184,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "fish": {
-            "CID": "C013",
-            "EID": "fish",
+            "cid": "C013",
+            "eid": "fish",
             "english": "fish",
             "mescalero": {"literal_translations": [], "words": ["łųųye"]},
         },
         "fishhatcheryj": {
-            "CID": "C026",
-            "EID": "fishhatcheryj",
+            "cid": "C026",
+            "eid": "fishhatcheryj",
             "english": "fish hatchery",
             "mescalero": {"literal_translations": [], "words": ["túzáni húúliya"]},
         },
         "fivecanyonl": {
-            "CID": "C026",
-            "EID": "fivecanyonl",
+            "cid": "C026",
+            "eid": "fivecanyonl",
             "english": "five canyon",
             "mescalero": {
                 "literal_translations": [],
@@ -3196,8 +3205,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "fivemilessouthofdeming": {
-            "CID": "C019",
-            "EID": "fivemilessouthofdeming",
+            "cid": "C019",
+            "eid": "fivemilessouthofdeming",
             "english": "five miles south of deming",
             "mescalero": {
                 "literal_translations": ["three mountains"],
@@ -3205,8 +3214,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "flash": {
-            "CID": "C020",
-            "EID": "flash",
+            "cid": "C020",
+            "eid": "flash",
             "english": "flash",
             "mescalero": {
                 "literal_translations": ["it flashed once"],
@@ -3214,8 +3223,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "flat": {
-            "CID": "C027",
-            "EID": "flat",
+            "cid": "C027",
+            "eid": "flat",
             "english": "flat",
             "mescalero": {
                 "literal_translations": ["it is flat"],
@@ -3223,20 +3232,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "fleas": {
-            "CID": "C016",
-            "EID": "fleas",
+            "cid": "C016",
+            "eid": "fleas",
             "english": "fleas",
             "mescalero": {"literal_translations": [], "words": ["yaa'"]},
         },
         "flesh": {
-            "CID": "C001",
-            "EID": "flesh",
+            "cid": "C001",
+            "eid": "flesh",
             "english": "flesh",
             "mescalero": {"literal_translations": [], "words": ["-tsį́'"]},
         },
         "flicker": {
-            "CID": "C005",
-            "EID": "flicker",
+            "cid": "C005",
+            "eid": "flicker",
             "english": "flicker",
             "mescalero": {
                 "literal_translations": ["red forehead"],
@@ -3244,8 +3253,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "flintknives": {
-            "CID": "C003",
-            "EID": "flintknives",
+            "cid": "C003",
+            "eid": "flintknives",
             "english": "flint knives",
             "mescalero": {
                 "literal_translations": [],
@@ -3253,8 +3262,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "flood": {
-            "CID": "C011",
-            "EID": "flood",
+            "cid": "C011",
+            "eid": "flood",
             "english": "flood",
             "mescalero": {
                 "literal_translations": ["water rushed through"],
@@ -3262,8 +3271,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "flour": {
-            "CID": "C014",
-            "EID": "flour",
+            "cid": "C014",
+            "eid": "flour",
             "english": "flour",
             "mescalero": {
                 "literal_translations": ["something that has been ground"],
@@ -3271,8 +3280,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "flourcan": {
-            "CID": "C015",
-            "EID": "flourcan",
+            "cid": "C015",
+            "eid": "flourcan",
             "english": "flour can",
             "mescalero": {
                 "literal_translations": ["that in which to store flour"],
@@ -3280,20 +3289,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "flowerbud": {
-            "CID": "C025",
-            "EID": "flowerbud",
+            "cid": "C025",
+            "eid": "flowerbud",
             "english": "flower bud",
             "mescalero": {"literal_translations": [], "words": ["tł'unzhúní bíchu"]},
         },
         "flute": {
-            "CID": "C003",
-            "EID": "flute",
+            "cid": "C003",
+            "eid": "flute",
             "english": "flute",
             "mescalero": {"literal_translations": [], "words": ["'idįįdįį"]},
         },
         "flyswatter": {
-            "CID": "C015",
-            "EID": "flyswatter",
+            "cid": "C015",
+            "eid": "flyswatter",
             "english": "fly swatter",
             "mescalero": {
                 "literal_translations": ["that used to kill flies"],
@@ -3301,14 +3310,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "fog": {
-            "CID": "C007",
-            "EID": "fog",
+            "cid": "C007",
+            "eid": "fog",
             "english": "fog",
             "mescalero": {"literal_translations": [], "words": ["'ádi"]},
         },
         "foot": {
-            "CID": "C001",
-            "EID": "foot",
+            "cid": "C001",
+            "eid": "foot",
             "english": "foot",
             "mescalero": {
                 "literal_translations": [],
@@ -3316,8 +3325,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "forefinger": {
-            "CID": "C001",
-            "EID": "forefinger",
+            "cid": "C001",
+            "eid": "forefinger",
             "english": "fore-finger",
             "mescalero": {
                 "literal_translations": ["pointing finger"],
@@ -3325,20 +3334,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "forehead": {
-            "CID": "C001",
-            "EID": "forehead",
+            "cid": "C001",
+            "eid": "forehead",
             "english": "fore-head",
             "mescalero": {"literal_translations": [], "words": ["-tah"]},
         },
         "forest": {
-            "CID": "C011",
-            "EID": "forest",
+            "cid": "C011",
+            "eid": "forest",
             "english": "forest",
             "mescalero": {"literal_translations": [], "words": ["tsę sika'"]},
         },
         "fork": {
-            "CID": "C015",
-            "EID": "fork",
+            "cid": "C015",
+            "eid": "fork",
             "english": "fork",
             "mescalero": {
                 "literal_translations": ["forked metal"],
@@ -3346,8 +3355,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "forkstickfrybread": {
-            "CID": "C003",
-            "EID": "forkstickfrybread",
+            "cid": "C003",
+            "eid": "forkstickfrybread",
             "english": "fork stick (fry bread)",
             "mescalero": {
                 "literal_translations": ["stick to turn bread over with"],
@@ -3355,14 +3364,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "fortstanton": {
-            "CID": "C019",
-            "EID": "fortstanton",
+            "cid": "C019",
+            "eid": "fortstanton",
             "english": "fort stanton",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["zhúnifidu"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["zhúnifidu"]},
         },
         "fortsumner": {
-            "CID": "C019",
-            "EID": "fortsumner",
+            "cid": "C019",
+            "eid": "fortsumner",
             "english": "fort sumner",
             "mescalero": {
                 "literal_translations": ["where there is a waterfall"],
@@ -3370,8 +3379,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "foxcave": {
-            "CID": "C019",
-            "EID": "foxcave",
+            "cid": "C019",
+            "eid": "foxcave",
             "english": "fox cave",
             "mescalero": {
                 "literal_translations": ["coyote trail"],
@@ -3379,8 +3388,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "freezer": {
-            "CID": "C015",
-            "EID": "freezer",
+            "cid": "C015",
+            "eid": "freezer",
             "english": "freezer",
             "mescalero": {
                 "literal_translations": ["that which freezes food"],
@@ -3388,8 +3397,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "friday": {
-            "CID": "C009",
-            "EID": "friday",
+            "cid": "C009",
+            "eid": "friday",
             "english": "friday",
             "mescalero": {
                 "literal_translations": ["five days after Sunday"],
@@ -3397,20 +3406,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "fromonesource": {
-            "CID": "C020",
-            "EID": "fromonesource",
+            "cid": "C020",
+            "eid": "fromonesource",
             "english": "from one source",
             "mescalero": {"literal_translations": [], "words": ["dáłéshi"]},
         },
         "fruits": {
-            "CID": "C014",
-            "EID": "fruits",
+            "cid": "C014",
+            "eid": "fruits",
             "english": "fruits",
             "mescalero": {"literal_translations": [], "words": ["neest'áne"]},
         },
         "frybread": {
-            "CID": "C004",
-            "EID": "frybread",
+            "cid": "C004",
+            "eid": "frybread",
             "english": "fry bread",
             "mescalero": {
                 "literal_translations": ["greasy bread", "red bread"],
@@ -3418,14 +3427,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "full": {
-            "CID": "C020",
-            "EID": "full",
+            "cid": "C020",
+            "eid": "full",
             "english": "full",
             "mescalero": {"literal_translations": ["it is full"], "words": ["beegha"]},
         },
         "fullmoon": {
-            "CID": "C011",
-            "EID": "fullmoon",
+            "cid": "C011",
+            "eid": "fullmoon",
             "english": "full moon",
             "mescalero": {
                 "literal_translations": ["it came out round again"],
@@ -3433,14 +3442,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "furtheronforward": {
-            "CID": "C020",
-            "EID": "furtheronforward",
+            "cid": "C020",
+            "eid": "furtheronforward",
             "english": "further on, forward",
             "mescalero": {"literal_translations": [], "words": ["ndásá"]},
         },
         "fuzzy": {
-            "CID": "C027",
-            "EID": "fuzzy",
+            "cid": "C027",
+            "eid": "fuzzy",
             "english": "fuzzy",
             "mescalero": {
                 "literal_translations": ["it is fuzzy"],
@@ -3448,14 +3457,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "fuzzyblackworm": {
-            "CID": "C016",
-            "EID": "fuzzyblackworm",
+            "cid": "C016",
+            "eid": "fuzzyblackworm",
             "english": "fuzzy black worm",
             "mescalero": {"literal_translations": [], "words": ["kųghush"]},
         },
         "gallbladder": {
-            "CID": "C001",
-            "EID": "gallbladder",
+            "cid": "C001",
+            "eid": "gallbladder",
             "english": "gall-bladder",
             "mescalero": {
                 "literal_translations": ["cooked blood"],
@@ -3463,8 +3472,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "gallinamountains": {
-            "CID": "C019",
-            "EID": "gallinamountains",
+            "cid": "C019",
+            "eid": "gallinamountains",
             "english": "gallina mountains",
             "mescalero": {
                 "literal_translations": ["turkey mountains"],
@@ -3472,8 +3481,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "galvanizedtub": {
-            "CID": "C015",
-            "EID": "galvanizedtub",
+            "cid": "C015",
+            "eid": "galvanizedtub",
             "english": "galvanized tub",
             "mescalero": {
                 "literal_translations": ["the can in which one bathes"],
@@ -3481,8 +3490,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "garbagecan": {
-            "CID": "C015",
-            "EID": "garbagecan",
+            "cid": "C015",
+            "eid": "garbagecan",
             "english": "garbage can",
             "mescalero": {
                 "literal_translations": ["that in which one throws trash"],
@@ -3490,8 +3499,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "garlic": {
-            "CID": "C014",
-            "EID": "garlic",
+            "cid": "C014",
+            "eid": "garlic",
             "english": "garlic",
             "mescalero": {
                 "literal_translations": ["Spanish, stinky onion"],
@@ -3499,8 +3508,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "gasoline": {
-            "CID": "C021",
-            "EID": "gasoline",
+            "cid": "C021",
+            "eid": "gasoline",
             "english": "gasoline",
             "mescalero": {
                 "literal_translations": [],
@@ -3508,8 +3517,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "gateentrance": {
-            "CID": "C015",
-            "EID": "gateentrance",
+            "cid": "C015",
+            "eid": "gateentrance",
             "english": "gate; entrance",
             "mescalero": {
                 "literal_translations": ["road or path leading in"],
@@ -3517,20 +3526,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "geestring": {
-            "CID": "C003",
-            "EID": "geestring",
+            "cid": "C003",
+            "eid": "geestring",
             "english": "gee string",
             "mescalero": {"literal_translations": [], "words": ["chuushta'é"]},
         },
         "genitals": {
-            "CID": "C001",
-            "EID": "genitals",
+            "cid": "C001",
+            "eid": "genitals",
             "english": "genitals",
             "mescalero": {"literal_translations": [], "words": ["-k'aayee'"]},
         },
         "gilamonster": {
-            "CID": "C013",
-            "EID": "gilamonster",
+            "cid": "C013",
+            "eid": "gilamonster",
             "english": "gila monster",
             "mescalero": {
                 "literal_translations": ["the rough thing that crawls between rocks"],
@@ -3538,8 +3547,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "glassy": {
-            "CID": "C027",
-            "EID": "glassy",
+            "cid": "C027",
+            "eid": "glassy",
             "english": "glassy",
             "mescalero": {
                 "literal_translations": ["it is glassy"],
@@ -3547,8 +3556,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "glitteryshiny": {
-            "CID": "C008",
-            "EID": "glitteryshiny",
+            "cid": "C008",
+            "eid": "glitteryshiny",
             "english": "glittery; shiny",
             "mescalero": {
                 "literal_translations": ["it is shiny"],
@@ -3556,26 +3565,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "gloves": {
-            "CID": "C023",
-            "EID": "gloves",
+            "cid": "C023",
+            "eid": "gloves",
             "english": "gloves",
             "mescalero": {"literal_translations": [], "words": ["laazis"]},
         },
         "gnats": {
-            "CID": "C016",
-            "EID": "gnats",
+            "cid": "C016",
+            "eid": "gnats",
             "english": "gnats",
             "mescalero": {"literal_translations": [], "words": ["ts'į́iye"]},
         },
         "goldenrod": {
-            "CID": "C025",
-            "EID": "goldenrod",
+            "cid": "C025",
+            "eid": "goldenrod",
             "english": "golden rod",
             "mescalero": {"literal_translations": [], "words": ["súúle"]},
         },
         "golondrinaa": {
-            "CID": "C026",
-            "EID": "golondrinaa",
+            "cid": "C026",
+            "eid": "golondrinaa",
             "english": "golondrina",
             "mescalero": {
                 "literal_translations": ["twisting grapevine"],
@@ -3583,32 +3592,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "goose": {
-            "CID": "C005",
-            "EID": "goose",
+            "cid": "C005",
+            "eid": "goose",
             "english": "goose",
             "mescalero": {"literal_translations": [], "words": ["déł"]},
         },
         "gooseberries": {
-            "CID": "C025",
-            "EID": "gooseberries",
+            "cid": "C025",
+            "eid": "gooseberries",
             "english": "gooseberries",
             "mescalero": {"literal_translations": [], "words": ["daghaje", "dauje"]},
         },
         "gourd": {
-            "CID": "C003",
-            "EID": "gourd",
+            "cid": "C003",
+            "eid": "gourd",
             "english": "gourd",
             "mescalero": {"literal_translations": [], "words": ["tuułtsi"]},
         },
         "gourdrattle": {
-            "CID": "C003",
-            "EID": "gourdrattle",
+            "cid": "C003",
+            "eid": "gourdrattle",
             "english": "gourd rattle",
             "mescalero": {"literal_translations": [], "words": ["xał"]},
         },
         "grain": {
-            "CID": "C025",
-            "EID": "grain",
+            "cid": "C025",
+            "eid": "grain",
             "english": "grain",
             "mescalero": {
                 "literal_translations": ["eye of a plant"],
@@ -3616,20 +3625,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "grainbasketflat": {
-            "CID": "C003",
-            "EID": "grainbasketflat",
+            "cid": "C003",
+            "eid": "grainbasketflat",
             "english": "grain basket (flat)",
             "mescalero": {"literal_translations": [], "words": ["ts'aa'"]},
         },
         "gramagrass": {
-            "CID": "C003",
-            "EID": "gramagrass",
+            "cid": "C003",
+            "eid": "gramagrass",
             "english": "grama grass",
             "mescalero": {"literal_translations": [], "words": ["tł'uk'stase"]},
         },
         "grapefruit": {
-            "CID": "C025",
-            "EID": "grapefruit",
+            "cid": "C025",
+            "eid": "grapefruit",
             "english": "grapefruit",
             "mescalero": {
                 "literal_translations": ["big yellow fruit"],
@@ -3637,8 +3646,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "grapejuice": {
-            "CID": "C014",
-            "EID": "grapejuice",
+            "cid": "C014",
+            "eid": "grapejuice",
             "english": "grape juice",
             "mescalero": {
                 "literal_translations": ["grape's water"],
@@ -3646,8 +3655,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "grapes": {
-            "CID": "C014",
-            "EID": "grapes",
+            "cid": "C014",
+            "eid": "grapes",
             "english": "grapes",
             "mescalero": {
                 "literal_translations": [],
@@ -3655,20 +3664,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "grasshopper": {
-            "CID": "C016",
-            "EID": "grasshopper",
+            "cid": "C016",
+            "eid": "grasshopper",
             "english": "grasshopper",
             "mescalero": {"literal_translations": [], "words": ["hanshchaaye"]},
         },
         "gravel": {
-            "CID": "C011",
-            "EID": "gravel",
+            "cid": "C011",
+            "eid": "gravel",
             "english": "gravel",
             "mescalero": {"literal_translations": [], "words": ["tsé huk'ani"]},
         },
         "gravelpitl": {
-            "CID": "C026",
-            "EID": "gravelpitl",
+            "cid": "C026",
+            "eid": "gravelpitl",
             "english": "gravel pit",
             "mescalero": {
                 "literal_translations": ["rock crushing place", "place to dig rock"],
@@ -3676,8 +3685,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "graveyard": {
-            "CID": "C026",
-            "EID": "graveyard",
+            "cid": "C026",
+            "eid": "graveyard",
             "english": "graveyard",
             "mescalero": {
                 "literal_translations": ["across the way"],
@@ -3685,8 +3694,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "graveyardcanyonj": {
-            "CID": "C026",
-            "EID": "graveyardcanyonj",
+            "cid": "C026",
+            "eid": "graveyardcanyonj",
             "english": "graveyard canyon",
             "mescalero": {
                 "literal_translations": [],
@@ -3694,68 +3703,68 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "gravy": {
-            "CID": "C001",
-            "EID": "gravy",
+            "cid": "C001",
+            "eid": "gravy",
             "english": "gravy",
             "mescalero": {"literal_translations": [], "words": ["tandíle'"]},
         },
         "gray": {
-            "CID": "C008",
-            "EID": "gray",
+            "cid": "C008",
+            "eid": "gray",
             "english": "gray",
             "mescalero": {"literal_translations": [], "words": ["zíba"]},
         },
         "greasy": {
-            "CID": "C027",
-            "EID": "greasy",
+            "cid": "C027",
+            "eid": "greasy",
             "english": "greasy",
             "mescalero": {"literal_translations": ["it is greasy"], "words": ["dááxe"]},
         },
         "green": {
-            "CID": "C008",
-            "EID": "green",
+            "cid": "C008",
+            "eid": "green",
             "english": "green",
             "mescalero": {"literal_translations": [], "words": ["datł'ish"]},
         },
         "greenchili": {
-            "CID": "C014",
-            "EID": "greenchili",
+            "cid": "C014",
+            "eid": "greenchili",
             "english": "green chili",
             "mescalero": {"literal_translations": [], "words": ["chfile datł'ishí"]},
         },
         "grindingrockmatate": {
-            "CID": "C003",
-            "EID": "grindingrockmatate",
+            "cid": "C003",
+            "eid": "grindingrockmatate",
             "english": "grinding rock (matate)",
             "mescalero": {"literal_translations": [], "words": ["bééłx'áí'"]},
         },
         "gristle": {
-            "CID": "C001",
-            "EID": "gristle",
+            "cid": "C001",
+            "eid": "gristle",
             "english": "gristle",
             "mescalero": {"literal_translations": [], "words": ["'its'ide"]},
         },
         "groundflooretc": {
-            "CID": "C011",
-            "EID": "groundflooretc",
+            "cid": "C011",
+            "eid": "groundflooretc",
             "english": "ground floor etc",
             "mescalero": {"literal_translations": [], "words": ["nííya"]},
         },
         "groundmeathamburger": {
-            "CID": "C014",
-            "EID": "groundmeathamburger",
+            "cid": "C014",
+            "eid": "groundmeathamburger",
             "english": "ground meat, hamburger",
             "mescalero": {"literal_translations": [], "words": ["'its'juk'ání"]},
         },
         "grouse": {
-            "CID": "C005",
-            "EID": "grouse",
+            "cid": "C005",
+            "eid": "grouse",
             "english": "grouse",
             "mescalero": {"literal_translations": [], "words": ["nanlaadé déł"]},
         },
         "growingthings": {
-            "CID": "C025",
-            "EID": "growingthings",
+            "cid": "C025",
+            "eid": "growingthings",
             "english": "growing things",
             "mescalero": {
                 "literal_translations": ["things that grow"],
@@ -3763,14 +3772,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "growth": {
-            "CID": "C025",
-            "EID": "growth",
+            "cid": "C025",
+            "eid": "growth",
             "english": "growth",
             "mescalero": {"literal_translations": [], "words": ["nat'í'íí", "naséíí"]},
         },
         "guadalupemountain": {
-            "CID": "C019",
-            "EID": "guadalupemountain",
+            "cid": "C019",
+            "eid": "guadalupemountain",
             "english": "guadalupe mountain",
             "mescalero": {
                 "literal_translations": ["nose rock"],
@@ -3778,8 +3787,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "gulfofmexico": {
-            "CID": "C019",
-            "EID": "gulfofmexico",
+            "cid": "C019",
+            "eid": "gulfofmexico",
             "english": "gulf of mexico",
             "mescalero": {
                 "literal_translations": ["home of big water people"],
@@ -3787,8 +3796,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "gulley": {
-            "CID": "C011",
-            "EID": "gulley",
+            "cid": "C011",
+            "eid": "gulley",
             "english": "gulley",
             "mescalero": {
                 "literal_translations": ["the water made a ditch"],
@@ -3796,32 +3805,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "gumjugchewinggum": {
-            "CID": "C003",
-            "EID": "gumjugchewinggum",
+            "cid": "C003",
+            "eid": "gumjugchewinggum",
             "english": "gum jug; chewing gum",
             "mescalero": {"literal_translations": [], "words": ["jaa'"]},
         },
         "gumjugformakingtulbai": {
-            "CID": "C003",
-            "EID": "gumjugformakingtulbai",
+            "cid": "C003",
+            "eid": "gumjugformakingtulbai",
             "english": "gum jug for making tulbáí",
             "mescalero": {"literal_translations": [], "words": ["beeda'nghushí"]},
         },
         "habitat": {
-            "CID": "C011",
-            "EID": "habitat",
+            "cid": "C011",
+            "eid": "habitat",
             "english": "habitat",
             "mescalero": {"literal_translations": [], "words": ["naaghá'e'"]},
         },
         "habitatalt": {
-            "CID": "C011",
-            "EID": "habitatalt",
+            "cid": "C011",
+            "eid": "habitatalt",
             "english": "habitat alt",
             "mescalero": {"literal_translations": [], "words": ["hindá'e'"]},
         },
         "hackmore": {
-            "CID": "C028",
-            "EID": "hackmore",
+            "cid": "C028",
+            "eid": "hackmore",
             "english": "hackmore",
             "mescalero": {
                 "literal_translations": ["that which one puts on a horse's face"],
@@ -3829,26 +3838,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "hair": {
-            "CID": "C001",
-            "EID": "hair",
+            "cid": "C001",
+            "eid": "hair",
             "english": "hair",
             "mescalero": {"literal_translations": [], "words": ["-tsiighaa'"]},
         },
         "hairbun": {
-            "CID": "C003",
-            "EID": "hairbun",
+            "cid": "C003",
+            "eid": "hairbun",
             "english": "hair bun",
             "mescalero": {"literal_translations": [], "words": ["tsiighele"]},
         },
         "hairoil": {
-            "CID": "C003",
-            "EID": "hairoil",
+            "cid": "C003",
+            "eid": "hairoil",
             "english": "hair oil",
             "mescalero": {"literal_translations": [], "words": ["tła"]},
         },
         "hairtie": {
-            "CID": "C003",
-            "EID": "hairtie",
+            "cid": "C003",
+            "eid": "hairtie",
             "english": "hair tie",
             "mescalero": {
                 "literal_translations": [],
@@ -3856,14 +3865,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "hairy": {
-            "CID": "C027",
-            "EID": "hairy",
+            "cid": "C027",
+            "eid": "hairy",
             "english": "hairy",
             "mescalero": {"literal_translations": ["it is hairy"], "words": ["ditł'u"]},
         },
         "hammer": {
-            "CID": "C028",
-            "EID": "hammer",
+            "cid": "C028",
+            "eid": "hammer",
             "english": "hammer",
             "mescalero": {
                 "literal_translations": ["that with which one pounds"],
@@ -3871,14 +3880,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "hand": {
-            "CID": "C001",
-            "EID": "hand",
+            "cid": "C001",
+            "eid": "hand",
             "english": "hand",
             "mescalero": {"literal_translations": [], "words": ["-laa'"]},
         },
         "handkerchief": {
-            "CID": "C003",
-            "EID": "handkerchief",
+            "cid": "C003",
+            "eid": "handkerchief",
             "english": "handkerchief",
             "mescalero": {
                 "literal_translations": ["handkerchief"],
@@ -3886,20 +3895,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "handkerchiefneck": {
-            "CID": "C023",
-            "EID": "handkerchiefneck",
+            "cid": "C023",
+            "eid": "handkerchiefneck",
             "english": "handkerchief",
             "mescalero": {"literal_translations": [], "words": ["'ízba'"]},
         },
         "handle": {
-            "CID": "C029",
-            "EID": "handle",
+            "cid": "C029",
+            "eid": "handle",
             "english": "handle",
             "mescalero": {"literal_translations": [], "words": ["bitsine"]},
         },
         "handsaw": {
-            "CID": "C028",
-            "EID": "handsaw",
+            "cid": "C028",
+            "eid": "handsaw",
             "english": "handsaw",
             "mescalero": {
                 "literal_translations": ["that with which one saws"],
@@ -3907,14 +3916,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "hard": {
-            "CID": "C027",
-            "EID": "hard",
+            "cid": "C027",
+            "eid": "hard",
             "english": "hard",
             "mescalero": {"literal_translations": ["it is hard"], "words": ["nt'įis"]},
         },
         "hardhat": {
-            "CID": "C023",
-            "EID": "hardhat",
+            "cid": "C023",
+            "eid": "hardhat",
             "english": "hard hat",
             "mescalero": {
                 "literal_translations": [],
@@ -3922,14 +3931,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "harness": {
-            "CID": "C003",
-            "EID": "harness",
+            "cid": "C003",
+            "eid": "harness",
             "english": "harness",
             "mescalero": {"literal_translations": [], "words": ["zí k'enaaneestzųų'í"]},
         },
         "harnessreins": {
-            "CID": "C028",
-            "EID": "harnessreins",
+            "cid": "C028",
+            "eid": "harnessreins",
             "english": "harness reins",
             "mescalero": {
                 "literal_translations": ["that which is strung across a horse"],
@@ -3937,8 +3946,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "harrow": {
-            "CID": "C021",
-            "EID": "harrow",
+            "cid": "C021",
+            "eid": "harrow",
             "english": "harrow",
             "mescalero": {
                 "literal_translations": ["that with which to brush the top"],
@@ -3946,8 +3955,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "harvesttime": {
-            "CID": "C022",
-            "EID": "harvesttime",
+            "cid": "C022",
+            "eid": "harvesttime",
             "english": "harvest time",
             "mescalero": {
                 "literal_translations": ["everything has ripened"],
@@ -3955,26 +3964,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "hat": {
-            "CID": "C023",
-            "EID": "hat",
+            "cid": "C023",
+            "eid": "hat",
             "english": "hat",
             "mescalero": {"literal_translations": [], "words": ["ch'a"]},
         },
         "hatband": {
-            "CID": "C003",
-            "EID": "hatband",
+            "cid": "C003",
+            "eid": "hatband",
             "english": "hat band",
             "mescalero": {"literal_translations": [], "words": ["ch'a bindát'i'í"]},
         },
         "hatchet": {
-            "CID": "C003",
-            "EID": "hatchet",
+            "cid": "C003",
+            "eid": "hatchet",
             "english": "hatchet",
             "mescalero": {"literal_translations": [], "words": ["betseel bizááyí"]},
         },
         "hayrack": {
-            "CID": "C028",
-            "EID": "hayrack",
+            "cid": "C028",
+            "eid": "hayrack",
             "english": "hayrack",
             "mescalero": {
                 "literal_translations": ["that which lays across plants"],
@@ -3982,26 +3991,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "head": {
-            "CID": "C001",
-            "EID": "head",
+            "cid": "C001",
+            "eid": "head",
             "english": "head",
             "mescalero": {"literal_translations": [], "words": ["-tsi'"]},
         },
         "headband": {
-            "CID": "C003",
-            "EID": "headband",
+            "cid": "C003",
+            "eid": "headband",
             "english": "head band",
             "mescalero": {"literal_translations": [], "words": ["tsii bindáati'í'í"]},
         },
         "headlouse": {
-            "CID": "C016",
-            "EID": "headlouse",
+            "cid": "C016",
+            "eid": "headlouse",
             "english": "headlouse",
             "mescalero": {"literal_translations": [], "words": ["yaa'"]},
         },
         "headspringl": {
-            "CID": "C026",
-            "EID": "headspringl",
+            "cid": "C026",
+            "eid": "headspringl",
             "english": "head spring",
             "mescalero": {
                 "literal_translations": ["upper stream"],
@@ -4009,14 +4018,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "heart": {
-            "CID": "C001",
-            "EID": "heart",
+            "cid": "C001",
+            "eid": "heart",
             "english": "heart",
             "mescalero": {"literal_translations": [], "words": ["-jei'"]},
         },
         "heater": {
-            "CID": "C028",
-            "EID": "heater",
+            "cid": "C028",
+            "eid": "heater",
             "english": "heater",
             "mescalero": {
                 "literal_translations": ["that which keeps a place warm"],
@@ -4024,38 +4033,38 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "heel": {
-            "CID": "C001",
-            "EID": "heel",
+            "cid": "C001",
+            "eid": "heel",
             "english": "heel",
             "mescalero": {"literal_translations": [], "words": ["-kétaał"]},
         },
         "hell": {
-            "CID": "C011",
-            "EID": "hell",
+            "cid": "C011",
+            "eid": "hell",
             "english": "hell",
             "mescalero": {"literal_translations": [], "words": ["nííguyaa"]},
         },
         "heron": {
-            "CID": "C005",
-            "EID": "heron",
+            "cid": "C005",
+            "eid": "heron",
             "english": "heron",
             "mescalero": {"literal_translations": [], "words": ["dųńí"]},
         },
         "hidewithhairoff": {
-            "CID": "C003",
-            "EID": "hidewithhairoff",
+            "cid": "C003",
+            "eid": "hidewithhairoff",
             "english": "hide with hair off",
             "mescalero": {"literal_translations": [], "words": ["'isgąą'"]},
         },
         "high": {
-            "CID": "C020",
-            "EID": "high",
+            "cid": "C020",
+            "eid": "high",
             "english": "high",
             "mescalero": {"literal_translations": [], "words": ["ńúda"]},
         },
         "highest": {
-            "CID": "C020",
-            "EID": "highest",
+            "cid": "C020",
+            "eid": "highest",
             "english": "highest",
             "mescalero": {
                 "literal_translations": [],
@@ -4063,8 +4072,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "highrolls": {
-            "CID": "C019",
-            "EID": "highrolls",
+            "cid": "C019",
+            "eid": "highrolls",
             "english": "high rolls",
             "mescalero": {
                 "literal_translations": ["deer trail"],
@@ -4072,8 +4081,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "hill": {
-            "CID": "C011",
-            "EID": "hill",
+            "cid": "C011",
+            "eid": "hill",
             "english": "hill",
             "mescalero": {
                 "literal_translations": ["small mountain"],
@@ -4081,8 +4090,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "hillsnearrivernorthoflascruces": {
-            "CID": "C019",
-            "EID": "hillsnearrivernorthoflascruces",
+            "cid": "C019",
+            "eid": "hillsnearrivernorthoflascruces",
             "english": "hills near river of las cruces",
             "mescalero": {
                 "literal_translations": ["heat coming from the mountain"],
@@ -4090,14 +4099,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "himself": {
-            "CID": "C020",
-            "EID": "himself",
+            "cid": "C020",
+            "eid": "himself",
             "english": "himself",
             "mescalero": {"literal_translations": [], "words": ["dábi"]},
         },
         "hinting": {
-            "CID": "C012",
-            "EID": "hinting",
+            "cid": "C012",
+            "eid": "hinting",
             "english": "hinting",
             "mescalero": {
                 "literal_translations": [],
@@ -4105,23 +4114,23 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "hipjoint": {
-            "CID": "C001",
-            "EID": "hipjoint",
+            "cid": "C001",
+            "eid": "hipjoint",
             "english": "hip joint",
             "mescalero": {"literal_translations": [], "words": ["-k'ale"]},
         },
         "hishibeads": {
-            "CID": "C003",
-            "EID": "hishibeads",
+            "cid": "C003",
+            "eid": "hishibeads",
             "english": "hishi beads",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["maałgayé", "baałgayé"],
             },
         },
         "hoe": {
-            "CID": "C028",
-            "EID": "hoe",
+            "cid": "C028",
+            "eid": "hoe",
             "english": "hoe",
             "mescalero": {
                 "literal_translations": ["that with which one pokes around"],
@@ -4129,14 +4138,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "hole": {
-            "CID": "C011",
-            "EID": "hole",
+            "cid": "C011",
+            "eid": "hole",
             "english": "hole",
             "mescalero": {"literal_translations": [], "words": ["'igui'ane"]},
         },
         "holey": {
-            "CID": "C027",
-            "EID": "holey",
+            "cid": "C027",
+            "eid": "holey",
             "english": "holey",
             "mescalero": {
                 "literal_translations": ["it is holey"],
@@ -4144,14 +4153,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "home": {
-            "CID": "C011",
-            "EID": "home",
+            "cid": "C011",
+            "eid": "home",
             "english": "home",
             "mescalero": {"literal_translations": [], "words": ["gughą"]},
         },
         "homealt": {
-            "CID": "C011",
-            "EID": "homealt",
+            "cid": "C011",
+            "eid": "homealt",
             "english": "home alt",
             "mescalero": {
                 "literal_translations": ["one's home, one's mate"],
@@ -4159,14 +4168,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "homeland": {
-            "CID": "C011",
-            "EID": "homeland",
+            "cid": "C011",
+            "eid": "homeland",
             "english": "homeland",
             "mescalero": {"literal_translations": [], "words": ["keeya'"]},
         },
         "hondo": {
-            "CID": "C019",
-            "EID": "hondo",
+            "cid": "C019",
+            "eid": "hondo",
             "english": "hondo",
             "mescalero": {
                 "literal_translations": ["meeting of two rivers", "a rock ridge"],
@@ -4174,8 +4183,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "honey": {
-            "CID": "C014",
-            "EID": "honey",
+            "cid": "C014",
+            "eid": "honey",
             "english": "honey",
             "mescalero": {
                 "literal_translations": ["bee's water"],
@@ -4183,14 +4192,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "horizon": {
-            "CID": "C011",
-            "EID": "horizon",
+            "cid": "C011",
+            "eid": "horizon",
             "english": "horizon",
             "mescalero": {"literal_translations": [], "words": ["nnáheet'įiya"]},
         },
         "horizonalt": {
-            "CID": "C011",
-            "EID": "horizonalt",
+            "cid": "C011",
+            "eid": "horizonalt",
             "english": "horizon alt",
             "mescalero": {
                 "literal_translations": ["it is visible in the distance"],
@@ -4198,14 +4207,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "horntoad": {
-            "CID": "C013",
-            "EID": "horntoad",
+            "cid": "C013",
+            "eid": "horntoad",
             "english": "horntoad",
             "mescalero": {"literal_translations": [], "words": ["k'enańíshghaazhe"]},
         },
         "horsefly": {
-            "CID": "C016",
-            "EID": "horsefly",
+            "cid": "C016",
+            "eid": "horsefly",
             "english": "horse fly",
             "mescalero": {
                 "literal_translations": [],
@@ -4213,20 +4222,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "horseribstanningtoolforscraping": {
-            "CID": "C003",
-            "EID": "horseribstanningtoolforscraping",
+            "cid": "C003",
+            "eid": "horseribstanningtoolforscraping",
             "english": "horse ribs, tanning tool (for scraping)",
             "mescalero": {"literal_translations": [], "words": ["be'iłdzéé'í"]},
         },
         "horseshoe": {
-            "CID": "C028",
-            "EID": "horseshoe",
+            "cid": "C028",
+            "eid": "horseshoe",
             "english": "horse shoe",
             "mescalero": {"literal_translations": [], "words": ["įį bikee"]},
         },
         "horsespringsl": {
-            "CID": "C026",
-            "EID": "horsespringsl",
+            "cid": "C026",
+            "eid": "horsespringsl",
             "english": "horse springs",
             "mescalero": {
                 "literal_translations": ["where horses fall into the water"],
@@ -4234,8 +4243,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "horsetrailer": {
-            "CID": "C028",
-            "EID": "horsetrailer",
+            "cid": "C028",
+            "eid": "horsetrailer",
             "english": "horse trailer",
             "mescalero": {
                 "literal_translations": ["that with which to transport a horse"],
@@ -4243,8 +4252,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "horsetrough": {
-            "CID": "C028",
-            "EID": "horsetrough",
+            "cid": "C028",
+            "eid": "horsetrough",
             "english": "horse trough",
             "mescalero": {
                 "literal_translations": ["that from which horses drink"],
@@ -4252,8 +4261,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "hotsprings": {
-            "CID": "C019",
-            "EID": "hotsprings",
+            "cid": "C019",
+            "eid": "hotsprings",
             "english": "hot springs",
             "mescalero": {
                 "literal_translations": ["hot water place"],
@@ -4261,8 +4270,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "hotwaterheater": {
-            "CID": "C015",
-            "EID": "hotwaterheater",
+            "cid": "C015",
+            "eid": "hotwaterheater",
             "english": "hot water heater",
             "mescalero": {
                 "literal_translations": ["that which heats water"],
@@ -4270,8 +4279,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "hour": {
-            "CID": "C009",
-            "EID": "hour",
+            "cid": "C009",
+            "eid": "hour",
             "english": "hour",
             "mescalero": {
                 "literal_translations": ["it (hand went around once)"],
@@ -4279,8 +4288,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "housefly": {
-            "CID": "C016",
-            "EID": "housefly",
+            "cid": "C016",
+            "eid": "housefly",
             "english": "house fly",
             "mescalero": {
                 "literal_translations": [],
@@ -4288,8 +4297,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "houseplants": {
-            "CID": "C025",
-            "EID": "houseplants",
+            "cid": "C025",
+            "eid": "houseplants",
             "english": "house plants",
             "mescalero": {
                 "literal_translations": ["plants to put inside"],
@@ -4297,17 +4306,17 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "huge": {
-            "CID": "C027",
-            "EID": "huge",
+            "cid": "C027",
+            "eid": "huge",
             "english": "huge",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["dá'ákuudeya", "'íízis"],
             },
         },
         "hummingbird": {
-            "CID": "C005",
-            "EID": "hummingbird",
+            "cid": "C005",
+            "eid": "hummingbird",
             "english": "hummingbird",
             "mescalero": {
                 "literal_translations": [],
@@ -4315,41 +4324,50 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "humped": {
-            "CID": "C027",
-            "EID": "humped",
+            "cid": "C027",
+            "eid": "humped",
             "english": "humped",
             "mescalero": {
                 "literal_translations": ["it is bumpy"],
                 "words": ["hanáda'ii'a"],
             },
         },
+        "hunger": {
+            "cid": "C020",
+            "eid": "hunger",
+            "english": "hunger",
+            "mescalero": {
+                "literal_translations": [],
+                "words": ["chi"],
+            },
+        },
         "husband": {
-            "CID": "C017",
-            "EID": "husband",
+            "cid": "C017",
+            "eid": "husband",
             "english": "husband",
             "mescalero": {"literal_translations": [], "words": ["-ghaastį́"]},
         },
         "hypogastricvein": {
-            "CID": "C001",
-            "EID": "hypogastricvein",
+            "cid": "C001",
+            "eid": "hypogastricvein",
             "english": "hypogastric vein",
             "mescalero": {"literal_translations": [], "words": ["-tsį́ts'uusí"]},
         },
         "ice": {
-            "CID": "C011",
-            "EID": "ice",
+            "cid": "C011",
+            "eid": "ice",
             "english": "ice",
             "mescalero": {"literal_translations": [], "words": ["tį"]},
         },
         "illfixyouyoullgetit": {
-            "CID": "C012",
-            "EID": "illfixyouyoullgetit",
+            "cid": "C012",
+            "eid": "illfixyouyoullgetit",
             "english": "i'll fix you, you'll get it",
             "mescalero": {"literal_translations": [], "words": ["bánaagúyą"]},
         },
         "important": {
-            "CID": "C020",
-            "EID": "important",
+            "cid": "C020",
+            "eid": "important",
             "english": "important",
             "mescalero": {
                 "literal_translations": ["it is important"],
@@ -4357,14 +4375,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "indiancamps": {
-            "CID": "C003",
-            "EID": "indiancamps",
+            "cid": "C003",
+            "eid": "indiancamps",
             "english": "indian camps",
             "mescalero": {"literal_translations": [], "words": ["nde bikųyta"]},
         },
         "indianpaintbrush": {
-            "CID": "C001",
-            "EID": "indianpaintbrush",
+            "cid": "C001",
+            "eid": "indianpaintbrush",
             "english": "indian paint brush",
             "mescalero": {
                 "literal_translations": ["plants used to paint with"],
@@ -4372,44 +4390,44 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "indianpaintred": {
-            "CID": "C003",
-            "EID": "indianpaintred",
+            "cid": "C003",
+            "eid": "indianpaintred",
             "english": "indian paint (red)",
             "mescalero": {"literal_translations": [], "words": ["chí"]},
         },
         "indianpaintwhite": {
-            "CID": "C003",
-            "EID": "indianpaintwhite",
+            "cid": "C003",
+            "eid": "indianpaintwhite",
             "english": "indian paint (white)",
             "mescalero": {"literal_translations": [], "words": ["dleesh"]},
         },
         "indiansaddle": {
-            "CID": "C003",
-            "EID": "indiansaddle",
+            "cid": "C003",
+            "eid": "indiansaddle",
             "english": "indian saddle",
             "mescalero": {"literal_translations": [], "words": ["'lich't yaa'aye"]},
         },
         "individual": {
-            "CID": "C018",
-            "EID": "individual",
+            "cid": "C018",
+            "eid": "individual",
             "english": "individual",
             "mescalero": {"literal_translations": ["one's self"], "words": ["dákį"]},
         },
         "indoors": {
-            "CID": "C011",
-            "EID": "indoors",
+            "cid": "C011",
+            "eid": "indoors",
             "english": "indoors",
             "mescalero": {"literal_translations": [], "words": ["yaahá"]},
         },
         "indoorsalt": {
-            "CID": "C011",
-            "EID": "indoorsalt",
+            "cid": "C011",
+            "eid": "indoorsalt",
             "english": "indoors alt",
-            "mescalero": {"literal_translations": ["Chiricahua"], "words": ["'únde'eya"]},
+            "mescalero": {"literal_translations": ["(via Chiricahua)"], "words": ["'únde'eya"]},
         },
         "inlaw": {
-            "CID": "C017",
-            "EID": "inlaw",
+            "cid": "C017",
+            "eid": "inlaw",
             "english": "inlaw",
             "mescalero": {
                 "literal_translations": ["he with whom I am shy, respectful"],
@@ -4417,8 +4435,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "inlawonewithwhomiamshyrespectful": {
-            "CID": "C017",
-            "EID": "inlawonewithwhomiamshyrespectful",
+            "cid": "C017",
+            "eid": "inlawonewithwhomiamshyrespectful",
             "english": "inlaw (one with whom I am shy, respectful)",
             "mescalero": {
                 "literal_translations": ["one with whom I am shy, respectful--used in"],
@@ -4426,8 +4444,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "inlaws": {
-            "CID": "C017",
-            "EID": "inlaws",
+            "cid": "C017",
+            "eid": "inlaws",
             "english": "inlaws",
             "mescalero": {
                 "literal_translations": ["people who carry each others' burdens"],
@@ -4435,8 +4453,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "inlawspeopleforwhomtheycarryburdens": {
-            "CID": "C017",
-            "EID": "inlawspeopleforwhomtheycarryburdens",
+            "cid": "C017",
+            "eid": "inlawspeopleforwhomtheycarryburdens",
             "english": "inlaws (people for whom they carry burdens)",
             "mescalero": {
                 "literal_translations": ["people for whom they carry burdens"],
@@ -4444,44 +4462,44 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "innerear": {
-            "CID": "C001",
-            "EID": "innerear",
+            "cid": "C001",
+            "eid": "innerear",
             "english": "inner ear",
             "mescalero": {"literal_translations": [], "words": ["-jaayee'"]},
         },
         "innernose": {
-            "CID": "C001",
-            "EID": "innernose",
+            "cid": "C001",
+            "eid": "innernose",
             "english": "inner nose",
             "mescalero": {"literal_translations": [], "words": ["-niiya"]},
         },
         "inside": {
-            "CID": "C020",
-            "EID": "inside",
+            "cid": "C020",
+            "eid": "inside",
             "english": "inside",
             "mescalero": {"literal_translations": [], "words": ["yahá"]},
         },
         "instantly": {
-            "CID": "C020",
-            "EID": "instantly",
+            "cid": "C020",
+            "eid": "instantly",
             "english": "instantly",
             "mescalero": {"literal_translations": [], "words": ["dáákugu", "k'adi"]},
         },
         "intestinesmall": {
-            "CID": "C001",
-            "EID": "intestinesmall",
+            "cid": "C001",
+            "eid": "intestinesmall",
             "english": "intestine, small",
             "mescalero": {"literal_translations": [], "words": ["-ch'i'"]},
         },
         "inthatway": {
-            "CID": "C020",
-            "EID": "inthatway",
+            "cid": "C020",
+            "eid": "inthatway",
             "english": "in that way",
             "mescalero": {"literal_translations": [], "words": ["'akaayu, 'akuyu"]},
         },
         "intheway": {
-            "CID": "C020",
-            "EID": "intheway",
+            "cid": "C020",
+            "eid": "intheway",
             "english": "in the way",
             "mescalero": {
                 "literal_translations": ["it is in the way"],
@@ -4489,8 +4507,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "inyourear": {
-            "CID": "C012",
-            "EID": "inyourear",
+            "cid": "C012",
+            "eid": "inyourear",
             "english": "in your ear",
             "mescalero": {
                 "literal_translations": [],
@@ -4498,17 +4516,17 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "iron": {
-            "CID": "C015",
-            "EID": "iron",
+            "cid": "C015",
+            "eid": "iron",
             "english": "iron",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["beená'ítł'isí beenááshdiizky'í"],
             },
         },
         "ironingboard": {
-            "CID": "C015",
-            "EID": "ironingboard",
+            "cid": "C015",
+            "eid": "ironingboard",
             "english": "ironing board",
             "mescalero": {
                 "literal_translations": [],
@@ -4516,14 +4534,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "island": {
-            "CID": "C011",
-            "EID": "island",
+            "cid": "C011",
+            "eid": "island",
             "english": "island",
             "mescalero": {"literal_translations": [], "words": ["nii tú bįndáką'í"]},
         },
         "itmakesonedizzy": {
-            "CID": "C012",
-            "EID": "itmakesonedizzy",
+            "cid": "C012",
+            "eid": "itmakesonedizzy",
             "english": "it makes one dizzy",
             "mescalero": {
                 "literal_translations": ["it is confusing one"],
@@ -4531,20 +4549,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "jacket": {
-            "CID": "C023",
-            "EID": "jacket",
+            "cid": "C023",
+            "eid": "jacket",
             "english": "jacket",
             "mescalero": {"literal_translations": [], "words": ["'entséí 'ááúúúí"]},
         },
         "jackrabbit": {
-            "CID": "C001",
-            "EID": "jackrabbit",
+            "cid": "C001",
+            "eid": "jackrabbit",
             "english": "jack rabbit",
             "mescalero": {"literal_translations": ["big rabbit"], "words": ["gahtsu"]},
         },
         "january": {
-            "CID": "C001",
-            "EID": "january",
+            "cid": "C001",
+            "eid": "january",
             "english": "january",
             "mescalero": {
                 "literal_translations": ["inside of winter"],
@@ -4552,14 +4570,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "jar": {
-            "CID": "C015",
-            "EID": "jar",
+            "cid": "C015",
+            "eid": "jar",
             "english": "jar",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["madíya"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["madíya"]},
         },
         "jarillamountainsnearoregrande": {
-            "CID": "C019",
-            "EID": "jarillamountainsnearoregrande",
+            "cid": "C019",
+            "eid": "jarillamountainsnearoregrande",
             "english": "jarilla mountains ore-grande",
             "mescalero": {
                 "literal_translations": ["two mountains together"],
@@ -4567,14 +4585,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "jaw": {
-            "CID": "C001",
-            "EID": "jaw",
+            "cid": "C001",
+            "eid": "jaw",
             "english": "jaw",
             "mescalero": {"literal_translations": [], "words": ["-yeets'ine"]},
         },
         "jicarillacountry": {
-            "CID": "C019",
-            "EID": "jicarillacountry",
+            "cid": "C019",
+            "eid": "jicarillacountry",
             "english": "jicarilla country",
             "mescalero": {
                 "literal_translations": ["home of the jicarilla"],
@@ -4582,26 +4600,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "jicarillamountain": {
-            "CID": "C019",
-            "EID": "jicarillamountain",
+            "cid": "C019",
+            "eid": "jicarillamountain",
             "english": "jicarilla mountain",
             "mescalero": {"literal_translations": [], "words": ["higaali bidził"]},
         },
         "jingle": {
-            "CID": "C003",
-            "EID": "jingle",
+            "cid": "C003",
+            "eid": "jingle",
             "english": "jingle",
             "mescalero": {"literal_translations": [], "words": ["'ighał"]},
         },
         "joints": {
-            "CID": "C001",
-            "EID": "joints",
+            "cid": "C001",
+            "eid": "joints",
             "english": "joints",
             "mescalero": {"literal_translations": [], "words": ["'ízaadaadisht'ąya"]},
         },
         "joke": {
-            "CID": "C012",
-            "EID": "joke",
+            "cid": "C012",
+            "eid": "joke",
             "english": "joke",
             "mescalero": {
                 "literal_translations": [],
@@ -4609,8 +4627,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "judgecourt": {
-            "CID": "C024",
-            "EID": "judgecourt",
+            "cid": "C024",
+            "eid": "judgecourt",
             "english": "judge court",
             "mescalero": {
                 "literal_translations": ["one with whom people talk"],
@@ -4618,14 +4636,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "juice": {
-            "CID": "C014",
-            "EID": "juice",
+            "cid": "C014",
+            "eid": "juice",
             "english": "juice",
             "mescalero": {"literal_translations": [], "words": ["neest'áne bitu'"]},
         },
         "july": {
-            "CID": "C022",
-            "EID": "july",
+            "cid": "C022",
+            "eid": "july",
             "english": "july",
             "mescalero": {
                 "literal_translations": ["sun", "the sun is turning back"],
@@ -4633,8 +4651,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "june": {
-            "CID": "C022",
-            "EID": "june",
+            "cid": "C022",
+            "eid": "june",
             "english": "june",
             "mescalero": {
                 "literal_translations": [
@@ -4645,41 +4663,41 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "juniper": {
-            "CID": "C025",
-            "EID": "juniper",
+            "cid": "C025",
+            "eid": "juniper",
             "english": "juniper",
             "mescalero": {
                 "literal_translations": ["big cedar"],
-                "words": ["taazéntséí", "tałé ntséí", "tałétsu"],
+                "words": ["taałéntséí", "tałé ntséí", "tałétsu"],
             },
         },
         "juniperberries": {
-            "CID": "C025",
-            "EID": "juniperberries",
+            "cid": "C025",
+            "eid": "juniperberries",
             "english": "juniper berries",
             "mescalero": {
                 "literal_translations": ["juniper fruit"],
-                "words": ["taazéntséí binesst'áne"],
+                "words": ["taałéntséí binesst'áne"],
             },
         },
         "justbeforenoon": {
-            "CID": "C009",
-            "EID": "justbeforenoon",
+            "cid": "C009",
+            "eid": "justbeforenoon",
             "english": "just before noon",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["'įzdfjidiyeeyá", "'įzndfjidiyeeyá"],
             },
         },
         "kerosene": {
-            "CID": "C015",
-            "EID": "kerosene",
+            "cid": "C015",
+            "eid": "kerosene",
             "english": "kerosene",
             "mescalero": {"literal_translations": ["fire water"], "words": ["túky'é"]},
         },
         "key": {
-            "CID": "C028",
-            "EID": "key",
+            "cid": "C028",
+            "eid": "key",
             "english": "key",
             "mescalero": {
                 "literal_translations": ["that with which to open"],
@@ -4687,14 +4705,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "kidney": {
-            "CID": "C001",
-            "EID": "kidney",
+            "cid": "C001",
+            "eid": "kidney",
             "english": "kidney",
             "mescalero": {"literal_translations": [], "words": ["-tségushch'uje"]},
         },
         "killdeer": {
-            "CID": "C005",
-            "EID": "killdeer",
+            "cid": "C005",
+            "eid": "killdeer",
             "english": "killdeer",
             "mescalero": {
                 "literal_translations": ["fast runner along the edge of water"],
@@ -4702,14 +4720,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "kingbird": {
-            "CID": "C005",
-            "EID": "kingbird",
+            "cid": "C005",
+            "eid": "kingbird",
             "english": "kingbird",
             "mescalero": {"literal_translations": [], "words": ["gadeef"]},
         },
         "kingfisher": {
-            "CID": "C005",
-            "EID": "kingfisher",
+            "cid": "C005",
+            "eid": "kingfisher",
             "english": "kingfisher",
             "mescalero": {
                 "literal_translations": ["urinates under water"],
@@ -4717,8 +4735,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "kiowaapachecountry": {
-            "CID": "C019",
-            "EID": "kiowaapachecountry",
+            "cid": "C019",
+            "eid": "kiowaapachecountry",
             "english": "kiowa apache country",
             "mescalero": {
                 "literal_translations": ["home of the wet feet people"],
@@ -4726,20 +4744,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "knee": {
-            "CID": "C001",
-            "EID": "knee",
+            "cid": "C001",
+            "eid": "knee",
             "english": "knee",
             "mescalero": {"literal_translations": [], "words": ["-gude"]},
         },
         "knifeholder": {
-            "CID": "C003",
-            "EID": "knifeholder",
+            "cid": "C003",
+            "eid": "knifeholder",
             "english": "knife holder",
             "mescalero": {"literal_translations": [], "words": ["bésh bizis"]},
         },
         "knotty": {
-            "CID": "C027",
-            "EID": "knotty",
+            "cid": "C027",
+            "eid": "knotty",
             "english": "knotty",
             "mescalero": {
                 "literal_translations": ["it is knotty"],
@@ -4747,14 +4765,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ladle": {
-            "CID": "C020",
-            "EID": "ladle",
+            "cid": "C020",
+            "eid": "ladle",
             "english": "ladle",
             "mescalero": {"literal_translations": [], "words": ["beehaajikaa'į́"]},
         },
         "ladybug": {
-            "CID": "C016",
-            "EID": "ladybug",
+            "cid": "C016",
+            "eid": "ladybug",
             "english": "lady bug",
             "mescalero": {
                 "literal_translations": ["orange covered bug"],
@@ -4762,20 +4780,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "lake": {
-            "CID": "C011",
-            "EID": "lake",
+            "cid": "C011",
+            "eid": "lake",
             "english": "lake",
             "mescalero": {"literal_translations": [], "words": ["tú łąní sįkę"]},
         },
         "laluz": {
-            "CID": "C019",
-            "EID": "laluz",
+            "cid": "C019",
+            "eid": "laluz",
             "english": "laluz",
             "mescalero": {"literal_translations": [], "words": ["zeets'ileya"]},
         },
         "lamp": {
-            "CID": "C015",
-            "EID": "lamp",
+            "cid": "C015",
+            "eid": "lamp",
             "english": "lamp",
             "mescalero": {
                 "literal_translations": ["that with which kerosene burns"],
@@ -4783,14 +4801,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "land": {
-            "CID": "C011",
-            "EID": "land",
+            "cid": "C011",
+            "eid": "land",
             "english": "land",
             "mescalero": {"literal_translations": [], "words": ["niide"]},
         },
         "landsakesalive": {
-            "CID": "C012",
-            "EID": "landsakesalive",
+            "cid": "C012",
+            "eid": "landsakesalive",
             "english": "land sakes alive",
             "mescalero": {
                 "literal_translations": ["what a thing to happen"],
@@ -4798,14 +4816,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "landslide": {
-            "CID": "C011",
-            "EID": "landslide",
+            "cid": "C011",
+            "eid": "landslide",
             "english": "landslide",
             "mescalero": {"literal_translations": [], "words": ["nii hanyadéé'į́zį"]},
         },
         "lantern": {
-            "CID": "C015",
-            "EID": "lantern",
+            "cid": "C015",
+            "eid": "lantern",
             "english": "lantern",
             "mescalero": {
                 "literal_translations": ["that with which kerosene burns"],
@@ -4813,14 +4831,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "lard": {
-            "CID": "C014",
-            "EID": "lard",
+            "cid": "C014",
+            "eid": "lard",
             "english": "lard",
             "mescalero": {"literal_translations": [], "words": ["xe"]},
         },
         "large": {
-            "CID": "C027",
-            "EID": "large",
+            "cid": "C027",
+            "eid": "large",
             "english": "large",
             "mescalero": {
                 "literal_translations": ["it is big", "it is thick"],
@@ -4828,8 +4846,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "largeintestine": {
-            "CID": "C001",
-            "EID": "largeintestine",
+            "cid": "C001",
+            "eid": "largeintestine",
             "english": "large intestine",
             "mescalero": {
                 "literal_translations": [],
@@ -4837,8 +4855,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "largetincans": {
-            "CID": "C003",
-            "EID": "largetincans",
+            "cid": "C003",
+            "eid": "largetincans",
             "english": "large tin cans",
             "mescalero": {
                 "literal_translations": [],
@@ -4846,20 +4864,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "lascruces": {
-            "CID": "C019",
-            "EID": "lascruces",
+            "cid": "C019",
+            "eid": "lascruces",
             "english": "las cruces",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["guduusis"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["guduusis"]},
         },
         "lateafternoon": {
-            "CID": "C009",
-            "EID": "lateafternoon",
+            "cid": "C009",
+            "eid": "lateafternoon",
             "english": "late afternoon",
             "mescalero": {"literal_translations": [], "words": ["hanyaaná'iyá"]},
         },
         "laundrybasket": {
-            "CID": "C015",
-            "EID": "laundrybasket",
+            "cid": "C015",
+            "eid": "laundrybasket",
             "english": "laundry basket",
             "mescalero": {
                 "literal_translations": ["the basket in which to carry clothes"],
@@ -4867,8 +4885,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "lavabedstularosabasin": {
-            "CID": "C019",
-            "EID": "lavabedstularosabasin",
+            "cid": "C019",
+            "eid": "lavabedstularosabasin",
             "english": "lava beds (tularosa basin)",
             "mescalero": {
                 "literal_translations": ["narrow rock"],
@@ -4876,8 +4894,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "leafwithlobededge": {
-            "CID": "C025",
-            "EID": "leafwithlobededge",
+            "cid": "C025",
+            "eid": "leafwithlobededge",
             "english": "leaf with lobed edge",
             "mescalero": {
                 "literal_translations": [],
@@ -4885,8 +4903,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "leafwithsmoothedge": {
-            "CID": "C025",
-            "EID": "leafwithsmoothedge",
+            "cid": "C025",
+            "eid": "leafwithsmoothedge",
             "english": "leaf with smooth edge",
             "mescalero": {
                 "literal_translations": [],
@@ -4894,8 +4912,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "leafwithtoothedge": {
-            "CID": "C025",
-            "EID": "leafwithtoothedge",
+            "cid": "C025",
+            "eid": "leafwithtoothedge",
             "english": "leaf with tooth edge",
             "mescalero": {
                 "literal_translations": [],
@@ -4903,20 +4921,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "leaves": {
-            "CID": "C029",
-            "EID": "leaves",
+            "cid": "C029",
+            "eid": "leaves",
             "english": "leaves",
             "mescalero": {"literal_translations": [], "words": ["tsį bit'áá'í"]},
         },
         "leftovers": {
-            "CID": "C020",
-            "EID": "leftovers",
+            "cid": "C020",
+            "eid": "leftovers",
             "english": "left overs",
             "mescalero": {"literal_translations": [], "words": ["bilade"]},
         },
         "leg": {
-            "CID": "C001",
-            "EID": "leg",
+            "cid": "C001",
+            "eid": "leg",
             "english": "leg",
             "mescalero": {
                 "literal_translations": [],
@@ -4924,14 +4942,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "leggings": {
-            "CID": "C003",
-            "EID": "leggings",
+            "cid": "C003",
+            "eid": "leggings",
             "english": "leggings",
             "mescalero": {"literal_translations": [], "words": ["histzee'"]},
         },
         "lemon": {
-            "CID": "C025",
-            "EID": "lemon",
+            "cid": "C025",
+            "eid": "lemon",
             "english": "lemon",
             "mescalero": {
                 "literal_translations": ["sour yellow fruit"],
@@ -4939,8 +4957,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "leopard": {
-            "CID": "C002",
-            "EID": "leopard",
+            "cid": "C002",
+            "eid": "leopard",
             "english": "leopard",
             "mescalero": {
                 "literal_translations": ["spotted mountain lion"],
@@ -4948,14 +4966,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "letitbeleaveitalone": {
-            "CID": "C012",
-            "EID": "letitbeleaveitalone",
+            "cid": "C012",
+            "eid": "letitbeleaveitalone",
             "english": "let it be, leave it alone",
             "mescalero": {"literal_translations": [], "words": ["chéé, chéék'e"]},
         },
         "licoricecandy": {
-            "CID": "C014",
-            "EID": "licoricecandy",
+            "cid": "C014",
+            "eid": "licoricecandy",
             "english": "licorice candy",
             "mescalero": {
                 "literal_translations": ["black sugar"],
@@ -4963,8 +4981,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "life": {
-            "CID": "C018",
-            "EID": "life",
+            "cid": "C018",
+            "eid": "life",
             "english": "life",
             "mescalero": {
                 "literal_translations": ["how long one is going to live"],
@@ -4972,14 +4990,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "lifeones": {
-            "CID": "C018",
-            "EID": "lifeones",
+            "cid": "C018",
+            "eid": "lifeones",
             "english": "life, one's",
             "mescalero": {"literal_translations": [], "words": ["gu'lindá'í"]},
         },
         "lifetime": {
-            "CID": "C018",
-            "EID": "lifetime",
+            "cid": "C018",
+            "eid": "lifetime",
             "english": "lifetime",
             "mescalero": {
                 "literal_translations": ["as long as one lives"],
@@ -4987,8 +5005,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "lincolntown": {
-            "CID": "C019",
-            "EID": "lincolntown",
+            "cid": "C019",
+            "eid": "lincolntown",
             "english": "lincoln (town)",
             "mescalero": {
                 "literal_translations": ["pretty river, Spanish"],
@@ -4996,8 +5014,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "lipancountrymidwestern": {
-            "CID": "C019",
-            "EID": "lipancountrymidwestern",
+            "cid": "C019",
+            "eid": "lipancountrymidwestern",
             "english": "lipan country (midwestern)",
             "mescalero": {
                 "literal_translations": ["home of the no water people"],
@@ -5005,26 +5023,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "lips": {
-            "CID": "C001",
-            "EID": "lips",
+            "cid": "C001",
+            "eid": "lips",
             "english": "lips",
             "mescalero": {"literal_translations": [], "words": ["-sábaąde"]},
         },
         "littledipper": {
-            "CID": "C011",
-            "EID": "littledipper",
+            "cid": "C011",
+            "eid": "littledipper",
             "english": "little dipper",
             "mescalero": {"literal_translations": [], "words": ["suyusbine"]},
         },
         "littledipperalt": {
-            "CID": "C011",
-            "EID": "littledipperalt",
+            "cid": "C011",
+            "eid": "littledipperalt",
             "english": "little dipper alt",
             "mescalero": {"literal_translations": [], "words": ["naajaashí"]},
         },
         "littlefelixcanyoni": {
-            "CID": "C026",
-            "EID": "littlefelixcanyoni",
+            "cid": "C026",
+            "eid": "littlefelixcanyoni",
             "english": "little felix canyon",
             "mescalero": {
                 "literal_translations": ["one gave birth"],
@@ -5032,14 +5050,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "liver": {
-            "CID": "C001",
-            "EID": "liver",
+            "cid": "C001",
+            "eid": "liver",
             "english": "liver",
             "mescalero": {"literal_translations": [], "words": ["-zide"]},
         },
         "livetogether": {
-            "CID": "C018",
-            "EID": "livetogether",
+            "cid": "C018",
+            "eid": "livetogether",
             "english": "live together",
             "mescalero": {
                 "literal_translations": ["two are sitting together"],
@@ -5047,20 +5065,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "livingthings": {
-            "CID": "C020",
-            "EID": "livingthings",
+            "cid": "C020",
+            "eid": "livingthings",
             "english": "living things",
             "mescalero": {"literal_translations": [], "words": ["hinda'í"]},
         },
         "lizard": {
-            "CID": "C013",
-            "EID": "lizard",
+            "cid": "C013",
+            "eid": "lizard",
             "english": "lizard",
             "mescalero": {"literal_translations": [], "words": ["ma'łshų́ų́ye"]},
         },
         "lock": {
-            "CID": "C028",
-            "EID": "lock",
+            "cid": "C028",
+            "eid": "lock",
             "english": "lock",
             "mescalero": {
                 "literal_translations": ["that with which one ties"],
@@ -5068,14 +5086,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "locust": {
-            "CID": "C029",
-            "EID": "locust",
+            "cid": "C029",
+            "eid": "locust",
             "english": "locust",
             "mescalero": {"literal_translations": [], "words": ["tł'uguushade"]},
         },
         "long": {
-            "CID": "C027",
-            "EID": "long",
+            "cid": "C027",
+            "eid": "long",
             "english": "long",
             "mescalero": {
                 "literal_translations": ["it is long or tall"],
@@ -5083,8 +5101,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "longevity": {
-            "CID": "C018",
-            "EID": "longevity",
+            "cid": "C018",
+            "eid": "longevity",
             "english": "longevity",
             "mescalero": {
                 "literal_translations": ["how long one is going to live"],
@@ -5092,44 +5110,44 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "longunderwear": {
-            "CID": "C023",
-            "EID": "longunderwear",
+            "cid": "C023",
+            "eid": "longunderwear",
             "english": "long underwear",
             "mescalero": {"literal_translations": [], "words": ["séttį́gúndeedzį́"]},
         },
         "loom": {
-            "CID": "C003",
-            "EID": "loom",
+            "cid": "C003",
+            "eid": "loom",
             "english": "loom",
             "mescalero": {"literal_translations": [], "words": ["beejitz'úi'í"]},
         },
         "lovedones": {
-            "CID": "C017",
-            "EID": "lovedones",
+            "cid": "C017",
+            "eid": "lovedones",
             "english": "loved ones",
             "mescalero": {"literal_translations": [], "words": ["gułdanhį́nde"]},
         },
         "low": {
-            "CID": "C027",
-            "EID": "low",
+            "cid": "C027",
+            "eid": "low",
             "english": "low",
             "mescalero": {"literal_translations": ["it is deep"], "words": ["nú́ya"]},
         },
         "lowerback": {
-            "CID": "C001",
-            "EID": "lowerback",
+            "cid": "C001",
+            "eid": "lowerback",
             "english": "lower back",
             "mescalero": {"literal_translations": [], "words": ["-tsį́naashi"]},
         },
         "lowercheek": {
-            "CID": "C001",
-            "EID": "lowercheek",
+            "cid": "C001",
+            "eid": "lowercheek",
             "english": "lower cheek",
             "mescalero": {"literal_translations": [], "words": ["łt'a"]},
         },
         "lumber": {
-            "CID": "C029",
-            "EID": "lumber",
+            "cid": "C029",
+            "eid": "lumber",
             "english": "lumber",
             "mescalero": {
                 "literal_translations": ["sawed trees"],
@@ -5137,14 +5155,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "lungs": {
-            "CID": "C001",
-            "EID": "lungs",
+            "cid": "C001",
+            "eid": "lungs",
             "english": "lungs",
             "mescalero": {"literal_translations": [], "words": ["-zule"]},
         },
         "magazinerack": {
-            "CID": "C015",
-            "EID": "magazinerack",
+            "cid": "C015",
+            "eid": "magazinerack",
             "english": "magazine rack",
             "mescalero": {
                 "literal_translations": ["that in which to store paper"],
@@ -5152,8 +5170,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "magpie": {
-            "CID": "C005",
-            "EID": "magpie",
+            "cid": "C005",
+            "eid": "magpie",
             "english": "magpie",
             "mescalero": {
                 "literal_translations": ["the bird that carries fat"],
@@ -5161,8 +5179,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "mail": {
-            "CID": "C020",
-            "EID": "mail",
+            "cid": "C020",
+            "eid": "mail",
             "english": "mail",
             "mescalero": {
                 "literal_translations": [],
@@ -5170,8 +5188,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "mainstem": {
-            "CID": "C025",
-            "EID": "mainstem",
+            "cid": "C025",
+            "eid": "mainstem",
             "english": "main stem",
             "mescalero": {
                 "literal_translations": ["plant stick"],
@@ -5179,56 +5197,56 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "mano": {
-            "CID": "C003",
-            "EID": "mano",
+            "cid": "C003",
+            "eid": "mano",
             "english": "mano",
             "mescalero": {"literal_translations": [], "words": ["be'dashí"]},
         },
         "mansbuckskinsuit": {
-            "CID": "C003",
-            "EID": "mansbuckskinsuit",
+            "cid": "C003",
+            "eid": "mansbuckskinsuit",
             "english": "man's buckskin suit",
             "mescalero": {"literal_translations": [], "words": ["'éutsa'í"]},
         },
         "mansmiddlebrotherwomansmiddlesister": {
-            "CID": "C017",
-            "EID": "mansmiddlebrotherwomansmiddlesister",
+            "cid": "C017",
+            "eid": "mansmiddlebrotherwomansmiddlesister",
             "english": "man's middle brother, woman's middle sister",
             "mescalero": {"literal_translations": [], "words": ["-k'is 'izní naaghan"]},
         },
         "mansmiddlesisterwomansmiddlebrother": {
-            "CID": "C017",
-            "EID": "mansmiddlesisterwomansmiddlebrother",
+            "cid": "C017",
+            "eid": "mansmiddlesisterwomansmiddlebrother",
             "english": "man's middle sister, woman's middle brother",
             "mescalero": {"literal_translations": [], "words": ["-lą 'izní naaghan"]},
         },
         "mansolderbrotherwomansoldersister": {
-            "CID": "C017",
-            "EID": "mansolderbrotherwomansoldersister",
+            "cid": "C017",
+            "eid": "mansolderbrotherwomansoldersister",
             "english": "man's older brother, woman's older sister",
             "mescalero": {"literal_translations": [], "words": ["-k'is 'ítsé naaghan"]},
         },
         "mansoldersisterwomansolderbrother": {
-            "CID": "C017",
-            "EID": "mansoldersisterwomansolderbrother",
+            "cid": "C017",
+            "eid": "mansoldersisterwomansolderbrother",
             "english": "man's older sister, woman's older brother",
             "mescalero": {"literal_translations": [], "words": ["-lą 'ítsé naaghan"]},
         },
         "mansyoungerbrotherwomansyoungersister": {
-            "CID": "C017",
-            "EID": "mansyoungerbrotherwomansyoungersister",
+            "cid": "C017",
+            "eid": "mansyoungerbrotherwomansyoungersister",
             "english": "man's younger brother, woman's younger sister",
             "mescalero": {"literal_translations": [], "words": ["-k'is 'ikéé naaghan"]},
         },
         "mansyoungersisterwomansyoungerbrother": {
-            "CID": "C017",
-            "EID": "mansyoungersisterwomansyoungerbrother",
+            "cid": "C017",
+            "eid": "mansyoungersisterwomansyoungerbrother",
             "english": "man's younger sister, woman's younger brother",
             "mescalero": {"literal_translations": [], "words": ["-lą 'ikéé naaghan"]},
         },
         "maple": {
-            "CID": "C029",
-            "EID": "maple",
+            "cid": "C029",
+            "eid": "maple",
             "english": "maple",
             "mescalero": {
                 "literal_translations": ["five-leafed tree"],
@@ -5236,8 +5254,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "march": {
-            "CID": "C022",
-            "EID": "march",
+            "cid": "C022",
+            "eid": "march",
             "english": "march",
             "mescalero": {
                 "literal_translations": [
@@ -5248,17 +5266,17 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "mare": {
-            "CID": "C002",
-            "EID": "mare",
+            "cid": "C002",
+            "eid": "mare",
             "english": "mare",
             "mescalero": {
-                "literal_translations": ["Spanish", "Spanish"],
+                "literal_translations": ["(via Spanish)", "(via Spanish)"],
                 "words": ["yéewa", "yáawa"],
             },
         },
         "marijuana": {
-            "CID": "C025",
-            "EID": "marijuana",
+            "cid": "C025",
+            "eid": "marijuana",
             "english": "marijuana",
             "mescalero": {
                 "literal_translations": ["crazy plant"],
@@ -5266,8 +5284,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "marriageableage": {
-            "CID": "C018",
-            "EID": "marriageableage",
+            "cid": "C018",
+            "eid": "marriageableage",
             "english": "marriageable age",
             "mescalero": {
                 "literal_translations": ["one is at the age of marriage"],
@@ -5275,20 +5293,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "marrieddaughter": {
-            "CID": "C017",
-            "EID": "marrieddaughter",
+            "cid": "C017",
+            "eid": "marrieddaughter",
             "english": "married daughter",
             "mescalero": {"literal_translations": [], "words": ["bidénáyédzíníńí"]},
         },
         "marrowbone": {
-            "CID": "C001",
-            "EID": "marrowbone",
+            "cid": "C001",
+            "eid": "marrowbone",
             "english": "marrow (bone)",
             "mescalero": {"literal_translations": [], "words": ["'ighule"]},
         },
         "maruchig": {
-            "CID": "C026",
-            "EID": "maruchig",
+            "cid": "C026",
+            "eid": "maruchig",
             "english": "maruchi",
             "mescalero": {
                 "literal_translations": [
@@ -5300,32 +5318,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "maternalauntmaternalniecesandnephewswomanspeaking": {
-            "CID": "C017",
-            "EID": "maternalauntmaternalniecesandnephewswomanspeaking",
+            "cid": "C017",
+            "eid": "maternalauntmaternalniecesandnephewswomanspeaking",
             "english": "maternal aunt, maternal nieces and nephews (woman speaking)",
             "mescalero": {"literal_translations": [], "words": ["-k'a'é"]},
         },
         "maternalgrandfathermansmaternalgrandchildren": {
-            "CID": "C017",
-            "EID": "maternalgrandfathermansmaternalgrandchildren",
+            "cid": "C017",
+            "eid": "maternalgrandfathermansmaternalgrandchildren",
             "english": "maternal grand-father, man's maternal grandchildren",
             "mescalero": {"literal_translations": [], "words": ["-tsúyé"]},
         },
         "maternalgrandmotherwomansmaternalgrandchildren": {
-            "CID": "C001",
-            "EID": "maternalgrandmotherwomansmaternalgrandchildren",
+            "cid": "C001",
+            "eid": "maternalgrandmotherwomansmaternalgrandchildren",
             "english": "maternal grand-mother, woman's maternal grandchildren",
             "mescalero": {"literal_translations": [], "words": ["-chu"]},
         },
         "maternalunclematernalniecesandnephewsmanspeaking": {
-            "CID": "C017",
-            "EID": "maternalunclematernalniecesandnephewsmanspeaking",
+            "cid": "C017",
+            "eid": "maternalunclematernalniecesandnephewsmanspeaking",
             "english": "maternal uncle, maternal nieces and nephews (man speaking)",
             "mescalero": {"literal_translations": [], "words": ["-ghúyé"]},
         },
         "may": {
-            "CID": "C022",
-            "EID": "may",
+            "cid": "C022",
+            "eid": "may",
             "english": "may",
             "mescalero": {
                 "literal_translations": [
@@ -5341,8 +5359,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "meadowlark": {
-            "CID": "C005",
-            "EID": "meadowlark",
+            "cid": "C005",
+            "eid": "meadowlark",
             "english": "meadowlark",
             "mescalero": {
                 "literal_translations": ["prairie bird with yellow breast"],
@@ -5350,8 +5368,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "meatgrinder": {
-            "CID": "C015",
-            "EID": "meatgrinder",
+            "cid": "C015",
+            "eid": "meatgrinder",
             "english": "meat grinder",
             "mescalero": {
                 "literal_translations": ["that which grinds meat"],
@@ -5359,26 +5377,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "meats": {
-            "CID": "C014",
-            "EID": "meats",
+            "cid": "C014",
+            "eid": "meats",
             "english": "meats",
             "mescalero": {"literal_translations": [], "words": ["'ítsį"]},
         },
         "meatscanned": {
-            "CID": "C014",
-            "EID": "meatscanned",
+            "cid": "C014",
+            "eid": "meatscanned",
             "english": "meats, canned",
             "mescalero": {"literal_translations": [], "words": ["'ítsį 'ideebeena'áí"]},
         },
         "medicine": {
-            "CID": "C003",
-            "EID": "medicine",
+            "cid": "C003",
+            "eid": "medicine",
             "english": "medicine",
             "mescalero": {"literal_translations": [], "words": ["'izee'"]},
         },
         "medicinecabinet": {
-            "CID": "C015",
-            "EID": "medicinecabinet",
+            "cid": "C015",
+            "eid": "medicinecabinet",
             "english": "medicine cabinet",
             "mescalero": {
                 "literal_translations": ["that in which one puts medicine"],
@@ -5386,8 +5404,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "medicineteepee": {
-            "CID": "C003",
-            "EID": "medicineteepee",
+            "cid": "C003",
+            "eid": "medicineteepee",
             "english": "medicine teepee",
             "mescalero": {
                 "literal_translations": ["large teepee"],
@@ -5395,35 +5413,35 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "medicineteepeestakesaroundfire": {
-            "CID": "C003",
-            "EID": "medicineteepeestakesaroundfire",
+            "cid": "C003",
+            "eid": "medicineteepeestakesaroundfire",
             "english": "medicine teepee stakes around fire",
             "mescalero": {"literal_translations": [], "words": ["kųųsade"]},
         },
         "mescal": {
-            "CID": "C004",
-            "EID": "mescal",
+            "cid": "C004",
+            "eid": "mescal",
             "english": "mescal",
             "mescalero": {"literal_translations": [], "words": ["'inaada"]},
         },
         "mescalcore": {
-            "CID": "C004",
-            "EID": "mescalcore",
+            "cid": "C004",
+            "eid": "mescalcore",
             "english": "mescal core",
             "mescalero": {"literal_translations": [], "words": ["'itz'a'e"]},
         },
         "mescaleroagencyi": {
-            "CID": "C026",
-            "EID": "mescaleroagencyi",
+            "cid": "C026",
+            "eid": "mescaleroagencyi",
             "english": "mescalero agency",
             "mescalero": {
-                "literal_translations": ["where there is a house", "Spanish"],
+                "literal_translations": ["where there is a house", "(via Spanish)"],
                 "words": ["kiyá", "máagine"],
             },
         },
         "mescalerolaken": {
-            "CID": "C026",
-            "EID": "mescalerolaken",
+            "cid": "C026",
+            "eid": "mescalerolaken",
             "english": "mescalero lake",
             "mescalero": {
                 "literal_translations": [],
@@ -5431,8 +5449,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "mescalrack": {
-            "CID": "C003",
-            "EID": "mescalrack",
+            "cid": "C003",
+            "eid": "mescalrack",
             "english": "mescal rack",
             "mescalero": {
                 "literal_translations": [],
@@ -5440,80 +5458,80 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "mescalstraw": {
-            "CID": "C004",
-            "EID": "mescalstraw",
+            "cid": "C004",
+            "eid": "mescalstraw",
             "english": "mescal straw",
             "mescalero": {"literal_translations": [], "words": ["bich'íle"]},
         },
         "mesquitebeanpudding": {
-            "CID": "C004",
-            "EID": "mesquitebeanpudding",
+            "cid": "C004",
+            "eid": "mesquitebeanpudding",
             "english": "mesquite bean pudding",
             "mescalero": {"literal_translations": [], "words": ["hishtzishe"]},
         },
         "mesquitebeans": {
-            "CID": "C004",
-            "EID": "mesquitebeans",
+            "cid": "C004",
+            "eid": "mesquitebeans",
             "english": "mesquite beans",
             "mescalero": {"literal_translations": [], "words": ["nanstáné"]},
         },
         "message": {
-            "CID": "C020",
-            "EID": "message",
+            "cid": "C020",
+            "eid": "message",
             "english": "message",
             "mescalero": {"literal_translations": [], "words": ["saa yuch'įájíla"]},
         },
         "metalknife": {
-            "CID": "C028",
-            "EID": "metalknife",
+            "cid": "C028",
+            "eid": "metalknife",
             "english": "metal knife",
             "mescalero": {"literal_translations": [], "words": ["bésh"]},
         },
         "mexicancards": {
-            "CID": "C003",
-            "EID": "mexicancards",
+            "cid": "C003",
+            "eid": "mexicancards",
             "english": "mexican cards",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["badááxa"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["badááxa"]},
         },
         "mexicanwhitepine": {
-            "CID": "C029",
-            "EID": "mexicanwhitepine",
+            "cid": "C029",
+            "eid": "mexicanwhitepine",
             "english": "mexican white pine",
             "mescalero": {"literal_translations": [], "words": ["bénch'iyé́ziga'í"]},
         },
         "mexico": {
-            "CID": "C019",
-            "EID": "mexico",
+            "cid": "C019",
+            "eid": "mexico",
             "english": "mexico",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["mehigu"]},
+            "mescalero": {"literal_translations": ["(via Spanish, 'México')"], "words": ["mehigu"]},
         },
         "middlefinger": {
-            "CID": "C001",
-            "EID": "middlefinger",
+            "cid": "C001",
+            "eid": "middlefinger",
             "english": "middle finger",
             "mescalero": {"literal_translations": [], "words": ["-laadizhe"]},
         },
         "militarypersonsoldierchir": {
-            "CID": "C024",
-            "EID": "militarypersonsoldierchir",
+            "cid": "C024",
+            "eid": "militarypersonsoldierchir",
             "english": "military person soldier chir",
-            "mescalero": {"literal_translations": ["Chiricahua"], "words": ["siláada"]},
+            "mescalero": {"literal_translations": ["(via Chiricahua)"], "words": ["siláada"]},
         },
         "militarypersonsoldiersp": {
-            "CID": "C024",
-            "EID": "militarypersonsoldiersp",
+            "cid": "C024",
+            "eid": "militarypersonsoldiersp",
             "english": "military person soldier sp",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["sałdáagu"]},
+            "mescalero": {"literal_translations": ["(via Spanish, 'soldado')"], "words": ["sałdáagu"]},
         },
         "milk": {
-            "CID": "C014",
-            "EID": "milk",
+            "cid": "C014",
+            "eid": "milk",
             "english": "milk",
             "mescalero": {"literal_translations": [], "words": ["'ibe'"]},
         },
         "milkyway": {
-            "CID": "C011",
-            "EID": "milkyway",
+            "cid": "C011",
+            "eid": "milkyway",
             "english": "milky way",
             "mescalero": {
                 "literal_translations": ["flour thrown by a mule"],
@@ -5521,8 +5539,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "mixerblender": {
-            "CID": "C015",
-            "EID": "mixerblender",
+            "cid": "C015",
+            "eid": "mixerblender",
             "english": "mixer (blender)",
             "mescalero": {
                 "literal_translations": ["that which mixes"],
@@ -5530,20 +5548,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "moccasins": {
-            "CID": "C003",
-            "EID": "moccasins",
+            "cid": "C003",
+            "eid": "moccasins",
             "english": "moccasins",
             "mescalero": {"literal_translations": [], "words": ["kébane", "keebane"]},
         },
         "moccasinswithtoeguard": {
-            "CID": "C003",
-            "EID": "moccasinswithtoeguard",
+            "cid": "C003",
+            "eid": "moccasinswithtoeguard",
             "english": "moccasins with toe guard",
             "mescalero": {"literal_translations": [], "words": ["ke bichį́'gúłiį'í"]},
         },
         "mockingbird": {
-            "CID": "C005",
-            "EID": "mockingbird",
+            "cid": "C005",
+            "eid": "mockingbird",
             "english": "mocking-bird",
             "mescalero": {
                 "literal_translations": ["bird killer"],
@@ -5551,8 +5569,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "molarteeth": {
-            "CID": "C001",
-            "EID": "molarteeth",
+            "cid": "C001",
+            "eid": "molarteeth",
             "english": "molar (teeth)",
             "mescalero": {
                 "literal_translations": ["the teeth one chews with"],
@@ -5560,8 +5578,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "molasses": {
-            "CID": "C014",
-            "EID": "molasses",
+            "cid": "C014",
+            "eid": "molasses",
             "english": "molasses",
             "mescalero": {
                 "literal_translations": ["syrupy water"],
@@ -5569,8 +5587,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "monday": {
-            "CID": "C009",
-            "EID": "monday",
+            "cid": "C009",
+            "eid": "monday",
             "english": "monday",
             "mescalero": {
                 "literal_translations": ["the day after Sunday"],
@@ -5578,8 +5596,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "monkey": {
-            "CID": "C002",
-            "EID": "monkey",
+            "cid": "C002",
+            "eid": "monkey",
             "english": "monkey",
             "mescalero": {
                 "literal_translations": ["the one that ropes with its tail"],
@@ -5587,8 +5605,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "month": {
-            "CID": "C009",
-            "EID": "month",
+            "cid": "C009",
+            "eid": "month",
             "english": "month",
             "mescalero": {
                 "literal_translations": ["the new moon sets once"],
@@ -5596,8 +5614,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "moon": {
-            "CID": "C009",
-            "EID": "moon",
+            "cid": "C009",
+            "eid": "moon",
             "english": "moon",
             "mescalero": {
                 "literal_translations": ["it travels at night"],
@@ -5605,20 +5623,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "moonlight": {
-            "CID": "C011",
-            "EID": "moonlight",
+            "cid": "C011",
+            "eid": "moonlight",
             "english": "moonlight",
             "mescalero": {"literal_translations": [], "words": ["ta'éna'áí si'ą́"]},
         },
         "moose": {
-            "CID": "C002",
-            "EID": "moose",
+            "cid": "C002",
+            "eid": "moose",
             "english": "moose",
             "mescalero": {"literal_translations": [], "words": ["bįį chíįst'a'í"]},
         },
         "mop": {
-            "CID": "C015",
-            "EID": "mop",
+            "cid": "C015",
+            "eid": "mop",
             "english": "mop",
             "mescalero": {
                 "literal_translations": ["that with which one washes the floor"],
@@ -5626,14 +5644,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "morning": {
-            "CID": "C009",
-            "EID": "morning",
+            "cid": "C009",
+            "eid": "morning",
             "english": "morning",
             "mescalero": {"literal_translations": [], "words": ["neełdą"]},
         },
         "mosquito": {
-            "CID": "C016",
-            "EID": "mosquito",
+            "cid": "C016",
+            "eid": "mosquito",
             "english": "mosquito",
             "mescalero": {
                 "literal_translations": ["long gnat"],
@@ -5641,14 +5659,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "moss": {
-            "CID": "C025",
-            "EID": "moss",
+            "cid": "C025",
+            "eid": "moss",
             "english": "moss",
             "mescalero": {"literal_translations": [], "words": ["dlááí"]},
         },
         "moth": {
-            "CID": "C016",
-            "EID": "moth",
+            "cid": "C016",
+            "eid": "moth",
             "english": "moth",
             "mescalero": {
                 "literal_translations": ["bug that flies into the light"],
@@ -5656,41 +5674,41 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "mother": {
-            "CID": "C017",
-            "EID": "mother",
+            "cid": "C017",
+            "eid": "mother",
             "english": "mother",
             "mescalero": {"literal_translations": [], "words": ["-ma"]},
         },
         "mountain": {
-            "CID": "C011",
-            "EID": "mountain",
+            "cid": "C011",
+            "eid": "mountain",
             "english": "mountain",
             "mescalero": {"literal_translations": [], "words": ["dzil"]},
         },
         "mountaingoat": {
-            "CID": "C002",
-            "EID": "mountaingoat",
+            "cid": "C002",
+            "eid": "mountaingoat",
             "english": "mountain goat",
             "mescalero": {
-                "literal_translations": ["Spanish"],
+                "literal_translations": ["(via Spanish, 'chiva')"],
                 "words": ["dzilá dibéhé zíga'í", "dzilá chiiwa"],
             },
         },
         "mountainlion": {
-            "CID": "C002",
-            "EID": "mountainlion",
+            "cid": "C002",
+            "eid": "mountainlion",
             "english": "mountain lion",
             "mescalero": {"literal_translations": [], "words": ["'idui"]},
         },
         "mountainous": {
-            "CID": "C011",
-            "EID": "mountainous",
+            "cid": "C011",
+            "eid": "mountainous",
             "english": "mountainous",
             "mescalero": {"literal_translations": [], "words": ["dzil daahíndizá"]},
         },
         "mountainquail": {
-            "CID": "C005",
-            "EID": "mountainquail",
+            "cid": "C005",
+            "eid": "mountainquail",
             "english": "mountain quail",
             "mescalero": {
                 "literal_translations": [
@@ -5700,26 +5718,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "mountainrange": {
-            "CID": "C011",
-            "EID": "mountainrange",
+            "cid": "C011",
+            "eid": "mountainrange",
             "english": "mountain range",
             "mescalero": {"literal_translations": [], "words": ["hík'e"]},
         },
         "mountainsheep": {
-            "CID": "C002",
-            "EID": "mountainsheep",
+            "cid": "C002",
+            "eid": "mountainsheep",
             "english": "mountain sheep",
             "mescalero": {"literal_translations": [], "words": ["dzil dibéhé"]},
         },
         "mouse": {
-            "CID": "C002",
-            "EID": "mouse",
+            "cid": "C002",
+            "eid": "mouse",
             "english": "mouse",
             "mescalero": {"literal_translations": [], "words": ["luusts'ųųsé́"]},
         },
         "mousetrap": {
-            "CID": "C015",
-            "EID": "mousetrap",
+            "cid": "C015",
+            "eid": "mousetrap",
             "english": "mouse trap",
             "mescalero": {
                 "literal_translations": ["that which catches mice"],
@@ -5727,20 +5745,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "mouth": {
-            "CID": "C001",
-            "EID": "mouth",
+            "cid": "C001",
+            "eid": "mouth",
             "english": "mouth",
             "mescalero": {"literal_translations": [], "words": ["-zee'"]},
         },
         "mud": {
-            "CID": "C011",
-            "EID": "mud",
+            "cid": "C011",
+            "eid": "mud",
             "english": "mud",
             "mescalero": {"literal_translations": [], "words": ["gusht'iish"]},
         },
         "mudpack": {
-            "CID": "C020",
-            "EID": "mudpack",
+            "cid": "C020",
+            "eid": "mudpack",
             "english": "mud pack",
             "mescalero": {
                 "literal_translations": [],
@@ -5748,8 +5766,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "mulberry": {
-            "CID": "C025",
-            "EID": "mulberry",
+            "cid": "C025",
+            "eid": "mulberry",
             "english": "mulberry",
             "mescalero": {
                 "literal_translations": ["sweet rock"],
@@ -5757,29 +5775,29 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "mule": {
-            "CID": "C002",
-            "EID": "mule",
+            "cid": "C002",
+            "eid": "mule",
             "english": "mule",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["ja'e", "jandeezí"],
             },
         },
         "muscle": {
-            "CID": "C001",
-            "EID": "muscle",
+            "cid": "C001",
+            "eid": "muscle",
             "english": "muscle",
             "mescalero": {"literal_translations": [], "words": ["-líí'"]},
         },
         "mutton": {
-            "CID": "C014",
-            "EID": "mutton",
+            "cid": "C014",
+            "eid": "mutton",
             "english": "mutton",
             "mescalero": {"literal_translations": [], "words": ["dibéé bitsį"]},
         },
         "myinlawfatherinlawmotherinlawbrotherinlawetc": {
-            "CID": "C017",
-            "EID": "myinlawfatherinlawmotherinlawbrotherinlawetc",
+            "cid": "C017",
+            "eid": "myinlawfatherinlawmotherinlawbrotherinlawetc",
             "english": "my inlaw (father inlaw, mother inlaw, brother inlaw, etc.)",
             "mescalero": {
                 "literal_translations": [
@@ -5789,8 +5807,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "myinlawoneforwhomicarryburdens": {
-            "CID": "C017",
-            "EID": "myinlawoneforwhomicarryburdens",
+            "cid": "C017",
+            "eid": "myinlawoneforwhomicarryburdens",
             "english": "my inlaw (one for whom I carry burdens)",
             "mescalero": {
                 "literal_translations": ["one for whom I carry burdens"],
@@ -5798,8 +5816,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "myinlawonewhocarriesburdensforme": {
-            "CID": "C017",
-            "EID": "myinlawonewhocarriesburdensforme",
+            "cid": "C017",
+            "eid": "myinlawonewhocarriesburdensforme",
             "english": "my inlaw (one who carries burdens for me)",
             "mescalero": {
                 "literal_translations": [
@@ -5809,8 +5827,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "myinlawsoninlawdaughterinlawsiblingsspouseetc": {
-            "CID": "C017",
-            "EID": "myinlawsoninlawdaughterinlawsiblingsspouseetc",
+            "cid": "C017",
+            "eid": "myinlawsoninlawdaughterinlawsiblingsspouseetc",
             "english": "my inlaw (son inlaw, daughter inlaw, sibling's spouse, etc.)",
             "mescalero": {
                 "literal_translations": [
@@ -5820,14 +5838,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "myspouse": {
-            "CID": "C017",
-            "EID": "myspouse",
+            "cid": "C017",
+            "eid": "myspouse",
             "english": "my spouse",
             "mescalero": {"literal_translations": [], "words": ["biznaash'aashń"]},
         },
         "namingceremony": {
-            "CID": "C018",
-            "EID": "namingceremony",
+            "cid": "C018",
+            "eid": "namingceremony",
             "english": "naming ceremony",
             "mescalero": {
                 "literal_translations": ["one is giving one a name"],
@@ -5835,14 +5853,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "natsilledam": {
-            "CID": "C026",
-            "EID": "natsilledam",
+            "cid": "C026",
+            "eid": "natsilledam",
             "english": "natsille dam",
             "mescalero": {"literal_translations": [], "words": ["tú bá'tanguyeech'i"]},
         },
         "nature": {
-            "CID": "C011",
-            "EID": "nature",
+            "cid": "C011",
+            "eid": "nature",
             "english": "nature",
             "mescalero": {
                 "literal_translations": [],
@@ -5850,8 +5868,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "navajocountry": {
-            "CID": "C019",
-            "EID": "navajocountry",
+            "cid": "C019",
+            "eid": "navajocountry",
             "english": "navajo country",
             "mescalero": {
                 "literal_translations": ["home of the gee string people"],
@@ -5859,8 +5877,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "naval": {
-            "CID": "C001",
-            "EID": "naval",
+            "cid": "C001",
+            "eid": "naval",
             "english": "naval",
             "mescalero": {
                 "literal_translations": ["where the intestines come out"],
@@ -5868,92 +5886,92 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "neck": {
-            "CID": "C001",
-            "EID": "neck",
+            "cid": "C001",
+            "eid": "neck",
             "english": "neck",
             "mescalero": {"literal_translations": [], "words": ["-k'us", "-zuuz"]},
         },
         "necklace": {
-            "CID": "C003",
-            "EID": "necklace",
+            "cid": "C003",
+            "eid": "necklace",
             "english": "necklace",
             "mescalero": {"literal_translations": [], "words": ["yuu'"]},
         },
         "nerve": {
-            "CID": "C001",
-            "EID": "nerve",
+            "cid": "C001",
+            "eid": "nerve",
             "english": "nerve",
             "mescalero": {"literal_translations": [], "words": ["-ts'uus"]},
         },
         "new": {
-            "CID": "C020",
-            "EID": "new",
+            "cid": "C020",
+            "eid": "new",
             "english": "new",
             "mescalero": {"literal_translations": [], "words": ["'ande'"]},
         },
         "newborn": {
-            "CID": "C018",
-            "EID": "newborn",
+            "cid": "C018",
+            "eid": "newborn",
             "english": "newborn",
             "mescalero": {"literal_translations": [], "words": ["'ézchiné zíítúúden"]},
         },
         "newgeneration": {
-            "CID": "C018",
-            "EID": "newgeneration",
+            "cid": "C018",
+            "eid": "newgeneration",
             "english": "new generation",
             "mescalero": {"literal_translations": [], "words": ["'á'nde nánayéé́nde"]},
         },
         "nicely": {
-            "CID": "C020",
-            "EID": "nicely",
+            "cid": "C020",
+            "eid": "nicely",
             "english": "nicely",
             "mescalero": {"literal_translations": [], "words": ["nzhų́ų́núu"]},
         },
         "night": {
-            "CID": "C009",
-            "EID": "night",
+            "cid": "C009",
+            "eid": "night",
             "english": "night",
             "mescalero": {"literal_translations": [], "words": ["tą'ee'"]},
         },
         "nightgown": {
-            "CID": "C023",
-            "EID": "nightgown",
+            "cid": "C023",
+            "eid": "nightgown",
             "english": "night gown",
             "mescalero": {"literal_translations": [], "words": ["'é beejinté'í"]},
         },
         "nighthawk": {
-            "CID": "C005",
-            "EID": "nighthawk",
+            "cid": "C005",
+            "eid": "nighthawk",
             "english": "night hawk",
             "mescalero": {"literal_translations": ["thunderbird"], "words": ["biishe"]},
         },
         "nipples": {
-            "CID": "C001",
-            "EID": "nipples",
+            "cid": "C001",
+            "eid": "nipples",
             "english": "nipples",
             "mescalero": {"literal_translations": [], "words": ["-bee'bílatá'í"]},
         },
         "nitshead": {
-            "CID": "C016",
-            "EID": "nitshead",
+            "cid": "C016",
+            "eid": "nitshead",
             "english": "nits (head)",
             "mescalero": {"literal_translations": [], "words": ["yaats'íle"]},
         },
         "nogalg": {
-            "CID": "C026",
-            "EID": "nogalg",
+            "cid": "C026",
+            "eid": "nogalg",
             "english": "nogal",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["nughaal"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["nughaal"]},
         },
         "noneofyourbusiness": {
-            "CID": "C012",
-            "EID": "noneofyourbusiness",
+            "cid": "C012",
+            "eid": "noneofyourbusiness",
             "english": "none of your business",
             "mescalero": {"literal_translations": [], "words": ["duu náagulchįida"]},
         },
         "noon": {
-            "CID": "C009",
-            "EID": "noon",
+            "cid": "C009",
+            "eid": "noon",
             "english": "noon",
             "mescalero": {
                 "literal_translations": ["it is in the middle"],
@@ -5961,8 +5979,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "north": {
-            "CID": "C010",
-            "EID": "north",
+            "cid": "C010",
+            "eid": "north",
             "english": "north",
             "mescalero": {
                 "literal_translations": ["from the north"],
@@ -5970,8 +5988,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "northnorthward": {
-            "CID": "C010",
-            "EID": "northnorthward",
+            "cid": "C010",
+            "eid": "northnorthward",
             "english": "north",
             "mescalero": {
                 "literal_translations": ["northward"],
@@ -5979,8 +5997,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "northoflavabedstularosabasin": {
-            "CID": "C019",
-            "EID": "northoflavabedstularosabasin",
+            "cid": "C019",
+            "eid": "northoflavabedstularosabasin",
             "english": "north of lava beds (tularosa basin)",
             "mescalero": {
                 "literal_translations": ["gray spring"],
@@ -5988,8 +6006,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "northtowardthenorth": {
-            "CID": "C010",
-            "EID": "northtowardthenorth",
+            "cid": "C010",
+            "eid": "northtowardthenorth",
             "english": "north (toward the north)",
             "mescalero": {
                 "literal_translations": ["toward the north"],
@@ -5997,14 +6015,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "nose": {
-            "CID": "C001",
-            "EID": "nose",
+            "cid": "C001",
+            "eid": "nose",
             "english": "nose",
             "mescalero": {"literal_translations": [], "words": ["-chį́"]},
         },
         "november": {
-            "CID": "C022",
-            "EID": "november",
+            "cid": "C022",
+            "eid": "november",
             "english": "november",
             "mescalero": {
                 "literal_translations": ["the frost fell", "it is turning cold"],
@@ -6012,14 +6030,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "now": {
-            "CID": "C020",
-            "EID": "now",
+            "cid": "C020",
+            "eid": "now",
             "english": "now",
             "mescalero": {"literal_translations": [], "words": ["k'adi"]},
         },
         "numberofyears": {
-            "CID": "C018",
-            "EID": "numberofyears",
+            "cid": "C018",
+            "eid": "numberofyears",
             "english": "number of years",
             "mescalero": {
                 "literal_translations": ["how many growing seasons"],
@@ -6027,8 +6045,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "nurse": {
-            "CID": "C024",
-            "EID": "nurse",
+            "cid": "C024",
+            "eid": "nurse",
             "english": "nurse",
             "mescalero": {
                 "literal_translations": ["woman who makes medicine"],
@@ -6036,14 +6054,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "nuthatch": {
-            "CID": "C005",
-            "EID": "nuthatch",
+            "cid": "C005",
+            "eid": "nuthatch",
             "english": "nut hatch",
             "mescalero": {"literal_translations": [], "words": ["'izháshe búúdf"]},
         },
         "nuts": {
-            "CID": "C014",
-            "EID": "nuts",
+            "cid": "C014",
+            "eid": "nuts",
             "english": "nuts",
             "mescalero": {
                 "literal_translations": ["something to be bitten"],
@@ -6051,32 +6069,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "nutshell": {
-            "CID": "C025",
-            "EID": "nutshell",
+            "cid": "C025",
+            "eid": "nutshell",
             "english": "nutshell",
             "mescalero": {"literal_translations": [], "words": ["bits'ále"]},
         },
         "oak": {
-            "CID": "C029",
-            "EID": "oak",
+            "cid": "C029",
+            "eid": "oak",
             "english": "oak",
             "mescalero": {"literal_translations": [], "words": ["'ichich'íle"]},
         },
         "oakinthemountains": {
-            "CID": "C029",
-            "EID": "oakinthemountains",
+            "cid": "C029",
+            "eid": "oakinthemountains",
             "english": "oak (in the mountains)",
             "mescalero": {"literal_translations": [], "words": ["'ichích'íle du'í"]},
         },
         "oatmeal": {
-            "CID": "C014",
-            "EID": "oatmeal",
+            "cid": "C014",
+            "eid": "oatmeal",
             "english": "oatmeal",
             "mescalero": {"literal_translations": [], "words": ["tł'úkushe tandile"]},
         },
         "oats": {
-            "CID": "C025",
-            "EID": "oats",
+            "cid": "C025",
+            "eid": "oats",
             "english": "oats",
             "mescalero": {
                 "literal_translations": ["stickery plant"],
@@ -6084,8 +6102,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ocean": {
-            "CID": "C011",
-            "EID": "ocean",
+            "cid": "C011",
+            "eid": "ocean",
             "english": "ocean",
             "mescalero": {
                 "literal_translations": ["white water in the distance"],
@@ -6093,14 +6111,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ocher": {
-            "CID": "C003",
-            "EID": "ocher",
+            "cid": "C003",
+            "eid": "ocher",
             "english": "ocher",
             "mescalero": {"literal_translations": [], "words": ["leetsu"]},
         },
         "october": {
-            "CID": "C022",
-            "EID": "october",
+            "cid": "C022",
+            "eid": "october",
             "english": "october",
             "mescalero": {
                 "literal_translations": [
@@ -6111,26 +6129,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ofcourse": {
-            "CID": "C012",
-            "EID": "ofcourse",
+            "cid": "C012",
+            "eid": "ofcourse",
             "english": "of course",
             "mescalero": {"literal_translations": [], "words": ["dí'ą', hádu'"]},
         },
         "ohyes": {
-            "CID": "C012",
-            "EID": "ohyes",
+            "cid": "C012",
+            "eid": "ohyes",
             "english": "oh yes",
             "mescalero": {"literal_translations": [], "words": ["dí'ą', hádu'"]},
         },
         "oldage": {
-            "CID": "C018",
-            "EID": "oldage",
+            "cid": "C018",
+            "eid": "oldage",
             "english": "old age",
             "mescalero": {"literal_translations": [], "words": ["są́"]},
         },
         "oldbaseballparkj": {
-            "CID": "C026",
-            "EID": "oldbaseballparkj",
+            "cid": "C026",
+            "eid": "oldbaseballparkj",
             "english": "old baseball park",
             "mescalero": {
                 "literal_translations": ["where people played baseball long ago"],
@@ -6138,56 +6156,56 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "oldperson": {
-            "CID": "C018",
-            "EID": "oldperson",
+            "cid": "C018",
+            "eid": "oldperson",
             "english": "old person",
             "mescalero": {"literal_translations": [], "words": ["są́né"]},
         },
         "oneischildless": {
-            "CID": "C018",
-            "EID": "oneischildless",
+            "cid": "C018",
+            "eid": "oneischildless",
             "english": "one is childless",
             "mescalero": {"literal_translations": [], "words": ["guzháá'ádi"]},
         },
         "oneisfollowinginoneswayhereditary": {
-            "CID": "C018",
-            "EID": "oneisfollowinginoneswayhereditary",
+            "cid": "C018",
+            "eid": "oneisfollowinginoneswayhereditary",
             "english": "one is following in one's way (hereditary)",
             "mescalero": {"literal_translations": [], "words": ["'ikék'ejagaz"]},
         },
         "oneisgivenawayformarriage": {
-            "CID": "C018",
-            "EID": "oneisgivenawayformarriage",
+            "cid": "C018",
+            "eid": "oneisgivenawayformarriage",
             "english": "one is given away for marriage",
             "mescalero": {"literal_translations": [], "words": ["kaagujíłtee'í"]},
         },
         "oneisgrowingup": {
-            "CID": "C018",
-            "EID": "oneisgrowingup",
+            "cid": "C018",
+            "eid": "oneisgrowingup",
             "english": "one is growing up",
             "mescalero": {"literal_translations": [], "words": ["dzinaaseł"]},
         },
         "oneismean": {
-            "CID": "C012",
-            "EID": "oneismean",
+            "cid": "C012",
+            "eid": "oneismean",
             "english": "one is mean",
             "mescalero": {"literal_translations": [], "words": ["haashkéí"]},
         },
         "oneisrearingchildren": {
-            "CID": "C018",
-            "EID": "oneisrearingchildren",
+            "cid": "C018",
+            "eid": "oneisrearingchildren",
             "english": "one is rearing children",
             "mescalero": {"literal_translations": [], "words": ["'ídzinash"]},
         },
         "oneisscatterbrained": {
-            "CID": "C012",
-            "EID": "oneisscatterbrained",
+            "cid": "C012",
+            "eid": "oneisscatterbrained",
             "english": "one is scatter brained",
             "mescalero": {"literal_translations": [], "words": ["dáblixaada"]},
         },
         "onesfamilycamefromsamepeopleorsameplace": {
-            "CID": "C017",
-            "EID": "onesfamilycamefromsamepeopleorsameplace",
+            "cid": "C017",
+            "eid": "onesfamilycamefromsamepeopleorsameplace",
             "english": "one's family came from same people or same place",
             "mescalero": {
                 "literal_translations": [],
@@ -6195,20 +6213,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "oneslanguage": {
-            "CID": "C018",
-            "EID": "oneslanguage",
+            "cid": "C018",
+            "eid": "oneslanguage",
             "english": "one's language",
             "mescalero": {"literal_translations": [], "words": ["guzaa'"]},
         },
         "onesoldladyorwife": {
-            "CID": "C017",
-            "EID": "onesoldladyorwife",
+            "cid": "C017",
+            "eid": "onesoldladyorwife",
             "english": "one's old lady or wife",
             "mescalero": {"literal_translations": [], "words": ["sąąń"]},
         },
         "onesoldmanorhusband": {
-            "CID": "C017",
-            "EID": "onesoldmanorhusband",
+            "cid": "C017",
+            "eid": "onesoldmanorhusband",
             "english": "one's old man or husband",
             "mescalero": {
                 "literal_translations": [],
@@ -6216,8 +6234,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "onetalkstoomuch": {
-            "CID": "C012",
-            "EID": "onetalkstoomuch",
+            "cid": "C012",
+            "eid": "onetalkstoomuch",
             "english": "one talks too much",
             "mescalero": {
                 "literal_translations": ["one has a big mouth"],
@@ -6225,8 +6243,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "oneweek": {
-            "CID": "C009",
-            "EID": "oneweek",
+            "cid": "C009",
+            "eid": "oneweek",
             "english": "one week",
             "mescalero": {
                 "literal_translations": ["when it is one ration week"],
@@ -6234,8 +6252,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "oneyear": {
-            "CID": "C009",
-            "EID": "oneyear",
+            "cid": "C009",
+            "eid": "oneyear",
             "english": "one year",
             "mescalero": {
                 "literal_translations": ["when it is one growing season"],
@@ -6243,17 +6261,17 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "onions": {
-            "CID": "C014",
-            "EID": "onions",
+            "cid": "C014",
+            "eid": "onions",
             "english": "onions",
             "mescalero": {
-                "literal_translations": ["Spanish"],
+                "literal_translations": ["(via Spanish, 'cebolla')"],
                 "words": ["saghúuye", "sawúuye"],
             },
         },
         "orange": {
-            "CID": "C008",
-            "EID": "orange",
+            "cid": "C008",
+            "eid": "orange",
             "english": "orange",
             "mescalero": {
                 "literal_translations": ["yellow fruit"],
@@ -6261,8 +6279,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ore": {
-            "CID": "C011",
-            "EID": "ore",
+            "cid": "C011",
+            "eid": "ore",
             "english": "ore",
             "mescalero": {
                 "literal_translations": ["rock metal"],
@@ -6270,8 +6288,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "organmountainsnearlascruces": {
-            "CID": "C019",
-            "EID": "organmountainsnearlascruces",
+            "cid": "C019",
+            "eid": "organmountainsnearlascruces",
             "english": "organ mountains las cruces",
             "mescalero": {
                 "literal_translations": ["rocks pointed in a row"],
@@ -6279,14 +6297,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "organs": {
-            "CID": "C001",
-            "EID": "organs",
+            "cid": "C001",
+            "eid": "organs",
             "english": "organs",
             "mescalero": {"literal_translations": [], "words": ["'iyee'í"]},
         },
         "otter": {
-            "CID": "C002",
-            "EID": "otter",
+            "cid": "C002",
+            "eid": "otter",
             "english": "otter",
             "mescalero": {
                 "literal_translations": ["the one that swims"],
@@ -6294,20 +6312,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "outside": {
-            "CID": "C020",
-            "EID": "outside",
+            "cid": "C020",
+            "eid": "outside",
             "english": "outside",
             "mescalero": {"literal_translations": [], "words": ["daatíyáá"]},
         },
         "ovenbread": {
-            "CID": "C004",
-            "EID": "ovenbread",
+            "cid": "C004",
+            "eid": "ovenbread",
             "english": "oven bread",
             "mescalero": {"literal_translations": [], "words": ["báń hishchá'í"]},
         },
         "over": {
-            "CID": "C020",
-            "EID": "over",
+            "cid": "C020",
+            "eid": "over",
             "english": "over",
             "mescalero": {
                 "literal_translations": ["it is over"],
@@ -6315,8 +6333,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "overseas": {
-            "CID": "C019",
-            "EID": "overseas",
+            "cid": "C019",
+            "eid": "overseas",
             "english": "overseas",
             "mescalero": {
                 "literal_translations": ["across the water"],
@@ -6324,14 +6342,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "owl": {
-            "CID": "C005",
-            "EID": "owl",
+            "cid": "C005",
+            "eid": "owl",
             "english": "owl",
             "mescalero": {"literal_translations": [], "words": ["niishjaa'"]},
         },
         "paintbrush": {
-            "CID": "C028",
-            "EID": "paintbrush",
+            "cid": "C028",
+            "eid": "paintbrush",
             "english": "paint brush",
             "mescalero": {
                 "literal_translations": ["that with which one paints"],
@@ -6339,14 +6357,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "pajamas": {
-            "CID": "C023",
-            "EID": "pajamas",
+            "cid": "C023",
+            "eid": "pajamas",
             "english": "pajamas",
             "mescalero": {"literal_translations": [], "words": ["'é beejinté'í"]},
         },
         "pajaritomountaind": {
-            "CID": "C026",
-            "EID": "pajaritomountaind",
+            "cid": "C026",
+            "eid": "pajaritomountaind",
             "english": "pajarito mountain",
             "mescalero": {
                 "literal_translations": ["bird mountain"],
@@ -6354,23 +6372,23 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "palm": {
-            "CID": "C001",
-            "EID": "palm",
+            "cid": "C001",
+            "eid": "palm",
             "english": "palm",
             "mescalero": {"literal_translations": [], "words": ["-laat'a"]},
         },
         "pan": {
-            "CID": "C015",
-            "EID": "pan",
+            "cid": "C015",
+            "eid": "pan",
             "english": "pan",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["'idee' béésta'a"],
             },
         },
         "pants": {
-            "CID": "C023",
-            "EID": "pants",
+            "cid": "C023",
+            "eid": "pants",
             "english": "pants",
             "mescalero": {
                 "literal_translations": [],
@@ -6378,8 +6396,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "parents": {
-            "CID": "C017",
-            "EID": "parents",
+            "cid": "C017",
+            "eid": "parents",
             "english": "parents",
             "mescalero": {
                 "literal_translations": ["one's parents"],
@@ -6387,44 +6405,44 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "paternalauntpaternalniecesandnephewswomanspeaking": {
-            "CID": "C017",
-            "EID": "paternalauntpaternalniecesandnephewswomanspeaking",
+            "cid": "C017",
+            "eid": "paternalauntpaternalniecesandnephewswomanspeaking",
             "english": "paternal aunt, paternal nieces and nephews (woman speaking)",
             "mescalero": {"literal_translations": [], "words": ["-deadé"]},
         },
         "paternalgrandfathermanspaternalgrandchildren": {
-            "CID": "C017",
-            "EID": "paternalgrandfathermanspaternalgrandchildren",
+            "cid": "C017",
+            "eid": "paternalgrandfathermanspaternalgrandchildren",
             "english": "paternal grand-father, man's paternal grandchildren",
             "mescalero": {"literal_translations": [], "words": ["-ndálé"]},
         },
         "paternalgrandmotherwomanspaternalgrandchildren": {
-            "CID": "C017",
-            "EID": "paternalgrandmotherwomanspaternalgrandchildren",
+            "cid": "C017",
+            "eid": "paternalgrandmotherwomanspaternalgrandchildren",
             "english": "paternal grand-mother, woman's paternal grandchildren",
             "mescalero": {"literal_translations": [], "words": ["-ch'iné"]},
         },
         "paternalunclepaternalniecesandnephewsmanspeaking": {
-            "CID": "C017",
-            "EID": "paternalunclepaternalniecesandnephewsmanspeaking",
+            "cid": "C017",
+            "eid": "paternalunclepaternalniecesandnephewsmanspeaking",
             "english": "paternal uncle, paternal nieces and nephews (man speaking)",
             "mescalero": {"literal_translations": [], "words": ["-dą'é"]},
         },
         "peach": {
-            "CID": "C029",
-            "EID": "peach",
+            "cid": "C029",
+            "eid": "peach",
             "english": "peach",
             "mescalero": {"literal_translations": [], "words": ["nk'uje"]},
         },
         "peaches": {
-            "CID": "C014",
-            "EID": "peaches",
+            "cid": "C014",
+            "eid": "peaches",
             "english": "peaches",
             "mescalero": {"literal_translations": ["sour"], "words": ["nk'uje"]},
         },
         "peak": {
-            "CID": "C011",
-            "EID": "peak",
+            "cid": "C011",
+            "eid": "peak",
             "english": "peak",
             "mescalero": {
                 "literal_translations": ["a mountain is jutting out"],
@@ -6432,23 +6450,23 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "pear": {
-            "CID": "C014",
-            "EID": "pear",
+            "cid": "C014",
+            "eid": "pear",
             "english": "pear",
             "mescalero": {
-                "literal_translations": ["Spanish", "Spanish"],
+                "literal_translations": ["(via Spanish, 'pera')"],
                 "words": ["béela", "béeda", "béela", "béeda"],
             },
         },
         "peas": {
-            "CID": "C014",
-            "EID": "peas",
+            "cid": "C014",
+            "eid": "peas",
             "english": "peas",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["chíchada"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["chíchada"]},
         },
         "pecan": {
-            "CID": "C025",
-            "EID": "pecan",
+            "cid": "C025",
+            "eid": "pecan",
             "english": "pecan",
             "mescalero": {
                 "literal_translations": ["long black walnut"],
@@ -6456,8 +6474,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "peccarypig": {
-            "CID": "C002",
-            "EID": "peccarypig",
+            "cid": "C002",
+            "eid": "peccarypig",
             "english": "peccary pig",
             "mescalero": {
                 "literal_translations": ["hard nose"],
@@ -6465,8 +6483,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "pen": {
-            "CID": "C020",
-            "EID": "pen",
+            "cid": "C020",
+            "eid": "pen",
             "english": "pen",
             "mescalero": {
                 "literal_translations": ["what one writes with"],
@@ -6474,14 +6492,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "penasco": {
-            "CID": "C019",
-            "EID": "penasco",
+            "cid": "C019",
+            "eid": "penasco",
             "english": "penasco",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["biyáasgu"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["biyáasgu"]},
         },
         "pencil": {
-            "CID": "C020",
-            "EID": "pencil",
+            "cid": "C020",
+            "eid": "pencil",
             "english": "pencil",
             "mescalero": {
                 "literal_translations": ["what one writes with"],
@@ -6489,14 +6507,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "penis": {
-            "CID": "C001",
-            "EID": "penis",
+            "cid": "C001",
+            "eid": "penis",
             "english": "penis",
             "mescalero": {"literal_translations": [], "words": ["-chuu'"]},
         },
         "percolator": {
-            "CID": "C015",
-            "EID": "percolator",
+            "cid": "C015",
+            "eid": "percolator",
             "english": "percolator",
             "mescalero": {
                 "literal_translations": ["that with which coffee is boiled"],
@@ -6504,8 +6522,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "perforated": {
-            "CID": "C027",
-            "EID": "perforated",
+            "cid": "C027",
+            "eid": "perforated",
             "english": "perforated",
             "mescalero": {
                 "literal_translations": ["it is holey"],
@@ -6513,8 +6531,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "pesocanyon": {
-            "CID": "C026",
-            "EID": "pesocanyon",
+            "cid": "C026",
+            "eid": "pesocanyon",
             "english": "peso canyon",
             "mescalero": {
                 "literal_translations": ["upper stream canyon"],
@@ -6522,20 +6540,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "pie": {
-            "CID": "C014",
-            "EID": "pie",
+            "cid": "C014",
+            "eid": "pie",
             "english": "pie",
             "mescalero": {"literal_translations": [], "words": ["bán ye'itzé'í"]},
         },
         "pig": {
-            "CID": "C002",
-            "EID": "pig",
+            "cid": "C002",
+            "eid": "pig",
             "english": "pig",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["gúuchi"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["gúuchi"]},
         },
         "pigeon": {
-            "CID": "C005",
-            "EID": "pigeon",
+            "cid": "C005",
+            "eid": "pigeon",
             "english": "pigeon",
             "mescalero": {
                 "literal_translations": ["large dove"],
@@ -6543,8 +6561,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "pigmyowl": {
-            "CID": "C005",
-            "EID": "pigmyowl",
+            "cid": "C005",
+            "eid": "pigmyowl",
             "english": "pigmy owl",
             "mescalero": {
                 "literal_translations": ["hunter"],
@@ -6552,8 +6570,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "pimacountry": {
-            "CID": "C019",
-            "EID": "pimacountry",
+            "cid": "C019",
+            "eid": "pimacountry",
             "english": "pima country",
             "mescalero": {
                 "literal_translations": ["home of the rock house people"],
@@ -6561,68 +6579,68 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "pineneedles": {
-            "CID": "C029",
-            "EID": "pineneedles",
+            "cid": "C029",
+            "eid": "pineneedles",
             "english": "pine needles",
             "mescalero": {"literal_translations": [], "words": ["bénch'iyé́ bigwashí"]},
         },
         "pinesquirrel": {
-            "CID": "C002",
-            "EID": "pinesquirrel",
+            "cid": "C002",
+            "eid": "pinesquirrel",
             "english": "pine squirrel",
             "mescalero": {"literal_translations": [], "words": ["tsék'edadluí"]},
         },
         "pinetreetank": {
-            "CID": "C026",
-            "EID": "pinetreetank",
+            "cid": "C026",
+            "eid": "pinetreetank",
             "english": "pine tree tank",
             "mescalero": {"literal_translations": [], "words": ["bénch'iiye tú siką"]},
         },
         "pink": {
-            "CID": "C008",
-            "EID": "pink",
+            "cid": "C008",
+            "eid": "pink",
             "english": "pink",
-            "mescalero": {"literal_translations": [], "words": ["zíchi"]},
+            "mescalero": {"literal_translations": [], "words": ["łíchi"]},
         },
         "pinonnuts": {
-            "CID": "C004",
-            "EID": "pinonnuts",
+            "cid": "C004",
+            "eid": "pinonnuts",
             "english": "pinon nuts",
             "mescalero": {"literal_translations": [], "words": ["niishch'i"]},
         },
         "pintobeans": {
-            "CID": "C014",
-            "EID": "pintobeans",
+            "cid": "C014",
+            "eid": "pintobeans",
             "english": "pinto beans",
             "mescalero": {"literal_translations": [], "words": ["bééskants'udze"]},
         },
         "pitch": {
-            "CID": "C029",
-            "EID": "pitch",
+            "cid": "C029",
+            "eid": "pitch",
             "english": "pitch",
             "mescalero": {"literal_translations": [], "words": ["jáá'í"]},
         },
         "pitchfork": {
-            "CID": "C028",
-            "EID": "pitchfork",
+            "cid": "C028",
+            "eid": "pitchfork",
             "english": "pitchfork",
             "mescalero": {"literal_translations": [], "words": ["bésh deesdza'í"]},
         },
         "plainsprairie": {
-            "CID": "C011",
-            "EID": "plainsprairie",
+            "cid": "C011",
+            "eid": "plainsprairie",
             "english": "plains prairie",
             "mescalero": {"literal_translations": [], "words": ["daaguzgaya"]},
         },
         "plant": {
-            "CID": "C025",
-            "EID": "plant",
+            "cid": "C025",
+            "eid": "plant",
             "english": "plant",
             "mescalero": {"literal_translations": [], "words": ["tł'u"]},
         },
         "pliers": {
-            "CID": "C028",
-            "EID": "pliers",
+            "cid": "C028",
+            "eid": "pliers",
             "english": "pliers",
             "mescalero": {
                 "literal_translations": ["metal with which one grips"],
@@ -6630,8 +6648,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "plow": {
-            "CID": "C028",
-            "EID": "plow",
+            "cid": "C028",
+            "eid": "plow",
             "english": "plow",
             "mescalero": {
                 "literal_translations": ["that with which one jerks"],
@@ -6639,14 +6657,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "plum": {
-            "CID": "C025",
-            "EID": "plum",
+            "cid": "C025",
+            "eid": "plum",
             "english": "plum",
             "mescalero": {"literal_translations": ["big cherry"], "words": ["dzétsu"]},
         },
         "plume": {
-            "CID": "C003",
-            "EID": "plume",
+            "cid": "C003",
+            "eid": "plume",
             "english": "plume",
             "mescalero": {
                 "literal_translations": [],
@@ -6654,26 +6672,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "poisonivy": {
-            "CID": "C029",
-            "EID": "poisonivy",
+            "cid": "C029",
+            "eid": "poisonivy",
             "english": "poison ivy",
             "mescalero": {"literal_translations": [], "words": ["k'éádzájdzi"]},
         },
         "poisonoak": {
-            "CID": "C025",
-            "EID": "poisonoak",
+            "cid": "C025",
+            "eid": "poisonoak",
             "english": "poison oak",
             "mescalero": {"literal_translations": [], "words": ["'ichííh'ile deeyúí"]},
         },
         "pokerfire": {
-            "CID": "C003",
-            "EID": "pokerfire",
+            "cid": "C003",
+            "eid": "pokerfire",
             "english": "poker (fire)",
             "mescalero": {"literal_translations": [], "words": ["kųųnashgish"]},
         },
         "poleforscrapingskin": {
-            "CID": "C001",
-            "EID": "poleforscrapingskin",
+            "cid": "C001",
+            "eid": "poleforscrapingskin",
             "english": "pole for scraping (skin)",
             "mescalero": {
                 "literal_translations": [],
@@ -6681,47 +6699,47 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "policeman": {
-            "CID": "C024",
-            "EID": "policeman",
+            "cid": "C024",
+            "eid": "policeman",
             "english": "policeman",
             "mescalero": {"literal_translations": [], "words": ["'awasííń"]},
         },
         "policemansp": {
-            "CID": "C024",
-            "EID": "policemansp",
+            "cid": "C024",
+            "eid": "policemansp",
             "english": "policeman sp",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["'asitíń"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["'asitíń"]},
         },
         "pollencattail": {
-            "CID": "C003",
-            "EID": "pollencattail",
+            "cid": "C003",
+            "eid": "pollencattail",
             "english": "pollen (cattail)",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["tádídíne tádídin"],
             },
         },
         "pollenpouch": {
-            "CID": "C003",
-            "EID": "pollenpouch",
+            "cid": "C003",
+            "eid": "pollenpouch",
             "english": "pollen pouch",
             "mescalero": {"literal_translations": [], "words": ["tádídíne bizisí"]},
         },
         "pond": {
-            "CID": "C011",
-            "EID": "pond",
+            "cid": "C011",
+            "eid": "pond",
             "english": "pond",
             "mescalero": {"literal_translations": [], "words": ["tú siką́"]},
         },
         "ponderosapine": {
-            "CID": "C029",
-            "EID": "ponderosapine",
+            "cid": "C029",
+            "eid": "ponderosapine",
             "english": "ponderosa pine",
             "mescalero": {"literal_translations": [], "words": ["bénch'ííye"]},
         },
         "pop": {
-            "CID": "C014",
-            "EID": "pop",
+            "cid": "C014",
+            "eid": "pop",
             "english": "pop",
             "mescalero": {
                 "literal_translations": ["sweet water"],
@@ -6729,8 +6747,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "popcorn": {
-            "CID": "C014",
-            "EID": "popcorn",
+            "cid": "C014",
+            "eid": "popcorn",
             "english": "popcorn",
             "mescalero": {
                 "literal_translations": ["corn that pops"],
@@ -6738,8 +6756,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "porcupine": {
-            "CID": "C002",
-            "EID": "porcupine",
+            "cid": "C002",
+            "eid": "porcupine",
             "english": "porcupine",
             "mescalero": {
                 "literal_translations": ["the one that throws stickers"],
@@ -6747,8 +6765,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "postholedigger": {
-            "CID": "C028",
-            "EID": "postholedigger",
+            "cid": "C028",
+            "eid": "postholedigger",
             "english": "posthole digger",
             "mescalero": {
                 "literal_translations": ["that with which one digs"],
@@ -6756,8 +6774,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "pot": {
-            "CID": "C015",
-            "EID": "pot",
+            "cid": "C015",
+            "eid": "pot",
             "english": "pot",
             "mescalero": {
                 "literal_translations": ["boiling can"],
@@ -6765,23 +6783,23 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "potatoes": {
-            "CID": "C014",
-            "EID": "potatoes",
+            "cid": "C014",
+            "eid": "potatoes",
             "english": "potatoes",
             "mescalero": {
-                "literal_translations": ["Spanish"],
+                "literal_translations": ["(via Spanish, 'papas')"],
                 "words": ["nigúkadze", "báabas"],
             },
         },
         "potatopatchheaglecreek": {
-            "CID": "C026",
-            "EID": "potatopatchheaglecreek",
+            "cid": "C026",
+            "eid": "potatopatchheaglecreek",
             "english": "potato patch eagle creek",
             "mescalero": {"literal_translations": [], "words": ["zítsu'i 'enéń'ą"]},
         },
         "poundeddrymeat": {
-            "CID": "C004",
-            "EID": "poundeddrymeat",
+            "cid": "C004",
+            "eid": "poundeddrymeat",
             "english": "pounded dry meat",
             "mescalero": {
                 "literal_translations": [],
@@ -6789,14 +6807,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "prairiedog": {
-            "CID": "C002",
-            "EID": "prairiedog",
+            "cid": "C002",
+            "eid": "prairiedog",
             "english": "prairie dog",
             "mescalero": {"literal_translations": [], "words": ["dlúye"]},
         },
         "prairiehawk": {
-            "CID": "C005",
-            "EID": "prairiehawk",
+            "cid": "C005",
+            "eid": "prairiehawk",
             "english": "prairie hawk",
             "mescalero": {
                 "literal_translations": ["prairie hunter"],
@@ -6804,8 +6822,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "preacherministerpastor": {
-            "CID": "C024",
-            "EID": "preacherministerpastor",
+            "cid": "C024",
+            "eid": "preacherministerpastor",
             "english": "preacher minister pastor",
             "mescalero": {
                 "literal_translations": ["one who prays"],
@@ -6813,8 +6831,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "presidenttribe": {
-            "CID": "C024",
-            "EID": "presidenttribe",
+            "cid": "C024",
+            "eid": "presidenttribe",
             "english": "president tribe",
             "mescalero": {
                 "literal_translations": ["leader of the people"],
@@ -6822,14 +6840,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "preyingmantiswalkingstick": {
-            "CID": "C016",
-            "EID": "preyingmantiswalkingstick",
+            "cid": "C016",
+            "eid": "preyingmantiswalkingstick",
             "english": "preying mantis (walking stick)",
             "mescalero": {"literal_translations": [], "words": ["gúúye táadiiítséé'í"]},
         },
         "priest": {
-            "CID": "C024",
-            "EID": "priest",
+            "cid": "C024",
+            "eid": "priest",
             "english": "priest",
             "mescalero": {
                 "literal_translations": ["one who drags his garment"],
@@ -6837,14 +6855,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "primaryrootsandbulbs": {
-            "CID": "C025",
-            "EID": "primaryrootsandbulbs",
+            "cid": "C025",
+            "eid": "primaryrootsandbulbs",
             "english": "primary roots and bulbs",
             "mescalero": {"literal_translations": [], "words": ["tł'u bikéeghashe"]},
         },
         "primrose": {
-            "CID": "C025",
-            "EID": "primrose",
+            "cid": "C025",
+            "eid": "primrose",
             "english": "primrose",
             "mescalero": {
                 "literal_translations": ["it grows through a rock"],
@@ -6852,8 +6870,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "principalschool": {
-            "CID": "C024",
-            "EID": "principalschool",
+            "cid": "C024",
+            "eid": "principalschool",
             "english": "principal school",
             "mescalero": {
                 "literal_translations": ["boss of the school"],
@@ -6861,8 +6879,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "puberty": {
-            "CID": "C018",
-            "EID": "puberty",
+            "cid": "C018",
+            "eid": "puberty",
             "english": "puberty",
             "mescalero": {
                 "literal_translations": ["one is at the age of having babies"],
@@ -6870,8 +6888,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "pubertyceremony": {
-            "CID": "C018",
-            "EID": "pubertyceremony",
+            "cid": "C018",
+            "eid": "pubertyceremony",
             "english": "puberty ceremony",
             "mescalero": {
                 "literal_translations": ["one became a woman and is having a feast"],
@@ -6879,14 +6897,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "pubichair": {
-            "CID": "C001",
-            "EID": "pubichair",
+            "cid": "C001",
+            "eid": "pubichair",
             "english": "pubic hair",
             "mescalero": {"literal_translations": [], "words": ["-ghaa'"]},
         },
         "pueblocountry": {
-            "CID": "C019",
-            "EID": "pueblocountry",
+            "cid": "C019",
+            "eid": "pueblocountry",
             "english": "pueblo country",
             "mescalero": {
                 "literal_translations": [],
@@ -6894,8 +6912,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "pumpkin": {
-            "CID": "C014",
-            "EID": "pumpkin",
+            "cid": "C014",
+            "eid": "pumpkin",
             "english": "pumpkin",
             "mescalero": {
                 "literal_translations": [],
@@ -6903,14 +6921,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "pumpkinseeds": {
-            "CID": "C014",
-            "EID": "pumpkinseeds",
+            "cid": "C014",
+            "eid": "pumpkinseeds",
             "english": "pumpkin seeds",
             "mescalero": {"literal_translations": [], "words": ["bééskantsu binaaye'"]},
         },
         "pupil": {
-            "CID": "C001",
-            "EID": "pupil",
+            "cid": "C001",
+            "eid": "pupil",
             "english": "pupil",
             "mescalero": {
                 "literal_translations": ["the black of the eye"],
@@ -6918,8 +6936,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "purple": {
-            "CID": "C008",
-            "EID": "purple",
+            "cid": "C008",
+            "eid": "purple",
             "english": "purple",
             "mescalero": {
                 "literal_translations": ["blackish blue (Chiricahua)"],
@@ -6927,8 +6945,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "purseorbag": {
-            "CID": "C023",
-            "EID": "purseorbag",
+            "cid": "C023",
+            "eid": "purseorbag",
             "english": "purse or bag",
             "mescalero": {
                 "literal_translations": ["something to carry things in"],
@@ -6936,32 +6954,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "quail": {
-            "CID": "C005",
-            "EID": "quail",
+            "cid": "C005",
+            "eid": "quail",
             "english": "quail",
             "mescalero": {"literal_translations": [], "words": ["ch'ishdane"]},
         },
         "quakesand": {
-            "CID": "C011",
-            "EID": "quakesand",
+            "cid": "C011",
+            "eid": "quakesand",
             "english": "quakesand",
             "mescalero": {"literal_translations": [], "words": ["tséézhéí dit'u'í"]},
         },
         "quartermoon": {
-            "CID": "C011",
-            "EID": "quartermoon",
+            "cid": "C011",
+            "eid": "quartermoon",
             "english": "quarter moon",
             "mescalero": {"literal_translations": [], "words": ["'litę"]},
         },
         "quiver": {
-            "CID": "C003",
-            "EID": "quiver",
+            "cid": "C003",
+            "eid": "quiver",
             "english": "quiver",
             "mescalero": {"literal_translations": [], "words": ["k'aa bizis"]},
         },
         "rabbit": {
-            "CID": "C002",
-            "EID": "rabbit",
+            "cid": "C002",
+            "eid": "rabbit",
             "english": "rabbit",
             "mescalero": {
                 "literal_translations": ["the one that is stretched out (Chiricahua)"],
@@ -6969,14 +6987,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "rabbitbrush": {
-            "CID": "C025",
-            "EID": "rabbitbrush",
+            "cid": "C025",
+            "eid": "rabbitbrush",
             "english": "rabbit brush",
             "mescalero": {"literal_translations": [], "words": ["'itsútsine bitł'u"]},
         },
         "racoon": {
-            "CID": "C002",
-            "EID": "racoon",
+            "cid": "C002",
+            "eid": "racoon",
             "english": "racoon",
             "mescalero": {
                 "literal_translations": ["black around eyes"],
@@ -6984,8 +7002,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "radio": {
-            "CID": "C015",
-            "EID": "radio",
+            "cid": "C015",
+            "eid": "radio",
             "english": "radio",
             "mescalero": {
                 "literal_translations": ["metal that sings"],
@@ -6993,8 +7011,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "rainbow": {
-            "CID": "C011",
-            "EID": "rainbow",
+            "cid": "C011",
+            "eid": "rainbow",
             "english": "rainbow",
             "mescalero": {
                 "literal_translations": ["needle thread"],
@@ -7002,14 +7020,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "rainwater": {
-            "CID": "C011",
-            "EID": "rainwater",
+            "cid": "C011",
+            "eid": "rainwater",
             "english": "rainwater",
             "mescalero": {"literal_translations": [], "words": ["tú núútą́'į́"]},
         },
         "ram": {
-            "CID": "C002",
-            "EID": "ram",
+            "cid": "C002",
+            "eid": "ram",
             "english": "ram",
             "mescalero": {
                 "literal_translations": [
@@ -7020,8 +7038,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "raspberry": {
-            "CID": "C025",
-            "EID": "raspberry",
+            "cid": "C025",
+            "eid": "raspberry",
             "english": "raspberry",
             "mescalero": {
                 "literal_translations": ["large strawberry"],
@@ -7029,20 +7047,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "rat": {
-            "CID": "C002",
-            "EID": "rat",
+            "cid": "C002",
+            "eid": "rat",
             "english": "rat",
             "mescalero": {"literal_translations": ["big mouse"], "words": ["luutsu."]},
         },
         "rattle": {
-            "CID": "C003",
-            "EID": "rattle",
+            "cid": "C003",
+            "eid": "rattle",
             "english": "rattle",
             "mescalero": {"literal_translations": [], "words": ["'ighał"]},
         },
         "rattlesnake": {
-            "CID": "C013",
-            "EID": "rattlesnake",
+            "cid": "C013",
+            "eid": "rattlesnake",
             "english": "rattlesnake",
             "mescalero": {
                 "literal_translations": ["snake with rattle tail"],
@@ -7050,14 +7068,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "rawhide": {
-            "CID": "C003",
-            "EID": "rawhide",
+            "cid": "C003",
+            "eid": "rawhide",
             "english": "rawhide",
             "mescalero": {"literal_translations": [], "words": ["'ikał"]},
         },
         "razor": {
-            "CID": "C020",
-            "EID": "razor",
+            "cid": "C020",
+            "eid": "razor",
             "english": "razor",
             "mescalero": {
                 "literal_translations": ["what one shaves with"],
@@ -7065,32 +7083,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "really": {
-            "CID": "C012",
-            "EID": "really",
+            "cid": "C012",
+            "eid": "really",
             "english": "really?",
             "mescalero": {"literal_translations": [], "words": ["hęę, hę'"]},
         },
         "recently": {
-            "CID": "C020",
-            "EID": "recently",
+            "cid": "C020",
+            "eid": "recently",
             "english": "recently",
             "mescalero": {"literal_translations": [], "words": ["da'andeegu"]},
         },
         "rectum": {
-            "CID": "C001",
-            "EID": "rectum",
+            "cid": "C001",
+            "eid": "rectum",
             "english": "rectum",
             "mescalero": {"literal_translations": [], "words": ["-tsile"]},
         },
         "red": {
-            "CID": "C008",
-            "EID": "red",
+            "cid": "C008",
+            "eid": "red",
             "english": "red",
             "mescalero": {"literal_translations": [], "words": ["zítu"]},
         },
         "redant": {
-            "CID": "C016",
-            "EID": "redant",
+            "cid": "C016",
+            "eid": "redant",
             "english": "red ant",
             "mescalero": {
                 "literal_translations": ["red ant hill"],
@@ -7098,14 +7116,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "redberrybeads": {
-            "CID": "C003",
-            "EID": "redberrybeads",
+            "cid": "C003",
+            "eid": "redberrybeads",
             "english": "red berry beads",
             "mescalero": {"literal_translations": [], "words": ["yuuchíáé"]},
         },
         "redcabincanyon": {
-            "CID": "C026",
-            "EID": "redcabincanyon",
+            "cid": "C026",
+            "eid": "redcabincanyon",
             "english": "red cabin canyon",
             "mescalero": {
                 "literal_translations": [],
@@ -7113,14 +7131,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "redchilli": {
-            "CID": "C014",
-            "EID": "redchilli",
+            "cid": "C014",
+            "eid": "redchilli",
             "english": "red chilli",
             "mescalero": {"literal_translations": [], "words": ["chííle łitúí"]},
         },
         "redlakeh": {
-            "CID": "C026",
-            "EID": "redlakeh",
+            "cid": "C026",
+            "eid": "redlakeh",
             "english": "red lake",
             "mescalero": {
                 "literal_translations": [],
@@ -7128,8 +7146,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "redtailhawk": {
-            "CID": "C005",
-            "EID": "redtailhawk",
+            "cid": "C005",
+            "eid": "redtailhawk",
             "english": "redtail hawk",
             "mescalero": {
                 "literal_translations": ["yellow tail"],
@@ -7137,14 +7155,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "reedrushes": {
-            "CID": "C003",
-            "EID": "reedrushes",
+            "cid": "C003",
+            "eid": "reedrushes",
             "english": "reed; rushes",
             "mescalero": {"literal_translations": [], "words": ["'úk'a'"]},
         },
         "reins": {
-            "CID": "C028",
-            "EID": "reins",
+            "cid": "C028",
+            "eid": "reins",
             "english": "reins",
             "mescalero": {
                 "literal_translations": ["that with which one guides a horse"],
@@ -7152,8 +7170,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "relatives": {
-            "CID": "C017",
-            "EID": "relatives",
+            "cid": "C017",
+            "eid": "relatives",
             "english": "relatives",
             "mescalero": {
                 "literal_translations": ["relatives"],
@@ -7161,8 +7179,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "religion": {
-            "CID": "C020",
-            "EID": "religion",
+            "cid": "C020",
+            "eid": "religion",
             "english": "religion",
             "mescalero": {
                 "literal_translations": ["what one believes in, he believes in it"],
@@ -7170,26 +7188,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "resin": {
-            "CID": "C029",
-            "EID": "resin",
+            "cid": "C029",
+            "eid": "resin",
             "english": "resin",
             "mescalero": {"literal_translations": [], "words": ["jáá'í"]},
         },
         "ribbon": {
-            "CID": "C023",
-            "EID": "ribbon",
+            "cid": "C023",
+            "eid": "ribbon",
             "english": "ribbon",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["gadun"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["gadun"]},
         },
         "ribs": {
-            "CID": "C001",
-            "EID": "ribs",
+            "cid": "C001",
+            "eid": "ribs",
             "english": "ribs",
             "mescalero": {"literal_translations": [], "words": ["-tsa'"]},
         },
         "rice": {
-            "CID": "C014",
-            "EID": "rice",
+            "cid": "C014",
+            "eid": "rice",
             "english": "rice",
             "mescalero": {
                 "literal_translations": ["worm-like flour"],
@@ -7197,20 +7215,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ridge": {
-            "CID": "C011",
-            "EID": "ridge",
+            "cid": "C011",
+            "eid": "ridge",
             "english": "ridge",
             "mescalero": {"literal_translations": [], "words": ["naanák'ę"]},
         },
         "rightnow": {
-            "CID": "C020",
-            "EID": "rightnow",
+            "cid": "C020",
+            "eid": "rightnow",
             "english": "right now",
             "mescalero": {"literal_translations": [], "words": ["dáákugu", "k'adi"]},
         },
         "rightside": {
-            "CID": "C001",
-            "EID": "rightside",
+            "cid": "C001",
+            "eid": "rightside",
             "english": "right side",
             "mescalero": {
                 "literal_translations": [],
@@ -7218,8 +7236,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "rindfruit": {
-            "CID": "C025",
-            "EID": "rindfruit",
+            "cid": "C025",
+            "eid": "rindfruit",
             "english": "rind (fruit)",
             "mescalero": {
                 "literal_translations": ["fruit covering"],
@@ -7227,14 +7245,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ring": {
-            "CID": "C003",
-            "EID": "ring",
+            "cid": "C003",
+            "eid": "ring",
             "english": "ring",
             "mescalero": {"literal_translations": [], "words": ["gutsta"]},
         },
         "ringfinger": {
-            "CID": "C001",
-            "EID": "ringfinger",
+            "cid": "C001",
+            "eid": "ringfinger",
             "english": "ring finger",
             "mescalero": {
                 "literal_translations": [],
@@ -7242,8 +7260,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "riogranderiver": {
-            "CID": "C019",
-            "EID": "riogranderiver",
+            "cid": "C019",
+            "eid": "riogranderiver",
             "english": "rio grande river",
             "mescalero": {
                 "literal_translations": ["red water"],
@@ -7251,8 +7269,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "river": {
-            "CID": "C011",
-            "EID": "river",
+            "cid": "C011",
+            "eid": "river",
             "english": "river",
             "mescalero": {
                 "literal_translations": ["much water flows"],
@@ -7260,8 +7278,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "roadgrader": {
-            "CID": "C021",
-            "EID": "roadgrader",
+            "cid": "C021",
+            "eid": "roadgrader",
             "english": "road grader",
             "mescalero": {
                 "literal_translations": ["that with which to work on the road"],
@@ -7269,20 +7287,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "roadpathtrail": {
-            "CID": "C011",
-            "EID": "roadpathtrail",
+            "cid": "C011",
+            "eid": "roadpathtrail",
             "english": "road path trail",
             "mescalero": {"literal_translations": [], "words": ["'íntine"]},
         },
         "roadpathtrailalt": {
-            "CID": "C011",
-            "EID": "roadpathtrailalt",
+            "cid": "C011",
+            "eid": "roadpathtrailalt",
             "english": "road path trail alt",
             "mescalero": {"literal_translations": [], "words": ["ítine"]},
         },
         "roadrunner": {
-            "CID": "C005",
-            "EID": "roadrunner",
+            "cid": "C005",
+            "eid": "roadrunner",
             "english": "road runner",
             "mescalero": {
                 "literal_translations": ["red on top of head"],
@@ -7290,8 +7308,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "roaster": {
-            "CID": "C015",
-            "EID": "roaster",
+            "cid": "C015",
+            "eid": "roaster",
             "english": "roaster",
             "mescalero": {
                 "literal_translations": ["that with which to roast"],
@@ -7299,20 +7317,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "robin": {
-            "CID": "C005",
-            "EID": "robin",
+            "cid": "C005",
+            "eid": "robin",
             "english": "robin",
             "mescalero": {"literal_translations": [], "words": ["cháachudełchide"]},
         },
         "rock": {
-            "CID": "C011",
-            "EID": "rock",
+            "cid": "C011",
+            "eid": "rock",
             "english": "rock",
             "mescalero": {"literal_translations": [], "words": ["tsé"]},
         },
         "rockfortanningandcleaning": {
-            "CID": "C003",
-            "EID": "rockfortanningandcleaning",
+            "cid": "C003",
+            "eid": "rockfortanningandcleaning",
             "english": "rock for tanning and cleaning",
             "mescalero": {
                 "literal_translations": ["rough rock"],
@@ -7320,14 +7338,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "rockheated": {
-            "CID": "C003",
-            "EID": "rockheated",
+            "cid": "C003",
+            "eid": "rockheated",
             "english": "rock (heated)",
             "mescalero": {"literal_translations": [], "words": ["tsé bee'éní'niidų'í"]},
         },
         "rockingchair": {
-            "CID": "C015",
-            "EID": "rockingchair",
+            "cid": "C015",
+            "eid": "rockingchair",
             "english": "rocking chair",
             "mescalero": {
                 "literal_translations": ["lullaby seat"],
@@ -7335,26 +7353,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "rockslide": {
-            "CID": "C011",
-            "EID": "rockslide",
+            "cid": "C011",
+            "eid": "rockslide",
             "english": "rockslide",
             "mescalero": {"literal_translations": [], "words": ["tsé hanyasdeesteeł"]},
         },
         "rocky": {
-            "CID": "C027",
-            "EID": "rocky",
+            "cid": "C027",
+            "eid": "rocky",
             "english": "rocky",
             "mescalero": {"literal_translations": ["it is rocky"], "words": ["tséta"]},
         },
         "roots": {
-            "CID": "C029",
-            "EID": "roots",
+            "cid": "C029",
+            "eid": "roots",
             "english": "roots",
             "mescalero": {"literal_translations": [], "words": ["tsį bikéeghashe"]},
         },
         "roswellarea": {
-            "CID": "C019",
-            "EID": "roswellarea",
+            "cid": "C019",
+            "eid": "roswellarea",
             "english": "roswell area",
             "mescalero": {
                 "literal_translations": ["salt water"],
@@ -7362,8 +7380,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "rough": {
-            "CID": "C027",
-            "EID": "rough",
+            "cid": "C027",
+            "eid": "rough",
             "english": "rough",
             "mescalero": {
                 "literal_translations": ["it is rough"],
@@ -7371,8 +7389,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "roundmountain": {
-            "CID": "C019",
-            "EID": "roundmountain",
+            "cid": "C019",
+            "eid": "roundmountain",
             "english": "round mountain",
             "mescalero": {
                 "literal_translations": ["where the narrow mountain sits"],
@@ -7380,14 +7398,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "rubbershoes": {
-            "CID": "C023",
-            "EID": "rubbershoes",
+            "cid": "C023",
+            "eid": "rubbershoes",
             "english": "rubber shoes",
             "mescalero": {"literal_translations": [], "words": ["kéjaa'"]},
         },
         "rubbery": {
-            "CID": "C027",
-            "EID": "rubbery",
+            "cid": "C027",
+            "eid": "rubbery",
             "english": "rubbery",
             "mescalero": {
                 "literal_translations": [
@@ -7397,8 +7415,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "rugs": {
-            "CID": "C015",
-            "EID": "rugs",
+            "cid": "C015",
+            "eid": "rugs",
             "english": "rugs",
             "mescalero": {
                 "literal_translations": ["that which one spreads"],
@@ -7406,8 +7424,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ruidoso": {
-            "CID": "C019",
-            "EID": "ruidoso",
+            "cid": "C019",
+            "eid": "ruidoso",
             "english": "ruidoso",
             "mescalero": {
                 "literal_translations": ["where a rock is in the water"],
@@ -7415,8 +7433,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "rulermeasuringtape": {
-            "CID": "C028",
-            "EID": "rulermeasuringtape",
+            "cid": "C028",
+            "eid": "rulermeasuringtape",
             "english": "ruler measuring tape",
             "mescalero": {
                 "literal_translations": ["that with which one measures"],
@@ -7424,26 +7442,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sacrum": {
-            "CID": "C001",
-            "EID": "sacrum",
+            "cid": "C001",
+            "eid": "sacrum",
             "english": "sacrum",
             "mescalero": {"literal_translations": [], "words": ["-tseets'ine"]},
         },
         "saddle": {
-            "CID": "C028",
-            "EID": "saddle",
+            "cid": "C028",
+            "eid": "saddle",
             "english": "saddle",
             "mescalero": {"literal_translations": [], "words": ["yaa'aye"]},
         },
         "saddlebag": {
-            "CID": "C003",
-            "EID": "saddlebag",
+            "cid": "C003",
+            "eid": "saddlebag",
             "english": "saddle bag",
             "mescalero": {"literal_translations": [], "words": ["'íłch'ájíizisí"]},
         },
         "saddleblanket": {
-            "CID": "C028",
-            "EID": "saddleblanket",
+            "cid": "C028",
+            "eid": "saddleblanket",
             "english": "saddle blanket",
             "mescalero": {
                 "literal_translations": ["that which is put under a horse"],
@@ -7451,8 +7469,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sage": {
-            "CID": "C025",
-            "EID": "sage",
+            "cid": "C025",
+            "eid": "sage",
             "english": "sage",
             "mescalero": {
                 "literal_translations": ["gray plant (used to smoke a house)"],
@@ -7460,8 +7478,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sagebrush": {
-            "CID": "C025",
-            "EID": "sagebrush",
+            "cid": "C025",
+            "eid": "sagebrush",
             "english": "sage brush",
             "mescalero": {
                 "literal_translations": ["sand medicine, used as fragrance"],
@@ -7469,8 +7487,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "salinasmountain": {
-            "CID": "C019",
-            "EID": "salinasmountain",
+            "cid": "C019",
+            "eid": "salinasmountain",
             "english": "salinas mountain",
             "mescalero": {
                 "literal_translations": ["sacred mountain"],
@@ -7478,8 +7496,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "salmon": {
-            "CID": "C014",
-            "EID": "salmon",
+            "cid": "C014",
+            "eid": "salmon",
             "english": "salmon",
             "mescalero": {
                 "literal_translations": [],
@@ -7487,8 +7505,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "salt": {
-            "CID": "C014",
-            "EID": "salt",
+            "cid": "C014",
+            "eid": "salt",
             "english": "salt",
             "mescalero": {
                 "literal_translations": ["Lipan, Chiricahua"],
@@ -7496,8 +7514,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "saltlakeatsouthendoflavabedtularosabasin": {
-            "CID": "C019",
-            "EID": "saltlakeatsouthendoflavabedtularosabasin",
+            "cid": "C019",
+            "eid": "saltlakeatsouthendoflavabedtularosabasin",
             "english": "salt lake at south end of lava bed (tularosa basin)",
             "mescalero": {
                 "literal_translations": [],
@@ -7505,44 +7523,44 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "samesexedsiblingmansbrotherwomanssister": {
-            "CID": "C017",
-            "EID": "samesexedsiblingmansbrotherwomanssister",
+            "cid": "C017",
+            "eid": "samesexedsiblingmansbrotherwomanssister",
             "english": "same sexed sibling (man's brother, woman's sister)",
             "mescalero": {"literal_translations": [], "words": ["-k'is"]},
         },
         "sancarlosariz": {
-            "CID": "C019",
-            "EID": "sancarlosariz",
+            "cid": "C019",
+            "eid": "sancarlosariz",
             "english": "san carlos, ariz.",
             "mescalero": {"literal_translations": [], "words": ["sangáadayaá"]},
         },
         "sand": {
-            "CID": "C011",
-            "EID": "sand",
+            "cid": "C011",
+            "eid": "sand",
             "english": "sand",
             "mescalero": {"literal_translations": [], "words": ["séí"]},
         },
         "sandwich": {
-            "CID": "C020",
-            "EID": "sandwich",
+            "cid": "C020",
+            "eid": "sandwich",
             "english": "sandwich",
             "mescalero": {"literal_translations": [], "words": ["bán bigiiyá 'ii'į́'į́"]},
         },
         "santafe": {
-            "CID": "C019",
-            "EID": "santafe",
+            "cid": "C019",
+            "eid": "santafe",
             "english": "santa fe",
             "mescalero": {"literal_translations": ["dead water"], "words": ["yuutuu"]},
         },
         "sapoftree": {
-            "CID": "C029",
-            "EID": "sapoftree",
+            "cid": "C029",
+            "eid": "sapoftree",
             "english": "sap of tree",
             "mescalero": {"literal_translations": [], "words": ["tsį bituu'í"]},
         },
         "saturday": {
-            "CID": "C009",
-            "EID": "saturday",
+            "cid": "C009",
+            "eid": "saturday",
             "english": "saturday",
             "mescalero": {
                 "literal_translations": ["ration day"],
@@ -7550,20 +7568,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sawdust": {
-            "CID": "C020",
-            "EID": "sawdust",
+            "cid": "C020",
+            "eid": "sawdust",
             "english": "sawdust",
             "mescalero": {"literal_translations": [], "words": ["tsį bisíí"]},
         },
         "say": {
-            "CID": "C020",
-            "EID": "say",
+            "cid": "C020",
+            "eid": "say",
             "english": "say",
             "mescalero": {"literal_translations": ["one said it"], "words": ["'ándi"]},
         },
         "scale": {
-            "CID": "C015",
-            "EID": "scale",
+            "cid": "C015",
+            "eid": "scale",
             "english": "scale",
             "mescalero": {
                 "literal_translations": ["that with which one hangs"],
@@ -7571,23 +7589,23 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "scalp": {
-            "CID": "C001",
-            "EID": "scalp",
+            "cid": "C001",
+            "eid": "scalp",
             "english": "scalp",
             "mescalero": {"literal_translations": [], "words": ["-tsiizis"]},
         },
         "scarf": {
-            "CID": "C001",
-            "EID": "scarf",
+            "cid": "C001",
+            "eid": "scarf",
             "english": "scarf",
             "mescalero": {
-                "literal_translations": ["Spanish"],
+                "literal_translations": ["(via Spanish)"],
                 "words": ["tsį k'édeesdfsí bąąyu"],
             },
         },
         "schoolbus": {
-            "CID": "C021",
-            "EID": "schoolbus",
+            "cid": "C021",
+            "eid": "schoolbus",
             "english": "school bus",
             "mescalero": {
                 "literal_translations": ["wagon for people who read or count"],
@@ -7595,8 +7613,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "scissorsshears": {
-            "CID": "C028",
-            "EID": "scissorsshears",
+            "cid": "C028",
+            "eid": "scissorsshears",
             "english": "scissors shears",
             "mescalero": {
                 "literal_translations": ["two things hitting against each other"],
@@ -7604,8 +7622,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "scissorsshearsalternate": {
-            "CID": "C028",
-            "EID": "scissorsshearsalternate",
+            "cid": "C028",
+            "eid": "scissorsshearsalternate",
             "english": "scissors shears alternate",
             "mescalero": {
                 "literal_translations": ["two things rubbing against each other"],
@@ -7613,20 +7631,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "scoop": {
-            "CID": "C020",
-            "EID": "scoop",
+            "cid": "C020",
+            "eid": "scoop",
             "english": "scoop",
             "mescalero": {"literal_translations": [], "words": ["beehaajikaa'į́"]},
         },
         "scratchstickonapachemaidensuit": {
-            "CID": "C003",
-            "EID": "scratchstickonapachemaidensuit",
+            "cid": "C003",
+            "eid": "scratchstickonapachemaidensuit",
             "english": "scratch stick (on apache maiden suit)",
             "mescalero": {"literal_translations": [], "words": ["tsį bee'ich'i'í"]},
         },
         "screwdriver": {
-            "CID": "C028",
-            "EID": "screwdriver",
+            "cid": "C028",
+            "eid": "screwdriver",
             "english": "screwdriver",
             "mescalero": {
                 "literal_translations": ["that with which one screws"],
@@ -7634,8 +7652,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "screwdriveralternate": {
-            "CID": "C028",
-            "EID": "screwdriveralternate",
+            "cid": "C028",
+            "eid": "screwdriveralternate",
             "english": "screwdriver alternate",
             "mescalero": {
                 "literal_translations": ["the thing with which to screw"],
@@ -7643,8 +7661,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "seat": {
-            "CID": "C015",
-            "EID": "seat",
+            "cid": "C015",
+            "eid": "seat",
             "english": "seat",
             "mescalero": {
                 "literal_translations": ["that which one sits on"],
@@ -7652,8 +7670,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "secondaryrootfeelers": {
-            "CID": "C025",
-            "EID": "secondaryrootfeelers",
+            "cid": "C025",
+            "eid": "secondaryrootfeelers",
             "english": "secondary root (feelers)",
             "mescalero": {
                 "literal_translations": ["plant's narrow roots"],
@@ -7661,8 +7679,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "secondarystem": {
-            "CID": "C025",
-            "EID": "secondarystem",
+            "cid": "C025",
+            "eid": "secondarystem",
             "english": "secondary stem",
             "mescalero": {
                 "literal_translations": ["that which stick out from a plant"],
@@ -7670,14 +7688,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "seeds": {
-            "CID": "C025",
-            "EID": "seeds",
+            "cid": "C025",
+            "eid": "seeds",
             "english": "seeds",
             "mescalero": {"literal_translations": [], "words": ["binaayee'", "'iyee'"]},
         },
         "september": {
-            "CID": "C022",
-            "EID": "september",
+            "cid": "C022",
+            "eid": "september",
             "english": "september",
             "mescalero": {
                 "literal_translations": ["deer are taking off velvet"],
@@ -7685,8 +7703,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sewingbox": {
-            "CID": "C015",
-            "EID": "sewingbox",
+            "cid": "C015",
+            "eid": "sewingbox",
             "english": "sewing box",
             "mescalero": {
                 "literal_translations": ["the thing in which to carry needles"],
@@ -7694,8 +7712,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sewingmachine": {
-            "CID": "C015",
-            "EID": "sewingmachine",
+            "cid": "C015",
+            "eid": "sewingmachine",
             "english": "sewing machine",
             "mescalero": {
                 "literal_translations": ["metal that sews"],
@@ -7703,8 +7721,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "shadebrusharbor": {
-            "CID": "C003",
-            "EID": "shadebrusharbor",
+            "cid": "C003",
+            "eid": "shadebrusharbor",
             "english": "shade (brush arbor)",
             "mescalero": {
                 "literal_translations": [],
@@ -7712,8 +7730,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "shallow": {
-            "CID": "C027",
-            "EID": "shallow",
+            "cid": "C027",
+            "eid": "shallow",
             "english": "shallow",
             "mescalero": {
                 "literal_translations": ["it is shallow"],
@@ -7721,32 +7739,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "shampooyuccarootfoam": {
-            "CID": "C003",
-            "EID": "shampooyuccarootfoam",
+            "cid": "C003",
+            "eid": "shampooyuccarootfoam",
             "english": "shampoo (yucca root foam)",
             "mescalero": {"literal_translations": [], "words": ["'izhee'"]},
         },
         "sharpknife": {
-            "CID": "C027",
-            "EID": "sharpknife",
+            "cid": "C027",
+            "eid": "sharpknife",
             "english": "sharp (knife)",
             "mescalero": {"literal_translations": ["it is sharp"], "words": ["deenį́"]},
         },
         "shawl": {
-            "CID": "C003",
-            "EID": "shawl",
+            "cid": "C003",
+            "eid": "shawl",
             "english": "shawl",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["dáábale"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["dáábale"]},
         },
         "sheep": {
-            "CID": "C002",
-            "EID": "sheep",
+            "cid": "C002",
+            "eid": "sheep",
             "english": "sheep",
             "mescalero": {"literal_translations": [], "words": ["dibéhé"]},
         },
         "sheepdippingvat": {
-            "CID": "C028",
-            "EID": "sheepdippingvat",
+            "cid": "C028",
+            "eid": "sheepdippingvat",
             "english": "sheep dipping vat",
             "mescalero": {
                 "literal_translations": ["that with which to put sheep into water"],
@@ -7754,8 +7772,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sheepdippingvatalternate": {
-            "CID": "C028",
-            "EID": "sheepdippingvatalternate",
+            "cid": "C028",
+            "eid": "sheepdippingvatalternate",
             "english": "sheep dipping vat alternate",
             "mescalero": {
                 "literal_translations": ["that with which to put sheep into water"],
@@ -7763,38 +7781,38 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sheepherder": {
-            "CID": "C024",
-            "EID": "sheepherder",
+            "cid": "C024",
+            "eid": "sheepherder",
             "english": "sheepherder",
             "mescalero": {
-                "literal_translations": ["Spanish"],
+                "literal_translations": ["(via Spanish)"],
                 "words": ["dibhéé: nayinłchíí"],
             },
         },
         "sheepskin": {
-            "CID": "C003",
-            "EID": "sheepskin",
+            "cid": "C003",
+            "eid": "sheepskin",
             "english": "sheepskin",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["dibééteez bégutizí"],
             },
         },
         "shield": {
-            "CID": "C003",
-            "EID": "shield",
+            "cid": "C003",
+            "eid": "shield",
             "english": "shield",
             "mescalero": {"literal_translations": [], "words": ["naazgaí'"]},
         },
         "shinbone": {
-            "CID": "C001",
-            "EID": "shinbone",
+            "cid": "C001",
+            "eid": "shinbone",
             "english": "shin bone",
             "mescalero": {"literal_translations": [], "words": ["-jádets'įne"]},
         },
         "shiny": {
-            "CID": "C027",
-            "EID": "shiny",
+            "cid": "C027",
+            "eid": "shiny",
             "english": "shiny",
             "mescalero": {
                 "literal_translations": ["it is shiny or sparkly"],
@@ -7802,14 +7820,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "shoe": {
-            "CID": "C023",
-            "EID": "shoe",
+            "cid": "C023",
+            "eid": "shoe",
             "english": "shoe",
             "mescalero": {"literal_translations": [], "words": ["ke -kee"]},
         },
         "shoes": {
-            "CID": "C001",
-            "EID": "shoes",
+            "cid": "C001",
+            "eid": "shoes",
             "english": "shoes",
             "mescalero": {
                 "literal_translations": [],
@@ -7817,14 +7835,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "shore": {
-            "CID": "C011",
-            "EID": "shore",
+            "cid": "C011",
+            "eid": "shore",
             "english": "shore",
             "mescalero": {"literal_translations": [], "words": ["tábaąyá"]},
         },
         "short": {
-            "CID": "C027",
-            "EID": "short",
+            "cid": "C027",
+            "eid": "short",
             "english": "short",
             "mescalero": {
                 "literal_translations": ["it is short"],
@@ -7832,20 +7850,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "shortcanyon": {
-            "CID": "C011",
-            "EID": "shortcanyon",
+            "cid": "C011",
+            "eid": "shortcanyon",
             "english": "short canyon",
             "mescalero": {"literal_translations": [], "words": ["'igúú'a"]},
         },
         "shoulder": {
-            "CID": "C001",
-            "EID": "shoulder",
+            "cid": "C001",
+            "eid": "shoulder",
             "english": "shoulder",
             "mescalero": {"literal_translations": [], "words": ["-ghus", "-wus"]},
         },
         "shoulderblade": {
-            "CID": "C001",
-            "EID": "shoulderblade",
+            "cid": "C001",
+            "eid": "shoulderblade",
             "english": "shoulder blade",
             "mescalero": {
                 "literal_translations": ["arm bone"],
@@ -7853,8 +7871,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "shovel": {
-            "CID": "C028",
-            "EID": "shovel",
+            "cid": "C028",
+            "eid": "shovel",
             "english": "shovel",
             "mescalero": {
                 "literal_translations": ["that with which to scoop out dirt"],
@@ -7862,8 +7880,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "shrubs": {
-            "CID": "C025",
-            "EID": "shrubs",
+            "cid": "C025",
+            "eid": "shrubs",
             "english": "shrubs",
             "mescalero": {
                 "literal_translations": ["thick plants"],
@@ -7871,8 +7889,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sidecanyonofpenascoriver": {
-            "CID": "C019",
-            "EID": "sidecanyonofpenascoriver",
+            "cid": "C019",
+            "eid": "sidecanyonofpenascoriver",
             "english": "side canyon of penasco river",
             "mescalero": {
                 "literal_translations": ["where there is a grove of cottonwoods"],
@@ -7880,8 +7898,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "silver": {
-            "CID": "C008",
-            "EID": "silver",
+            "cid": "C008",
+            "eid": "silver",
             "english": "silver",
             "mescalero": {
                 "literal_translations": ["white metal (Chiricahua) (Spanish)"],
@@ -7889,26 +7907,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sinew": {
-            "CID": "C003",
-            "EID": "sinew",
+            "cid": "C003",
+            "eid": "sinew",
             "english": "sinew",
             "mescalero": {"literal_translations": ["one piece"], "words": ["'its'ide"]},
         },
         "sinewthread": {
-            "CID": "C003",
-            "EID": "sinewthread",
+            "cid": "C003",
+            "eid": "sinewthread",
             "english": "sinew thread",
             "mescalero": {"literal_translations": ["a strand"], "words": ["ts'aaz"]},
         },
         "skeleton": {
-            "CID": "C006",
-            "EID": "skeleton",
+            "cid": "C006",
+            "eid": "skeleton",
             "english": "skeleton",
             "mescalero": {"literal_translations": [], "words": ["'its'ine", "-ts'ine"]},
         },
         "skinny": {
-            "CID": "C027",
-            "EID": "skinny",
+            "cid": "C027",
+            "eid": "skinny",
             "english": "skinny",
             "mescalero": {
                 "literal_translations": ["he is skinny"],
@@ -7916,8 +7934,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "skirt": {
-            "CID": "C003",
-            "EID": "skirt",
+            "cid": "C003",
+            "eid": "skirt",
             "english": "skirt",
             "mescalero": {
                 "literal_translations": ["skirt"],
@@ -7925,8 +7943,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "skirtapache": {
-            "CID": "C003",
-            "EID": "skirtapache",
+            "cid": "C003",
+            "eid": "skirtapache",
             "english": "skirt",
             "mescalero": {
                 "literal_translations": ["buttocks covering"],
@@ -7934,8 +7952,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "skull": {
-            "CID": "C001",
-            "EID": "skull",
+            "cid": "C001",
+            "eid": "skull",
             "english": "skull",
             "mescalero": {
                 "literal_translations": ["head bone"],
@@ -7943,8 +7961,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "skulltissue": {
-            "CID": "C001",
-            "EID": "skulltissue",
+            "cid": "C001",
+            "eid": "skulltissue",
             "english": "skull tissue",
             "mescalero": {
                 "literal_translations": ["face covering"],
@@ -7952,8 +7970,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "skunk": {
-            "CID": "C002",
-            "EID": "skunk",
+            "cid": "C002",
+            "eid": "skunk",
             "english": "skunk",
             "mescalero": {
                 "literal_translations": ["the one that urinates on one"],
@@ -7961,14 +7979,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "skyheaven": {
-            "CID": "C011",
-            "EID": "skyheaven",
+            "cid": "C011",
+            "eid": "skyheaven",
             "english": "sky heaven",
             "mescalero": {"literal_translations": [], "words": ["yáat'a"]},
         },
         "sleek": {
-            "CID": "C027",
-            "EID": "sleek",
+            "cid": "C027",
+            "eid": "sleek",
             "english": "sleek",
             "mescalero": {
                 "literal_translations": ["it is slippery (ground or floor)"],
@@ -7976,8 +7994,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "slicker": {
-            "CID": "C023",
-            "EID": "slicker",
+            "cid": "C023",
+            "eid": "slicker",
             "english": "slicker",
             "mescalero": {
                 "literal_translations": ["yellow clothing"],
@@ -7985,8 +8003,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "slimy": {
-            "CID": "C027",
-            "EID": "slimy",
+            "cid": "C027",
+            "eid": "slimy",
             "english": "slimy",
             "mescalero": {
                 "literal_translations": ["it is slimy"],
@@ -7994,8 +8012,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "slingshot": {
-            "CID": "C003",
-            "EID": "slingshot",
+            "cid": "C003",
+            "eid": "slingshot",
             "english": "sling shot",
             "mescalero": {
                 "literal_translations": ["the thing that throws rocks"],
@@ -8003,8 +8021,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "slippery": {
-            "CID": "C027",
-            "EID": "slippery",
+            "cid": "C027",
+            "eid": "slippery",
             "english": "slippery",
             "mescalero": {
                 "literal_translations": ["it is slippery (ground or floor)"],
@@ -8012,8 +8030,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "small": {
-            "CID": "C027",
-            "EID": "small",
+            "cid": "C027",
+            "eid": "small",
             "english": "small",
             "mescalero": {
                 "literal_translations": ["it is small or little"],
@@ -8021,26 +8039,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "smallboy": {
-            "CID": "C018",
-            "EID": "smallboy",
+            "cid": "C018",
+            "eid": "smallboy",
             "english": "small boy",
             "mescalero": {"literal_translations": [], "words": ["'ishkiye'"]},
         },
         "smallgirl": {
-            "CID": "C018",
-            "EID": "smallgirl",
+            "cid": "C018",
+            "eid": "smallgirl",
             "english": "small girl",
             "mescalero": {"literal_translations": [], "words": ["'it'ede'"]},
         },
         "smallpine": {
-            "CID": "C029",
-            "EID": "smallpine",
+            "cid": "C029",
+            "eid": "smallpine",
             "english": "small pine",
             "mescalero": {"literal_translations": [], "words": ["ch'uuzhaa'"]},
         },
         "smallsage": {
-            "CID": "C025",
-            "EID": "smallsage",
+            "cid": "C025",
+            "eid": "smallsage",
             "english": "small sage",
             "mescalero": {
                 "literal_translations": ["kept in home to prevent lightning"],
@@ -8048,38 +8066,38 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "smalltwig": {
-            "CID": "C029",
-            "EID": "smalltwig",
+            "cid": "C029",
+            "eid": "smalltwig",
             "english": "small twig",
             "mescalero": {"literal_translations": [], "words": ["bitsine"]},
         },
         "smart": {
-            "CID": "C020",
-            "EID": "smart",
+            "cid": "C020",
+            "eid": "smart",
             "english": "smart",
             "mescalero": {"literal_translations": ["he is smart"], "words": ["'éqúsi"]},
         },
         "smoke": {
-            "CID": "C011",
-            "EID": "smoke",
+            "cid": "C011",
+            "eid": "smoke",
             "english": "smoke",
             "mescalero": {"literal_translations": [], "words": ["łi"]},
         },
         "smooth": {
-            "CID": "C027",
-            "EID": "smooth",
+            "cid": "C027",
+            "eid": "smooth",
             "english": "smooth",
             "mescalero": {"literal_translations": ["it is smooth"], "words": ["díkyí"]},
         },
         "snagdeadtree": {
-            "CID": "C029",
-            "EID": "snagdeadtree",
+            "cid": "C029",
+            "eid": "snagdeadtree",
             "english": "snag (dead tree)",
             "mescalero": {"literal_translations": [], "words": ["tsį náheesga'í"]},
         },
         "snail": {
-            "CID": "C016",
-            "EID": "snail",
+            "cid": "C016",
+            "eid": "snail",
             "english": "snail",
             "mescalero": {
                 "literal_translations": ["owl snot"],
@@ -8087,8 +8105,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "snake": {
-            "CID": "C013",
-            "EID": "snake",
+            "cid": "C013",
+            "eid": "snake",
             "english": "snake",
             "mescalero": {
                 "literal_translations": ["snake that slithers around"],
@@ -8096,8 +8114,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "snowbird": {
-            "CID": "C005",
-            "EID": "snowbird",
+            "cid": "C005",
+            "eid": "snowbird",
             "english": "snow bird",
             "mescalero": {
                 "literal_translations": ["shooter"],
@@ -8105,17 +8123,17 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "socks": {
-            "CID": "C023",
-            "EID": "socks",
+            "cid": "C023",
+            "eid": "socks",
             "english": "socks",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["keezis kéjish"],
             },
         },
         "socorro": {
-            "CID": "C019",
-            "EID": "socorro",
+            "cid": "C019",
+            "eid": "socorro",
             "english": "socorro",
             "mescalero": {
                 "literal_translations": ["apricot place"],
@@ -8123,8 +8141,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "soda": {
-            "CID": "C014",
-            "EID": "soda",
+            "cid": "C014",
+            "eid": "soda",
             "english": "soda",
             "mescalero": {
                 "literal_translations": ["sweet water"],
@@ -8132,8 +8150,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "soft": {
-            "CID": "C027",
-            "EID": "soft",
+            "cid": "C027",
+            "eid": "soft",
             "english": "soft",
             "mescalero": {
                 "literal_translations": ["it is soft"],
@@ -8141,26 +8159,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "soildirt": {
-            "CID": "C011",
-            "EID": "soildirt",
+            "cid": "C011",
+            "eid": "soildirt",
             "english": "soil dirt",
             "mescalero": {"literal_translations": [], "words": ["zeesh"]},
         },
         "sole": {
-            "CID": "C001",
-            "EID": "sole",
+            "cid": "C001",
+            "eid": "sole",
             "english": "sole",
             "mescalero": {"literal_translations": [], "words": ["-kétł'a"]},
         },
         "solemoccasin": {
-            "CID": "C003",
-            "EID": "solemoccasin",
+            "cid": "C003",
+            "eid": "solemoccasin",
             "english": "sole (moccasin)",
             "mescalero": {"literal_translations": [], "words": ["kétł'á sitání"]},
         },
         "solid": {
-            "CID": "C027",
-            "EID": "solid",
+            "cid": "C027",
+            "eid": "solid",
             "english": "solid",
             "mescalero": {
                 "literal_translations": ["it is whole"],
@@ -8168,38 +8186,38 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "some": {
-            "CID": "C020",
-            "EID": "some",
+            "cid": "C020",
+            "eid": "some",
             "english": "some",
             "mescalero": {"literal_translations": [], "words": ["įi'"]},
         },
         "sometimes": {
-            "CID": "C020",
-            "EID": "sometimes",
+            "cid": "C020",
+            "eid": "sometimes",
             "english": "sometimes",
             "mescalero": {"literal_translations": [], "words": ["łade'"]},
         },
         "son": {
-            "CID": "C017",
-            "EID": "son",
+            "cid": "C017",
+            "eid": "son",
             "english": "son",
             "mescalero": {"literal_translations": [], "words": ["-ye'"]},
         },
         "soul": {
-            "CID": "C020",
-            "EID": "soul",
+            "cid": "C020",
+            "eid": "soul",
             "english": "soul",
             "mescalero": {"literal_translations": [], "words": ["-ts'ísí"]},
         },
         "sound": {
-            "CID": "C020",
-            "EID": "sound",
+            "cid": "C020",
+            "eid": "sound",
             "english": "sound",
             "mescalero": {"literal_translations": [], "words": ["diits'a"]},
         },
         "soupy": {
-            "CID": "C027",
-            "EID": "soupy",
+            "cid": "C027",
+            "eid": "soupy",
             "english": "soupy",
             "mescalero": {
                 "literal_translations": ["it is watery"],
@@ -8207,8 +8225,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "south": {
-            "CID": "C010",
-            "EID": "south",
+            "cid": "C010",
+            "eid": "south",
             "english": "south",
             "mescalero": {
                 "literal_translations": ["from the south"],
@@ -8216,8 +8234,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "southofdemingfloridamts": {
-            "CID": "C019",
-            "EID": "southofdemingfloridamts",
+            "cid": "C019",
+            "eid": "southofdemingfloridamts",
             "english": "south of deming florida mts.",
             "mescalero": {
                 "literal_translations": ["sloping mountains"],
@@ -8225,8 +8243,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "southsouthward": {
-            "CID": "C010",
-            "EID": "southsouthward",
+            "cid": "C010",
+            "eid": "southsouthward",
             "english": "south (southward)",
             "mescalero": {
                 "literal_translations": ["southward"],
@@ -8234,8 +8252,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "south": {
-            "CID": "C010",
-            "EID": "south",
+            "cid": "C010",
+            "eid": "south",
             "english": "south",
             "mescalero": {
                 "literal_translations": ["toward the south"],
@@ -8243,26 +8261,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "spacebetweenteethlostorseparation": {
-            "CID": "C001",
-            "EID": "spacebetweenteethlostorseparation",
+            "cid": "C001",
+            "eid": "spacebetweenteethlostorseparation",
             "english": "space between teeth, lost or separation",
             "mescalero": {"literal_translations": [], "words": ["-ghuúgije"]},
         },
         "sparrow": {
-            "CID": "C005",
-            "EID": "sparrow",
+            "cid": "C005",
+            "eid": "sparrow",
             "english": "sparrow",
             "mescalero": {"literal_translations": ["hollers"], "words": ["diłghushe"]},
         },
         "spear": {
-            "CID": "C003",
-            "EID": "spear",
+            "cid": "C003",
+            "eid": "spear",
             "english": "spear",
             "mescalero": {"literal_translations": [], "words": ["'e'lade"]},
         },
         "spider": {
-            "CID": "C016",
-            "EID": "spider",
+            "cid": "C016",
+            "eid": "spider",
             "english": "spider",
             "mescalero": {
                 "literal_translations": [],
@@ -8270,20 +8288,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "spiderwebgrill": {
-            "CID": "C003",
-            "EID": "spiderwebgrill",
+            "cid": "C003",
+            "eid": "spiderwebgrill",
             "english": "spider web grill",
             "mescalero": {"literal_translations": [], "words": ["bésh histł'úní"]},
         },
         "spinalcolumn": {
-            "CID": "C001",
-            "EID": "spinalcolumn",
+            "cid": "C001",
+            "eid": "spinalcolumn",
             "english": "spinal column",
             "mescalero": {"literal_translations": [], "words": ["-tsį'"]},
         },
         "spinelikeleaves": {
-            "CID": "C025",
-            "EID": "spinelikeleaves",
+            "cid": "C025",
+            "eid": "spinelikeleaves",
             "english": "spinelike leaves",
             "mescalero": {
                 "literal_translations": [],
@@ -8291,8 +8309,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "spoon": {
-            "CID": "C015",
-            "EID": "spoon",
+            "cid": "C015",
+            "eid": "spoon",
             "english": "spoon",
             "mescalero": {
                 "literal_translations": ["that with which to eat"],
@@ -8300,26 +8318,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "spotted": {
-            "CID": "C008",
-            "EID": "spotted",
+            "cid": "C008",
+            "eid": "spotted",
             "english": "spotted",
             "mescalero": {"literal_translations": [], "words": ["zíkish"]},
         },
         "spousepartnercompanion": {
-            "CID": "C017",
-            "EID": "spousepartnercompanion",
+            "cid": "C017",
+            "eid": "spousepartnercompanion",
             "english": "spouse, partner, companion",
             "mescalero": {"literal_translations": [], "words": ["bizhashdį'aashń"]},
         },
         "spring": {
-            "CID": "C022",
-            "EID": "spring",
+            "cid": "C022",
+            "eid": "spring",
             "english": "spring",
             "mescalero": {"literal_translations": [], "words": ["dąą'"]},
         },
         "sprinkling": {
-            "CID": "C007",
-            "EID": "sprinkling",
+            "cid": "C007",
+            "eid": "sprinkling",
             "english": "sprinkling",
             "mescalero": {
                 "literal_translations": ["it is sprinkling"],
@@ -8327,8 +8345,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "square": {
-            "CID": "C027",
-            "EID": "square",
+            "cid": "C027",
+            "eid": "square",
             "english": "square",
             "mescalero": {
                 "literal_translations": ["it is square"],
@@ -8336,20 +8354,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "squash": {
-            "CID": "C014",
-            "EID": "squash",
+            "cid": "C014",
+            "eid": "squash",
             "english": "squash",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["galabáasa"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["galabáasa"]},
         },
         "squawdress": {
-            "CID": "C003",
-            "EID": "squawdress",
+            "cid": "C003",
+            "eid": "squawdress",
             "english": "squaw dress",
             "mescalero": {"literal_translations": [], "words": ["'ena'ich'ízií"]},
         },
         "staff": {
-            "CID": "C003",
-            "EID": "staff",
+            "cid": "C003",
+            "eid": "staff",
             "english": "staff",
             "mescalero": {
                 "literal_translations": ["staff"],
@@ -8357,8 +8375,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "stag": {
-            "CID": "C002",
-            "EID": "stag",
+            "cid": "C002",
+            "eid": "stag",
             "english": "stag",
             "mescalero": {
                 "literal_translations": ["the buck with two pronged horns"],
@@ -8366,14 +8384,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "starwart": {
-            "CID": "C011",
-            "EID": "starwart",
+            "cid": "C011",
+            "eid": "starwart",
             "english": "star wart",
             "mescalero": {"literal_translations": [], "words": ["suyus"]},
         },
         "steadydrizzle": {
-            "CID": "C011",
-            "EID": "steadydrizzle",
+            "cid": "C011",
+            "eid": "steadydrizzle",
             "english": "steady drizzle",
             "mescalero": {
                 "literal_translations": ["it is drizzling"],
@@ -8381,8 +8399,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "steel": {
-            "CID": "C020",
-            "EID": "steel",
+            "cid": "C020",
+            "eid": "steel",
             "english": "steel",
             "mescalero": {
                 "literal_translations": ["hard metal"],
@@ -8390,14 +8408,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "stem": {
-            "CID": "C029",
-            "EID": "stem",
+            "cid": "C029",
+            "eid": "stem",
             "english": "stem",
             "mescalero": {"literal_translations": [], "words": ["bitsine"]},
         },
         "stems": {
-            "CID": "C029",
-            "EID": "stems",
+            "cid": "C029",
+            "eid": "stems",
             "english": "stems",
             "mescalero": {
                 "literal_translations": ["sticking out from trees"],
@@ -8405,14 +8423,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "stepfatherstepson": {
-            "CID": "C017",
-            "EID": "stepfatherstepson",
+            "cid": "C017",
+            "eid": "stepfatherstepson",
             "english": "step father, step son",
             "mescalero": {"literal_translations": [], "words": ["-baje, -beje"]},
         },
         "stepladder": {
-            "CID": "C028",
-            "EID": "stepladder",
+            "cid": "C028",
+            "eid": "stepladder",
             "english": "stepladder",
             "mescalero": {
                 "literal_translations": ["the wood with which one climbs"],
@@ -8420,20 +8438,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "stew": {
-            "CID": "C004",
-            "EID": "stew",
+            "cid": "C004",
+            "eid": "stew",
             "english": "stew",
             "mescalero": {"literal_translations": [], "words": ["'isaa 'azjée'í"]},
         },
         "stick": {
-            "CID": "C029",
-            "EID": "stick",
+            "cid": "C029",
+            "eid": "stick",
             "english": "stick",
             "mescalero": {"literal_translations": [], "words": ["bitsine"]},
         },
         "stickery": {
-            "CID": "C027",
-            "EID": "stickery",
+            "cid": "C027",
+            "eid": "stickery",
             "english": "stickery",
             "mescalero": {
                 "literal_translations": ["it is thorny, prickly"],
@@ -8441,14 +8459,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sticky": {
-            "CID": "C027",
-            "EID": "sticky",
+            "cid": "C027",
+            "eid": "sticky",
             "english": "sticky",
             "mescalero": {"literal_translations": ["it is sticky"], "words": ["nt'į́"]},
         },
         "stiff": {
-            "CID": "C027",
-            "EID": "stiff",
+            "cid": "C027",
+            "eid": "stiff",
             "english": "stiff",
             "mescalero": {
                 "literal_translations": ["it is stiff"],
@@ -8456,8 +8474,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "stinkbug": {
-            "CID": "C016",
-            "EID": "stinkbug",
+            "cid": "C016",
+            "eid": "stinkbug",
             "english": "stink bug",
             "mescalero": {
                 "literal_translations": ["bug with stinky urine"],
@@ -8465,8 +8483,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "stirrups": {
-            "CID": "C028",
-            "EID": "stirrups",
+            "cid": "C028",
+            "eid": "stirrups",
             "english": "stirrups",
             "mescalero": {
                 "literal_translations": ["saddle heel"],
@@ -8474,23 +8492,23 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "stockings": {
-            "CID": "C023",
-            "EID": "stockings",
+            "cid": "C023",
+            "eid": "stockings",
             "english": "stockings",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["keezis kéjish"],
             },
         },
         "stomach": {
-            "CID": "C001",
-            "EID": "stomach",
+            "cid": "C001",
+            "eid": "stomach",
             "english": "stomach",
             "mescalero": {"literal_translations": [], "words": ["-bide"]},
         },
         "stool": {
-            "CID": "C015",
-            "EID": "stool",
+            "cid": "C015",
+            "eid": "stool",
             "english": "stool",
             "mescalero": {
                 "literal_translations": ["round seat"],
@@ -8498,14 +8516,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "storekeeper": {
-            "CID": "C024",
-            "EID": "storekeeper",
+            "cid": "C024",
+            "eid": "storekeeper",
             "english": "storekeeper",
             "mescalero": {"literal_translations": [], "words": ["áéńa'a'e'ąsíááí"]},
         },
         "stove": {
-            "CID": "C015",
-            "EID": "stove",
+            "cid": "C015",
+            "eid": "stove",
             "english": "stove",
             "mescalero": {
                 "literal_translations": ["metal with fire inside"],
@@ -8513,8 +8531,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "straight": {
-            "CID": "C027",
-            "EID": "straight",
+            "cid": "C027",
+            "eid": "straight",
             "english": "straight",
             "mescalero": {
                 "literal_translations": ["it is straight"],
@@ -8522,44 +8540,44 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "strapforparfleche": {
-            "CID": "C003",
-            "EID": "strapforparfleche",
+            "cid": "C003",
+            "eid": "strapforparfleche",
             "english": "strap for par-fleche",
             "mescalero": {"literal_translations": [], "words": ["xeł bitł'ule"]},
         },
         "strawberries": {
-            "CID": "C014",
-            "EID": "strawberries",
+            "cid": "C014",
+            "eid": "strawberries",
             "english": "strawberries",
             "mescalero": {"literal_translations": [], "words": ["dakaale"]},
         },
         "strawberryhedgehogcactus": {
-            "CID": "C025",
-            "EID": "strawberryhedgehogcactus",
+            "cid": "C025",
+            "eid": "strawberryhedgehogcactus",
             "english": "strawberry hedge hog cactus",
             "mescalero": {"literal_translations": [], "words": ["xushbei'"]},
         },
         "stripedhorizontal": {
-            "CID": "C008",
-            "EID": "stripedhorizontal",
+            "cid": "C008",
+            "eid": "stripedhorizontal",
             "english": "striped (horizontal)",
             "mescalero": {"literal_translations": [], "words": ["neets'a"]},
         },
         "stripedvertical": {
-            "CID": "C008",
-            "EID": "stripedvertical",
+            "cid": "C008",
+            "eid": "stripedvertical",
             "english": "striped (vertical)",
             "mescalero": {"literal_translations": [], "words": ["handa'gu neets'a"]},
         },
         "strong": {
-            "CID": "C027",
-            "EID": "strong",
+            "cid": "C027",
+            "eid": "strong",
             "english": "strong",
             "mescalero": {"literal_translations": ["it is strong"], "words": ["nzízi"]},
         },
         "stubby": {
-            "CID": "C027",
-            "EID": "stubby",
+            "cid": "C027",
+            "eid": "stubby",
             "english": "stubby",
             "mescalero": {
                 "literal_translations": ["it is short"],
@@ -8567,20 +8585,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sugar": {
-            "CID": "C014",
-            "EID": "sugar",
+            "cid": "C014",
+            "eid": "sugar",
             "english": "sugar",
             "mescalero": {"literal_translations": [], "words": ["gułkąade"]},
         },
         "sugarcane": {
-            "CID": "C014",
-            "EID": "sugarcane",
+            "cid": "C014",
+            "eid": "sugarcane",
             "english": "sugar cane",
             "mescalero": {"literal_translations": [], "words": ["gułkąade bitsį"]},
         },
         "sumacberries": {
-            "CID": "C004",
-            "EID": "sumacberries",
+            "cid": "C004",
+            "eid": "sumacberries",
             "english": "sumac berries",
             "mescalero": {
                 "literal_translations": [],
@@ -8588,26 +8606,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "summer": {
-            "CID": "C022",
-            "EID": "summer",
+            "cid": "C022",
+            "eid": "summer",
             "english": "summer",
             "mescalero": {"literal_translations": [], "words": ["shį́"]},
         },
         "sun": {
-            "CID": "C011",
-            "EID": "sun",
+            "cid": "C011",
+            "eid": "sun",
             "english": "sun",
             "mescalero": {"literal_translations": [], "words": ["sháa"]},
         },
         "sunalt": {
-            "CID": "C011",
-            "EID": "sunalt",
+            "cid": "C011",
+            "eid": "sunalt",
             "english": "sun alt",
             "mescalero": {"literal_translations": [], "words": ["juuna'áí"]},
         },
         "sunday": {
-            "CID": "C001",
-            "EID": "sunday",
+            "cid": "C001",
+            "eid": "sunday",
             "english": "sunday",
             "mescalero": {
                 "literal_translations": ["the day when one does not work"],
@@ -8615,38 +8633,38 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sunflower": {
-            "CID": "C025",
-            "EID": "sunflower",
+            "cid": "C025",
+            "eid": "sunflower",
             "english": "sunflower",
             "mescalero": {"literal_translations": [], "words": ["ńáńdíla"]},
         },
         "sunflowerseeds": {
-            "CID": "C025",
-            "EID": "sunflowerseeds",
+            "cid": "C025",
+            "eid": "sunflowerseeds",
             "english": "sunflower seeds",
             "mescalero": {"literal_translations": [], "words": ["ńáńdíle binaayee'"]},
         },
         "sunrise": {
-            "CID": "C009",
-            "EID": "sunrise",
+            "cid": "C009",
+            "eid": "sunrise",
             "english": "sunrise",
             "mescalero": {"literal_translations": [], "words": ["ha'úú'ą"]},
         },
         "sunsetsundown": {
-            "CID": "C009",
-            "EID": "sunsetsundown",
+            "cid": "C009",
+            "eid": "sunsetsundown",
             "english": "sunset sundown",
             "mescalero": {"literal_translations": [], "words": ["shą'úú'ą"]},
         },
         "sunshinesunlight": {
-            "CID": "C007",
-            "EID": "sunshinesunlight",
+            "cid": "C007",
+            "eid": "sunshinesunlight",
             "english": "sunshine sunlight",
             "mescalero": {"literal_translations": [], "words": ["shą́"]},
         },
         "superintendentbia": {
-            "CID": "C024",
-            "EID": "superintendentbia",
+            "cid": "C024",
+            "eid": "superintendentbia",
             "english": "superintendent bia",
             "mescalero": {
                 "literal_translations": ["whiteman father"],
@@ -8654,26 +8672,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "superstition": {
-            "CID": "C020",
-            "EID": "superstition",
+            "cid": "C020",
+            "eid": "superstition",
             "english": "superstition",
             "mescalero": {"literal_translations": [], "words": ["dáyáada baa'ńjúli"]},
         },
         "sure": {
-            "CID": "C012",
-            "EID": "sure",
+            "cid": "C012",
+            "eid": "sure",
             "english": "sure",
             "mescalero": {"literal_translations": [], "words": ["dí'ą', hádu'"]},
         },
         "swallow": {
-            "CID": "C005",
-            "EID": "swallow",
+            "cid": "C005",
+            "eid": "swallow",
             "english": "swallow",
             "mescalero": {"literal_translations": ["rock wood"], "words": ["tséchísh"]},
         },
         "swampy": {
-            "CID": "C007",
-            "EID": "swampy",
+            "cid": "C007",
+            "eid": "swampy",
             "english": "swampy",
             "mescalero": {
                 "literal_translations": ["it is swampy"],
@@ -8681,20 +8699,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sweatbath": {
-            "CID": "C003",
-            "EID": "sweatbath",
+            "cid": "C003",
+            "eid": "sweatbath",
             "english": "sweat bath",
             "mescalero": {"literal_translations": [], "words": ["tséłtánájika"]},
         },
         "sweatbatharbor": {
-            "CID": "C003",
-            "EID": "sweatbatharbor",
+            "cid": "C003",
+            "eid": "sweatbatharbor",
             "english": "sweat bath arbor",
             "mescalero": {"literal_translations": [], "words": ["dat'uye"]},
         },
         "sweater": {
-            "CID": "C023",
-            "EID": "sweater",
+            "cid": "C023",
+            "eid": "sweater",
             "english": "sweater",
             "mescalero": {
                 "literal_translations": ["clothing that stretches"],
@@ -8702,8 +8720,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "sweetpotatoes": {
-            "CID": "C014",
-            "EID": "sweetpotatoes",
+            "cid": "C014",
+            "eid": "sweetpotatoes",
             "english": "sweet potatoes",
             "mescalero": {
                 "literal_translations": ["it is laying sideways"],
@@ -8711,8 +8729,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "swollen": {
-            "CID": "C027",
-            "EID": "swollen",
+            "cid": "C027",
+            "eid": "swollen",
             "english": "swollen",
             "mescalero": {
                 "literal_translations": ["it is swollen"],
@@ -8720,8 +8738,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "syrup": {
-            "CID": "C014",
-            "EID": "syrup",
+            "cid": "C014",
+            "eid": "syrup",
             "english": "syrup",
             "mescalero": {
                 "literal_translations": ["syrupy water"],
@@ -8729,14 +8747,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "syrupy": {
-            "CID": "C027",
-            "EID": "syrupy",
+            "cid": "C027",
+            "eid": "syrupy",
             "english": "syrupy",
             "mescalero": {"literal_translations": ["it is syrupy"], "words": ["dit'į́"]},
         },
         "table": {
-            "CID": "C015",
-            "EID": "table",
+            "cid": "C015",
+            "eid": "table",
             "english": "table",
             "mescalero": {
                 "literal_translations": ["that on top of which people eat"],
@@ -8744,14 +8762,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tailbone": {
-            "CID": "C001",
-            "EID": "tailbone",
+            "cid": "C001",
+            "eid": "tailbone",
             "english": "tail-bone",
             "mescalero": {"literal_translations": [], "words": ["-tseets'ine"]},
         },
         "tallow": {
-            "CID": "C014",
-            "EID": "tallow",
+            "cid": "C014",
+            "eid": "tallow",
             "english": "tallow",
             "mescalero": {
                 "literal_translations": ["a lot of fat"],
@@ -8759,35 +8777,35 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tan": {
-            "CID": "C008",
-            "EID": "tan",
+            "cid": "C008",
+            "eid": "tan",
             "english": "tan",
             "mescalero": {"literal_translations": [], "words": ["zíbaaye"]},
         },
         "tannedbuckskin": {
-            "CID": "C003",
-            "EID": "tannedbuckskin",
+            "cid": "C003",
+            "eid": "tannedbuckskin",
             "english": "tanned buckskin",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["'ibane", "'iban"],
             },
         },
         "tarantula": {
-            "CID": "C016",
-            "EID": "tarantula",
+            "cid": "C016",
+            "eid": "tarantula",
             "english": "tarantula",
             "mescalero": {"literal_translations": [], "words": ["hanshjéétsu"]},
         },
         "tarpscanvas": {
-            "CID": "C003",
-            "EID": "tarpscanvas",
+            "cid": "C003",
+            "eid": "tarpscanvas",
             "english": "tarps (canvas)",
             "mescalero": {"literal_translations": [], "words": ["'ighaaditání"]},
         },
         "teacher": {
-            "CID": "C024",
-            "EID": "teacher",
+            "cid": "C024",
+            "eid": "teacher",
             "english": "teacher",
             "mescalero": {
                 "literal_translations": [
@@ -8797,32 +8815,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "teamreins": {
-            "CID": "C020",
-            "EID": "teamreins",
+            "cid": "C020",
+            "eid": "teamreins",
             "english": "team reins",
             "mescalero": {"literal_translations": [], "words": ["zaahú'íí bitł'ule"]},
         },
         "tears": {
-            "CID": "C001",
-            "EID": "tears",
+            "cid": "C001",
+            "eid": "tears",
             "english": "tears",
             "mescalero": {"literal_translations": [], "words": ["-náatu"]},
         },
         "teenageboy": {
-            "CID": "C018",
-            "EID": "teenageboy",
+            "cid": "C018",
+            "eid": "teenageboy",
             "english": "teenage boy",
             "mescalero": {"literal_translations": [], "words": ["'it'ladn"]},
         },
         "teenagegirl": {
-            "CID": "C018",
-            "EID": "teenagegirl",
+            "cid": "C018",
+            "eid": "teenagegirl",
             "english": "teenage girl",
             "mescalero": {"literal_translations": [], "words": ["ch'eeké"]},
         },
         "teepee": {
-            "CID": "C003",
-            "EID": "teepee",
+            "cid": "C003",
+            "eid": "teepee",
             "english": "teepee",
             "mescalero": {
                 "literal_translations": ["white tent"],
@@ -8830,26 +8848,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "teepeepoles": {
-            "CID": "C003",
-            "EID": "teepeepoles",
+            "cid": "C003",
+            "eid": "teepeepoles",
             "english": "teepee poles",
             "mescalero": {"literal_translations": [], "words": ["sade"]},
         },
         "teeth": {
-            "CID": "C001",
-            "EID": "teeth",
+            "cid": "C001",
+            "eid": "teeth",
             "english": "teeth",
             "mescalero": {"literal_translations": [], "words": ["-ghuu'"]},
         },
         "teethgums": {
-            "CID": "C001",
-            "EID": "teethgums",
+            "cid": "C001",
+            "eid": "teethgums",
             "english": "teeth gums",
             "mescalero": {"literal_translations": [], "words": ["-ghuútsį"]},
         },
         "telephone": {
-            "CID": "C015",
-            "EID": "telephone",
+            "cid": "C015",
+            "eid": "telephone",
             "english": "telephone",
             "mescalero": {
                 "literal_translations": ["metal one talks in"],
@@ -8857,8 +8875,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "temple": {
-            "CID": "C001",
-            "EID": "temple",
+            "cid": "C001",
+            "eid": "temple",
             "english": "temple",
             "mescalero": {
                 "literal_translations": [],
@@ -8866,8 +8884,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tender": {
-            "CID": "C027",
-            "EID": "tender",
+            "cid": "C027",
+            "eid": "tender",
             "english": "tender",
             "mescalero": {
                 "literal_translations": ["it is tender"],
@@ -8875,26 +8893,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tenderloin": {
-            "CID": "C014",
-            "EID": "tenderloin",
+            "cid": "C014",
+            "eid": "tenderloin",
             "english": "tenderloin",
             "mescalero": {"literal_translations": [], "words": ["'ináhént'íí"]},
         },
         "tent": {
-            "CID": "C003",
-            "EID": "tent",
+            "cid": "C003",
+            "eid": "tent",
             "english": "tent",
             "mescalero": {"literal_translations": [], "words": ["kugugha dishk'ání"]},
         },
         "tentstake": {
-            "CID": "C003",
-            "EID": "tentstake",
+            "cid": "C003",
+            "eid": "tentstake",
             "english": "tent stake",
             "mescalero": {"literal_translations": [], "words": ["gushchile"]},
         },
         "tepidwarm": {
-            "CID": "C011",
-            "EID": "tepidwarm",
+            "cid": "C011",
+            "eid": "tepidwarm",
             "english": "tepid warm",
             "mescalero": {
                 "literal_translations": ["it is warm"],
@@ -8902,8 +8920,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "termite": {
-            "CID": "C016",
-            "EID": "termite",
+            "cid": "C016",
+            "eid": "termite",
             "english": "termite",
             "mescalero": {
                 "literal_translations": ["the ant that travels in wood"],
@@ -8911,14 +8929,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "testicles": {
-            "CID": "C001",
-            "EID": "testicles",
+            "cid": "C001",
+            "eid": "testicles",
             "english": "testicles",
             "mescalero": {"literal_translations": [], "words": ["-chugheeje"]},
         },
         "texascountry": {
-            "CID": "C019",
-            "EID": "texascountry",
+            "cid": "C019",
+            "eid": "texascountry",
             "english": "texas country",
             "mescalero": {
                 "literal_translations": ["home of the wide brimmed hat people"],
@@ -8926,32 +8944,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "thankyou": {
-            "CID": "C020",
-            "EID": "thankyou",
+            "cid": "C020",
+            "eid": "thankyou",
             "english": "thank you",
             "mescalero": {"literal_translations": [], "words": ["'ixéhe, 'ixée"]},
         },
         "thatnastyperson": {
-            "CID": "C012",
-            "EID": "thatnastyperson",
+            "cid": "C012",
+            "eid": "thatnastyperson",
             "english": "that nasty person",
             "mescalero": {"literal_translations": [], "words": ["gé'likúgu"]},
         },
         "thatsthereason": {
-            "CID": "C020",
-            "EID": "thatsthereason",
+            "cid": "C020",
+            "eid": "thatsthereason",
             "english": "that's the reason",
             "mescalero": {"literal_translations": [], "words": ["'ífhibíka, 'fíbíka"]},
         },
         "thatuglyperson": {
-            "CID": "C012",
-            "EID": "thatuglyperson",
+            "cid": "C012",
+            "eid": "thatuglyperson",
             "english": "that ugly person",
             "mescalero": {"literal_translations": [], "words": ["géntį́yų́'"]},
         },
         "thick": {
-            "CID": "C027",
-            "EID": "thick",
+            "cid": "C027",
+            "eid": "thick",
             "english": "thick",
             "mescalero": {
                 "literal_translations": ["it is thick", "it is thick"],
@@ -8959,20 +8977,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "thicketforest": {
-            "CID": "C011",
-            "EID": "thicketforest",
+            "cid": "C011",
+            "eid": "thicketforest",
             "english": "thicket forest",
             "mescalero": {"literal_translations": [], "words": ["ńích'iz"]},
         },
         "thicketforestalt": {
-            "CID": "C011",
-            "EID": "thicketforestalt",
+            "cid": "C011",
+            "eid": "thicketforestalt",
             "english": "thicket forest alt",
             "mescalero": {"literal_translations": [], "words": ["ádáguńích'iz"]},
         },
         "thicketforestheavilyforested": {
-            "CID": "C011",
-            "EID": "thicketforestheavilyforested",
+            "cid": "C011",
+            "eid": "thicketforestheavilyforested",
             "english": "thicket forest heavily forested",
             "mescalero": {
                 "literal_translations": ["heavily forested"],
@@ -8980,14 +8998,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "thigh": {
-            "CID": "C001",
-            "EID": "thigh",
+            "cid": "C001",
+            "eid": "thigh",
             "english": "thigh",
             "mescalero": {"literal_translations": [], "words": ["-jádentsaazi"]},
         },
         "thin": {
-            "CID": "C027",
-            "EID": "thin",
+            "cid": "C027",
+            "eid": "thin",
             "english": "thin",
             "mescalero": {
                 "literal_translations": ["it is thin"],
@@ -8995,8 +9013,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "thistimelastyear": {
-            "CID": "C022",
-            "EID": "thistimelastyear",
+            "cid": "C022",
+            "eid": "thistimelastyear",
             "english": "this time last year",
             "mescalero": {
                 "literal_translations": ["when it was like this"],
@@ -9004,8 +9022,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "thistle": {
-            "CID": "C025",
-            "EID": "thistle",
+            "cid": "C025",
+            "eid": "thistle",
             "english": "thistle",
             "mescalero": {
                 "literal_translations": ["stickery plant"],
@@ -9013,14 +9031,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "thornneedleneedle": {
-            "CID": "C003",
-            "EID": "thornneedleneedle",
+            "cid": "C003",
+            "eid": "thornneedleneedle",
             "english": "thorn needle",
             "mescalero": {"literal_translations": [], "words": ["tsa"]},
         },
         "thorny": {
-            "CID": "C027",
-            "EID": "thorny",
+            "cid": "C027",
+            "eid": "thorny",
             "english": "thorny",
             "mescalero": {
                 "literal_translations": ["it is thorny, prickly"],
@@ -9028,8 +9046,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "thresher": {
-            "CID": "C028",
-            "EID": "thresher",
+            "cid": "C028",
+            "eid": "thresher",
             "english": "thresher",
             "mescalero": {
                 "literal_translations": ["that with which things are stomped out"],
@@ -9037,20 +9055,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "throat": {
-            "CID": "C001",
-            "EID": "throat",
+            "cid": "C001",
+            "eid": "throat",
             "english": "throat",
             "mescalero": {"literal_translations": [], "words": ["-dá'ye'"]},
         },
         "thumb": {
-            "CID": "C001",
-            "EID": "thumb",
+            "cid": "C001",
+            "eid": "thumb",
             "english": "thumb",
             "mescalero": {"literal_translations": ["big finger"], "words": ["-laatsu"]},
         },
         "thunder": {
-            "CID": "C007",
-            "EID": "thunder",
+            "cid": "C007",
+            "eid": "thunder",
             "english": "thunder",
             "mescalero": {
                 "literal_translations": ["it is thundering"],
@@ -9058,8 +9076,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "thursday": {
-            "CID": "C009",
-            "EID": "thursday",
+            "cid": "C009",
+            "eid": "thursday",
             "english": "thursday",
             "mescalero": {
                 "literal_translations": ["four days after Sunday"],
@@ -9067,14 +9085,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "ticks": {
-            "CID": "C016",
-            "EID": "ticks",
+            "cid": "C016",
+            "eid": "ticks",
             "english": "ticks",
             "mescalero": {"literal_translations": [], "words": ["yaa'"]},
         },
         "tiger": {
-            "CID": "C002",
-            "EID": "tiger",
+            "cid": "C002",
+            "eid": "tiger",
             "english": "tiger",
             "mescalero": {
                 "literal_translations": ["striped mountain lion"],
@@ -9082,8 +9100,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tiny": {
-            "CID": "C027",
-            "EID": "tiny",
+            "cid": "C027",
+            "eid": "tiny",
             "english": "tiny",
             "mescalero": {
                 "literal_translations": ["it is small or little"],
@@ -9091,14 +9109,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tiswin": {
-            "CID": "C004",
-            "EID": "tiswin",
+            "cid": "C004",
+            "eid": "tiswin",
             "english": "tiswin",
             "mescalero": {"literal_translations": ["gray water"], "words": ["tułbááí"]},
         },
         "toast": {
-            "CID": "C020",
-            "EID": "toast",
+            "cid": "C020",
+            "eid": "toast",
             "english": "toast",
             "mescalero": {
                 "literal_translations": ["bread scorched on top"],
@@ -9106,8 +9124,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "toaster": {
-            "CID": "C015",
-            "EID": "toaster",
+            "cid": "C015",
+            "eid": "toaster",
             "english": "toaster",
             "mescalero": {
                 "literal_translations": ["that which scorches bread"],
@@ -9115,26 +9133,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tobaccopouch": {
-            "CID": "C003",
-            "EID": "tobaccopouch",
+            "cid": "C003",
+            "eid": "tobaccopouch",
             "english": "tobacco pouch",
             "mescalero": {"literal_translations": [], "words": ["nát'uzis"]},
         },
         "today": {
-            "CID": "C020",
-            "EID": "today",
+            "cid": "C020",
+            "eid": "today",
             "english": "today",
             "mescalero": {"literal_translations": [], "words": ["diijį́"]},
         },
         "toenails": {
-            "CID": "C001",
-            "EID": "toenails",
+            "cid": "C001",
+            "eid": "toenails",
             "english": "toe-nails",
             "mescalero": {"literal_translations": [], "words": ["-késhgane"]},
         },
         "toes": {
-            "CID": "C001",
-            "EID": "toes",
+            "cid": "C001",
+            "eid": "toes",
             "english": "toes",
             "mescalero": {
                 "literal_translations": [],
@@ -9142,8 +9160,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tofertilize": {
-            "CID": "C025",
-            "EID": "tofertilize",
+            "cid": "C025",
+            "eid": "tofertilize",
             "english": "to fertilize",
             "mescalero": {
                 "literal_translations": ["one is feeding plants"],
@@ -9151,14 +9169,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tomahawk": {
-            "CID": "C003",
-            "EID": "tomahawk",
+            "cid": "C003",
+            "eid": "tomahawk",
             "english": "tomahawk",
             "mescalero": {"literal_translations": [], "words": ["tséxał"]},
         },
         "tomarry": {
-            "CID": "C018",
-            "EID": "tomarry",
+            "cid": "C018",
+            "eid": "tomarry",
             "english": "to marry",
             "mescalero": {
                 "literal_translations": ["one is getting married"],
@@ -9166,8 +9184,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tomatoes": {
-            "CID": "C014",
-            "EID": "tomatoes",
+            "cid": "C014",
+            "eid": "tomatoes",
             "english": "tomatoes",
             "mescalero": {
                 "literal_translations": ["that which prevents chili from being hot"],
@@ -9175,8 +9193,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tomorrow": {
-            "CID": "C009",
-            "EID": "tomorrow",
+            "cid": "C009",
+            "eid": "tomorrow",
             "english": "tomorrow",
             "mescalero": {
                 "literal_translations": [],
@@ -9184,44 +9202,44 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tongue": {
-            "CID": "C001",
-            "EID": "tongue",
+            "cid": "C001",
+            "eid": "tongue",
             "english": "tongue",
             "mescalero": {"literal_translations": [], "words": ["-zaade"]},
         },
         "tonight": {
-            "CID": "C009",
-            "EID": "tonight",
+            "cid": "C009",
+            "eid": "tonight",
             "english": "tonight",
             "mescalero": {"literal_translations": [], "words": ["tą'eegu"]},
         },
         "tooltoremovemeatinsidedeerskin": {
-            "CID": "C003",
-            "EID": "tooltoremovemeatinsidedeerskin",
+            "cid": "C003",
+            "eid": "tooltoremovemeatinsidedeerskin",
             "english": "tool to remove meat (inside deerskin)",
             "mescalero": {"literal_translations": [], "words": ["beetádádiitzé'í"]},
         },
         "topofmountainsummit": {
-            "CID": "C011",
-            "EID": "topofmountainsummit",
+            "cid": "C011",
+            "eid": "topofmountainsummit",
             "english": "top of mountain summit",
             "mescalero": {"literal_translations": [], "words": ["bighą́ą́'"]},
         },
         "topofmountainsummitalt": {
-            "CID": "C011",
-            "EID": "topofmountainsummitalt",
+            "cid": "C011",
+            "eid": "topofmountainsummitalt",
             "english": "top of mountain summit alt",
             "mescalero": {"literal_translations": [], "words": ["bighą́ą́yá"]},
         },
         "tortillas": {
-            "CID": "C004",
-            "EID": "tortillas",
+            "cid": "C004",
+            "eid": "tortillas",
             "english": "tortillas",
             "mescalero": {"literal_translations": [], "words": ["tségust'eł'"]},
         },
         "tough": {
-            "CID": "C027",
-            "EID": "tough",
+            "cid": "C027",
+            "eid": "tough",
             "english": "tough",
             "mescalero": {
                 "literal_translations": ["it is tough or firm"],
@@ -9229,8 +9247,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "towncity": {
-            "CID": "C007",
-            "EID": "towncity",
+            "cid": "C007",
+            "eid": "towncity",
             "english": "town city",
             "mescalero": {
                 "literal_translations": ["many houses"],
@@ -9238,14 +9256,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "trailpath": {
-            "CID": "C011",
-            "EID": "trailpath",
+            "cid": "C011",
+            "eid": "trailpath",
             "english": "trail path",
             "mescalero": {"literal_translations": [], "words": ["ch'éítine"]},
         },
         "train": {
-            "CID": "C021",
-            "EID": "train",
+            "cid": "C021",
+            "eid": "train",
             "english": "train",
             "mescalero": {
                 "literal_translations": ["metal that runs"],
@@ -9253,8 +9271,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "transparent": {
-            "CID": "C008",
-            "EID": "transparent",
+            "cid": "C008",
+            "eid": "transparent",
             "english": "transparent",
             "mescalero": {
                 "literal_translations": ["it is transparent"],
@@ -9262,8 +9280,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "trap": {
-            "CID": "C028",
-            "EID": "trap",
+            "cid": "C028",
+            "eid": "trap",
             "english": "trap",
             "mescalero": {
                 "literal_translations": ["metal that bites"],
@@ -9271,32 +9289,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "travois": {
-            "CID": "C003",
-            "EID": "travois",
+            "cid": "C003",
+            "eid": "travois",
             "english": "travois",
             "mescalero": {"literal_translations": [], "words": ["łį́ tsįniishuu'í"]},
         },
         "treestump": {
-            "CID": "C029",
-            "EID": "treestump",
+            "cid": "C029",
+            "eid": "treestump",
             "english": "tree stump",
             "mescalero": {"literal_translations": [], "words": ["tsįígude"]},
         },
         "tremor": {
-            "CID": "C011",
-            "EID": "tremor",
+            "cid": "C011",
+            "eid": "tremor",
             "english": "tremor",
             "mescalero": {"literal_translations": [], "words": ["nii guditzi"]},
         },
         "trenchditch": {
-            "CID": "C011",
-            "EID": "trenchditch",
+            "cid": "C011",
+            "eid": "trenchditch",
             "english": "trench ditch",
             "mescalero": {"literal_translations": [], "words": ["naanáguuch'i"]},
         },
         "trousers": {
-            "CID": "C023",
-            "EID": "trousers",
+            "cid": "C023",
+            "eid": "trousers",
             "english": "trousers",
             "mescalero": {
                 "literal_translations": [],
@@ -9304,26 +9322,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "true": {
-            "CID": "C020",
-            "EID": "true",
+            "cid": "C020",
+            "eid": "true",
             "english": "true",
             "mescalero": {"literal_translations": ["it is true"], "words": ["'andi"]},
         },
         "trunkparfleche": {
-            "CID": "C003",
-            "EID": "trunkparfleche",
+            "cid": "C003",
+            "eid": "trunkparfleche",
             "english": "trunk, par-fleche",
             "mescalero": {"literal_translations": [], "words": ["xéí"]},
         },
         "tsu": {
-            "CID": "C002",
-            "EID": "tsu",
+            "cid": "C002",
+            "eid": "tsu",
             "english": "tsu",
             "mescalero": {"literal_translations": [], "words": []},
         },
         "tuesday": {
-            "CID": "C009",
-            "EID": "tuesday",
+            "cid": "C009",
+            "eid": "tuesday",
             "english": "tuesday",
             "mescalero": {
                 "literal_translations": ["two days after Sunday"],
@@ -9331,14 +9349,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tularosa": {
-            "CID": "C019",
-            "EID": "tularosa",
+            "cid": "C019",
+            "eid": "tularosa",
             "english": "tularosa",
             "mescalero": {"literal_translations": ["flood"], "words": ["ch'egun'ele"]},
         },
         "tule": {
-            "CID": "C025",
-            "EID": "tule",
+            "cid": "C025",
+            "eid": "tule",
             "english": "tule",
             "mescalero": {
                 "literal_translations": ["narrow reed"],
@@ -9346,14 +9364,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tumbleweed": {
-            "CID": "C025",
-            "EID": "tumbleweed",
+            "cid": "C025",
+            "eid": "tumbleweed",
             "english": "tumble weed",
             "mescalero": {"literal_translations": [], "words": ["k'aakas"]},
         },
         "tuna": {
-            "CID": "C014",
-            "EID": "tuna",
+            "cid": "C014",
+            "eid": "tuna",
             "english": "tuna",
             "mescalero": {
                 "literal_translations": [],
@@ -9361,14 +9379,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "tunnelmountain": {
-            "CID": "C011",
-            "EID": "tunnelmountain",
+            "cid": "C011",
+            "eid": "tunnelmountain",
             "english": "tunnel mountain",
             "mescalero": {"literal_translations": [], "words": ["dzil gháná'itine"]},
         },
         "turkey": {
-            "CID": "C005",
-            "EID": "turkey",
+            "cid": "C005",
+            "eid": "turkey",
             "english": "turkey",
             "mescalero": {
                 "literal_translations": ["rough feet"],
@@ -9376,8 +9394,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "turkeybeard": {
-            "CID": "C003",
-            "EID": "turkeybeard",
+            "cid": "C003",
+            "eid": "turkeybeard",
             "english": "turkey beard",
             "mescalero": {
                 "literal_translations": [],
@@ -9385,32 +9403,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "turquoise": {
-            "CID": "C008",
-            "EID": "turquoise",
+            "cid": "C008",
+            "eid": "turquoise",
             "english": "turquoise",
             "mescalero": {"literal_translations": [], "words": ["datł'ish"]},
         },
         "turtle": {
-            "CID": "C002",
-            "EID": "turtle",
+            "cid": "C002",
+            "eid": "turtle",
             "english": "turtle",
             "mescalero": {"literal_translations": [], "words": ["ts'isteeł"]},
         },
         "turtleshell": {
-            "CID": "C003",
-            "EID": "turtleshell",
+            "cid": "C003",
+            "eid": "turtleshell",
             "english": "turtle shell",
             "mescalero": {"literal_translations": [], "words": ["ts'ísteez bits'ale"]},
         },
         "twig": {
-            "CID": "C029",
-            "EID": "twig",
+            "cid": "C029",
+            "eid": "twig",
             "english": "twig",
             "mescalero": {"literal_translations": [], "words": ["'itsútsine"]},
         },
         "twigsforcradlecrown": {
-            "CID": "C025",
-            "EID": "twigsforcradlecrown",
+            "cid": "C025",
+            "eid": "twigsforcradlecrown",
             "english": "twigs for cradle crown",
             "mescalero": {
                 "literal_translations": [],
@@ -9418,8 +9436,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "twisted": {
-            "CID": "C027",
-            "EID": "twisted",
+            "cid": "C027",
+            "eid": "twisted",
             "english": "twisted",
             "mescalero": {
                 "literal_translations": ["it is twisted"],
@@ -9427,32 +9445,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "twodaysago": {
-            "CID": "C009",
-            "EID": "twodaysago",
+            "cid": "C009",
+            "eid": "twodaysago",
             "english": "two days ago",
             "mescalero": {"literal_translations": [], "words": ["naaki hiiską́dá"]},
         },
         "underarm": {
-            "CID": "C001",
-            "EID": "underarm",
+            "cid": "C001",
+            "eid": "underarm",
             "english": "underarm",
             "mescalero": {"literal_translations": [], "words": ["-kansht'a"]},
         },
         "underarmhair": {
-            "CID": "C001",
-            "EID": "underarmhair",
+            "cid": "C001",
+            "eid": "underarmhair",
             "english": "underarm hair",
             "mescalero": {"literal_translations": [], "words": ["-kansht'aghaa'"]},
         },
         "underwear": {
-            "CID": "C023",
-            "EID": "underwear",
+            "cid": "C023",
+            "eid": "underwear",
             "english": "underwear",
             "mescalero": {"literal_translations": [], "words": ["éétt'águ'í"]},
         },
         "unmarried": {
-            "CID": "C018",
-            "EID": "unmarried",
+            "cid": "C018",
+            "eid": "unmarried",
             "english": "unmarried",
             "mescalero": {
                 "literal_translations": ["one is alone"],
@@ -9460,14 +9478,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "up": {
-            "CID": "C010",
-            "EID": "up",
+            "cid": "C010",
+            "eid": "up",
             "english": "up",
             "mescalero": {"literal_translations": ["see page 22"], "words": ["handa'"]},
         },
         "uphold": {
-            "CID": "C020",
-            "EID": "uphold",
+            "cid": "C020",
+            "eid": "uphold",
             "english": "uphold",
             "mescalero": {
                 "literal_translations": ["one is upholding one"],
@@ -9475,8 +9493,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "vacuumcleaner": {
-            "CID": "C015",
-            "EID": "vacuumcleaner",
+            "cid": "C015",
+            "eid": "vacuumcleaner",
             "english": "vacuum cleaner",
             "mescalero": {
                 "literal_translations": ["that which picks up things from the floor"],
@@ -9484,26 +9502,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "vagina": {
-            "CID": "C001",
-            "EID": "vagina",
+            "cid": "C001",
+            "eid": "vagina",
             "english": "vagina",
             "mescalero": {"literal_translations": [], "words": ["-juje"]},
         },
         "vein": {
-            "CID": "C001",
-            "EID": "vein",
+            "cid": "C001",
+            "eid": "vein",
             "english": "vein",
             "mescalero": {"literal_translations": [], "words": ["-ts'uusį"]},
         },
         "venison": {
-            "CID": "C004",
-            "EID": "venison",
+            "cid": "C004",
+            "eid": "venison",
             "english": "venison",
             "mescalero": {"literal_translations": [], "words": ["bíł bitsį"]},
         },
         "very": {
-            "CID": "C012",
-            "EID": "very",
+            "cid": "C012",
+            "eid": "very",
             "english": "very",
             "mescalero": {
                 "literal_translations": ["used to emphasize strongly"],
@@ -9511,8 +9529,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "veryearlymorning": {
-            "CID": "C009",
-            "EID": "veryearlymorning",
+            "cid": "C009",
+            "eid": "veryearlymorning",
             "english": "very early morning",
             "mescalero": {
                 "literal_translations": ["it is still dark"],
@@ -9520,47 +9538,47 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "verylittle": {
-            "CID": "C020",
-            "EID": "verylittle",
+            "cid": "C020",
+            "eid": "verylittle",
             "english": "very little",
             "mescalero": {"literal_translations": [], "words": ["dáákuyųhe, kúyńé"]},
         },
         "vest": {
-            "CID": "C023",
-            "EID": "vest",
+            "cid": "C023",
+            "eid": "vest",
             "english": "vest",
             "mescalero": {"literal_translations": [], "words": ["'éłau'é"]},
         },
         "vinegaroon": {
-            "CID": "C016",
-            "EID": "vinegaroon",
+            "cid": "C016",
+            "eid": "vinegaroon",
             "english": "vinegaroon",
             "mescalero": {"literal_translations": [], "words": ["kanghaadé"]},
         },
         "vinehat": {
-            "CID": "C003",
-            "EID": "vinehat",
+            "cid": "C003",
+            "eid": "vinehat",
             "english": "vine hat",
             "mescalero": {"literal_translations": [], "words": ["tz'uch'a"]},
         },
         "vocalcord": {
-            "CID": "C001",
-            "EID": "vocalcord",
+            "cid": "C001",
+            "eid": "vocalcord",
             "english": "vocal cord",
             "mescalero": {"literal_translations": [], "words": ["-zhíts'uus"]},
         },
         "wagon": {
-            "CID": "C003",
-            "EID": "wagon",
+            "cid": "C003",
+            "eid": "wagon",
             "english": "wagon",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["baąs tsįnaagháí"],
             },
         },
         "wagontongue": {
-            "CID": "C028",
-            "EID": "wagontongue",
+            "cid": "C028",
+            "eid": "wagontongue",
             "english": "wagon tongue",
             "mescalero": {
                 "literal_translations": ["that which attaches horses"],
@@ -9568,8 +9586,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wagonwheels": {
-            "CID": "C028",
-            "EID": "wagonwheels",
+            "cid": "C028",
+            "eid": "wagonwheels",
             "english": "wagon wheels",
             "mescalero": {
                 "literal_translations": ["wagon legs"],
@@ -9577,14 +9595,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "waist": {
-            "CID": "C001",
-            "EID": "waist",
+            "cid": "C001",
+            "eid": "waist",
             "english": "waist",
             "mescalero": {"literal_translations": [], "words": ["-tsiist'a"]},
         },
         "walkingcane": {
-            "CID": "C003",
-            "EID": "walkingcane",
+            "cid": "C003",
+            "eid": "walkingcane",
             "english": "walking cane",
             "mescalero": {
                 "literal_translations": [],
@@ -9592,8 +9610,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "walkingstick": {
-            "CID": "C016",
-            "EID": "walkingstick",
+            "cid": "C016",
+            "eid": "walkingstick",
             "english": "walking stick",
             "mescalero": {
                 "literal_translations": ["a bug that punctured rawhide"],
@@ -9601,8 +9619,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wallpictures": {
-            "CID": "C015",
-            "EID": "wallpictures",
+            "cid": "C015",
+            "eid": "wallpictures",
             "english": "wall pictures",
             "mescalero": {
                 "literal_translations": ["pictures that one puts up"],
@@ -9610,32 +9628,32 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "walnutblack": {
-            "CID": "C029",
-            "EID": "walnutblack",
+            "cid": "C029",
+            "eid": "walnutblack",
             "english": "walnut, black",
             "mescalero": {"literal_translations": [], "words": ["haaltseede"]},
         },
         "war": {
-            "CID": "C020",
-            "EID": "war",
+            "cid": "C020",
+            "eid": "war",
             "english": "war",
             "mescalero": {"literal_translations": [], "words": ["naagundzu'"]},
         },
         "warbonnet": {
-            "CID": "C003",
-            "EID": "warbonnet",
+            "cid": "C003",
+            "eid": "warbonnet",
             "english": "war bonnet",
             "mescalero": {"literal_translations": ["big hat"], "words": ["ch'atsu"]},
         },
         "warbonnettail": {
-            "CID": "C003",
-            "EID": "warbonnettail",
+            "cid": "C003",
+            "eid": "warbonnettail",
             "english": "war bonnet tail",
             "mescalero": {"literal_translations": [], "words": ["ch'atsu bitsee'"]},
         },
         "warm": {
-            "CID": "C007",
-            "EID": "warm",
+            "cid": "C007",
+            "eid": "warm",
             "english": "warm",
             "mescalero": {
                 "literal_translations": ["it is warm"],
@@ -9643,8 +9661,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "warped": {
-            "CID": "C027",
-            "EID": "warped",
+            "cid": "C027",
+            "eid": "warped",
             "english": "warped",
             "mescalero": {
                 "literal_translations": ["it is warped"],
@@ -9652,8 +9670,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "washer": {
-            "CID": "C015",
-            "EID": "washer",
+            "cid": "C015",
+            "eid": "washer",
             "english": "washer",
             "mescalero": {
                 "literal_translations": ["that which washes (Chiricahua)"],
@@ -9661,14 +9679,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "washingtondc": {
-            "CID": "C019",
-            "EID": "washingtondc",
+            "cid": "C019",
+            "eid": "washingtondc",
             "english": "washington, d.c.",
             "mescalero": {"literal_translations": [], "words": ["washindun'"]},
         },
         "wasp": {
-            "CID": "C016",
-            "EID": "wasp",
+            "cid": "C016",
+            "eid": "wasp",
             "english": "wasp",
             "mescalero": {
                 "literal_translations": ["the bug that stings"],
@@ -9676,8 +9694,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "watchfob": {
-            "CID": "C003",
-            "EID": "watchfob",
+            "cid": "C003",
+            "eid": "watchfob",
             "english": "watch fob",
             "mescalero": {
                 "literal_translations": [],
@@ -9685,26 +9703,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "water": {
-            "CID": "C011",
-            "EID": "water",
+            "cid": "C011",
+            "eid": "water",
             "english": "water",
             "mescalero": {"literal_translations": [], "words": ["tú", "-tu'", "ta-"]},
         },
         "waterbuffalo": {
-            "CID": "C002",
-            "EID": "waterbuffalo",
+            "cid": "C002",
+            "eid": "waterbuffalo",
             "english": "water buffalo",
             "mescalero": {"literal_translations": [], "words": ["táguutłsúáí"]},
         },
         "waterbug": {
-            "CID": "C016",
-            "EID": "waterbug",
+            "cid": "C016",
+            "eid": "waterbug",
             "english": "water bug",
             "mescalero": {"literal_translations": [], "words": ["chę́chayé"]},
         },
         "waterdog": {
-            "CID": "C001",
-            "EID": "waterdog",
+            "cid": "C001",
+            "eid": "waterdog",
             "english": "water dog",
             "mescalero": {
                 "literal_translations": ["it runs into the rectum"],
@@ -9712,23 +9730,23 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "watermelon": {
-            "CID": "C014",
-            "EID": "watermelon",
+            "cid": "C014",
+            "eid": "watermelon",
             "english": "watermelon",
             "mescalero": {
-                "literal_translations": ["something to slice", "Spanish", "Chiricahua"],
+                "literal_translations": ["something to slice", "(via Spanish)", "(via Chiricahua)"],
                 "words": ["niłt'aasi", "sandííya", "yeeguztúí"],
             },
         },
         "waterstrider": {
-            "CID": "C016",
-            "EID": "waterstrider",
+            "cid": "C016",
+            "eid": "waterstrider",
             "english": "water strider",
             "mescalero": {"literal_translations": [], "words": ["chę́chayé"]},
         },
         "waves": {
-            "CID": "C011",
-            "EID": "waves",
+            "cid": "C011",
+            "eid": "waves",
             "english": "waves",
             "mescalero": {
                 "literal_translations": ["the backbone of the water is rising"],
@@ -9736,8 +9754,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "weasel": {
-            "CID": "C002",
-            "EID": "weasel",
+            "cid": "C002",
+            "eid": "weasel",
             "english": "weasel",
             "mescalero": {
                 "literal_translations": ["long chipmunk"],
@@ -9745,8 +9763,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wedding": {
-            "CID": "C018",
-            "EID": "wedding",
+            "cid": "C018",
+            "eid": "wedding",
             "english": "wedding",
             "mescalero": {
                 "literal_translations": ["two are meeting"],
@@ -9754,8 +9772,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wednesday": {
-            "CID": "C009",
-            "EID": "wednesday",
+            "cid": "C009",
+            "eid": "wednesday",
             "english": "wednesday",
             "mescalero": {
                 "literal_translations": ["three days after Sunday"],
@@ -9763,14 +9781,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "weed": {
-            "CID": "C025",
-            "EID": "weed",
+            "cid": "C025",
+            "eid": "weed",
             "english": "weed",
             "mescalero": {"literal_translations": [], "words": ["tł'u"]},
         },
         "well": {
-            "CID": "C011",
-            "EID": "well",
+            "cid": "C011",
+            "eid": "well",
             "english": "well",
             "mescalero": {
                 "literal_translations": [],
@@ -9778,8 +9796,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "west": {
-            "CID": "C010",
-            "EID": "west",
+            "cid": "C010",
+            "eid": "west",
             "english": "west",
             "mescalero": {
                 "literal_translations": ["from where the sun sets"],
@@ -9787,8 +9805,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "westtowardthewest": {
-            "CID": "C010",
-            "EID": "westtowardthewest",
+            "cid": "C010",
+            "eid": "westtowardthewest",
             "english": "west (toward the west)",
             "mescalero": {
                 "literal_translations": ["toward the west"],
@@ -9796,8 +9814,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "westwestward": {
-            "CID": "C010",
-            "EID": "westwestward",
+            "cid": "C010",
+            "eid": "westwestward",
             "english": "west (westward)",
             "mescalero": {
                 "literal_translations": ["westward"],
@@ -9805,8 +9823,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wet": {
-            "CID": "C007",
-            "EID": "wet",
+            "cid": "C007",
+            "eid": "wet",
             "english": "wet",
             "mescalero": {
                 "literal_translations": ["it is wet"],
@@ -9814,8 +9832,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wheat": {
-            "CID": "C025",
-            "EID": "wheat",
+            "cid": "C025",
+            "eid": "wheat",
             "english": "wheat",
             "mescalero": {
                 "literal_translations": ["traveling plant"],
@@ -9823,26 +9841,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "whenbabyfirstcrawls": {
-            "CID": "C018",
-            "EID": "whenbabyfirstcrawls",
+            "cid": "C018",
+            "eid": "whenbabyfirstcrawls",
             "english": "when baby first crawls",
             "mescalero": {"literal_translations": [], "words": ["'ézchinéí deegish"]},
         },
         "whenitgetstobenighttimeordark": {
-            "CID": "C009",
-            "EID": "whenitgetstobenighttimeordark",
+            "cid": "C009",
+            "eid": "whenitgetstobenighttimeordark",
             "english": "when it gets to be nighttime or dark",
             "mescalero": {"literal_translations": [], "words": ["tą'ee' guuligu"]},
         },
         "whenoneissmall": {
-            "CID": "C018",
-            "EID": "whenoneissmall",
+            "cid": "C018",
+            "eid": "whenoneissmall",
             "english": "when one is small",
             "mescalero": {"literal_translations": [], "words": ["bidzílízdáyédá"]},
         },
         "whippoorwill": {
-            "CID": "C005",
-            "EID": "whippoorwill",
+            "cid": "C005",
+            "eid": "whippoorwill",
             "english": "whippoorwill",
             "mescalero": {
                 "literal_translations": ["boogie man"],
@@ -9850,8 +9868,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "whirlwindtornado": {
-            "CID": "C007",
-            "EID": "whirlwindtornado",
+            "cid": "C007",
+            "eid": "whirlwindtornado",
             "english": "whirlwind tornado",
             "mescalero": {
                 "literal_translations": ["the greatest wind"],
@@ -9859,14 +9877,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "white": {
-            "CID": "C008",
-            "EID": "white",
+            "cid": "C008",
+            "eid": "white",
             "english": "white",
             "mescalero": {"literal_translations": [], "words": ["zíga"]},
         },
         "whitebreastedcrupper": {
-            "CID": "C005",
-            "EID": "whitebreastedcrupper",
+            "cid": "C005",
+            "eid": "whitebreastedcrupper",
             "english": "white breasted crupper",
             "mescalero": {
                 "literal_translations": ["grey bird that hops up a tree"],
@@ -9874,35 +9892,35 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "whitebreastednuthatch": {
-            "CID": "C005",
-            "EID": "whitebreastednuthatch",
+            "cid": "C005",
+            "eid": "whitebreastednuthatch",
             "english": "white breasted nut hatch",
             "mescalero": {"literal_translations": [], "words": ["jéji ziga'í"]},
         },
         "whitecorn": {
-            "CID": "C014",
-            "EID": "whitecorn",
+            "cid": "C014",
+            "eid": "whitecorn",
             "english": "white corn",
             "mescalero": {"literal_translations": [], "words": ["'inaaá' łiga'í"]},
         },
         "whiteoaksregionneofcarrizozo": {
-            "CID": "C019",
-            "EID": "whiteoaksregionneofcarrizozo",
+            "cid": "C019",
+            "eid": "whiteoaksregionneofcarrizozo",
             "english": "white oaks region ne of carrizozo",
             "mescalero": {
-                "literal_translations": ["white reeds emerging downward", "Spanish"],
+                "literal_translations": ["white reeds emerging downward", "(via Spanish)"],
                 "words": ["úk'aa nuugsayá", "heduugis"],
             },
         },
         "whiteperson": {
-            "CID": "C012",
-            "EID": "whiteperson",
+            "cid": "C012",
+            "eid": "whiteperson",
             "english": "white person",
             "mescalero": {"literal_translations": [], "words": ["bélu, mbélu"]},
         },
         "whiteriver": {
-            "CID": "C019",
-            "EID": "whiteriver",
+            "cid": "C019",
+            "eid": "whiteriver",
             "english": "whiteriver",
             "mescalero": {
                 "literal_translations": ["emerging white reed"],
@@ -9910,8 +9928,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "whitesands": {
-            "CID": "C019",
-            "EID": "whitesands",
+            "cid": "C019",
+            "eid": "whitesands",
             "english": "whitesands",
             "mescalero": {
                 "literal_translations": ["a stretch of white sand"],
@@ -9919,14 +9937,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "whitetaildayschool": {
-            "CID": "C026",
-            "EID": "whitetaildayschool",
+            "cid": "C026",
+            "eid": "whitetaildayschool",
             "english": "whitetail day school",
             "mescalero": {"literal_translations": [], "words": ["tsį yan'á'e' da'íta"]},
         },
         "whitetaildeer": {
-            "CID": "C002",
-            "EID": "whitetaildeer",
+            "cid": "C002",
+            "eid": "whitetaildeer",
             "english": "whitetail deer",
             "mescalero": {
                 "literal_translations": ["white tail flickering about"],
@@ -9934,14 +9952,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "whitetaildoe": {
-            "CID": "C002",
-            "EID": "whitetaildoe",
+            "cid": "C002",
+            "eid": "whitetaildoe",
             "english": "whitetail doe",
             "mescalero": {"literal_translations": [], "words": ["tseenaagaítsaye"]},
         },
         "whitetailspringu": {
-            "CID": "C026",
-            "EID": "whitetailspringu",
+            "cid": "C026",
+            "eid": "whitetailspringu",
             "english": "whitetail spring",
             "mescalero": {
                 "literal_translations": [],
@@ -9949,14 +9967,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "whitetailtanku": {
-            "CID": "C026",
-            "EID": "whitetailtanku",
+            "cid": "C026",
+            "eid": "whitetailtanku",
             "english": "whitetail tank",
             "mescalero": {"literal_translations": [], "words": ["tsį yan'á tú sikąya"]},
         },
         "whole": {
-            "CID": "C027",
-            "EID": "whole",
+            "cid": "C027",
+            "eid": "whole",
             "english": "whole",
             "mescalero": {
                 "literal_translations": ["it is whole"],
@@ -9964,14 +9982,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "whynot": {
-            "CID": "C012",
-            "EID": "whynot",
+            "cid": "C012",
+            "eid": "whynot",
             "english": "why not?",
             "mescalero": {"literal_translations": [], "words": ["yńká duuda"]},
         },
         "wide": {
-            "CID": "C027",
-            "EID": "wide",
+            "cid": "C027",
+            "eid": "wide",
             "english": "wide",
             "mescalero": {
                 "literal_translations": ["it is flat"],
@@ -9979,26 +9997,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "widow": {
-            "CID": "C017",
-            "EID": "widow",
+            "cid": "C017",
+            "eid": "widow",
             "english": "widow",
-            "mescalero": {"literal_translations": ["Chiricahua"], "words": ["bizhan"]},
+            "mescalero": {"literal_translations": ["(via Chiricahua)"], "words": ["bizhan"]},
         },
         "widowerinlaw": {
-            "CID": "C017",
-            "EID": "widowerinlaw",
+            "cid": "C017",
+            "eid": "widowerinlaw",
             "english": "widower inlaw",
             "mescalero": {"literal_translations": [], "words": ["kádeeyáń"]},
         },
         "wife": {
-            "CID": "C017",
-            "EID": "wife",
+            "cid": "C017",
+            "eid": "wife",
             "english": "wife",
             "mescalero": {"literal_translations": [], "words": ["-ghaasdzę'"]},
         },
         "wildcherries": {
-            "CID": "C014",
-            "EID": "wildcherries",
+            "cid": "C014",
+            "eid": "wildcherries",
             "english": "wild cherries",
             "mescalero": {
                 "literal_translations": ["poisoned cherries"],
@@ -10006,8 +10024,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wildcurrant": {
-            "CID": "C025",
-            "EID": "wildcurrant",
+            "cid": "C025",
+            "eid": "wildcurrant",
             "english": "wild currant",
             "mescalero": {
                 "literal_translations": ["horse's cherries"],
@@ -10015,20 +10033,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wilddog": {
-            "CID": "C002",
-            "EID": "wilddog",
+            "cid": "C002",
+            "eid": "wilddog",
             "english": "wild dog",
             "mescalero": {"literal_translations": [], "words": ["chúúné tsédalí"]},
         },
         "wildmint": {
-            "CID": "C025",
-            "EID": "wildmint",
+            "cid": "C025",
+            "eid": "wildmint",
             "english": "wild mint",
             "mescalero": {"literal_translations": [], "words": ["dzíísdzani"]},
         },
         "wildpotato": {
-            "CID": "C025",
-            "EID": "wildpotato",
+            "cid": "C025",
+            "eid": "wildpotato",
             "english": "wild potato",
             "mescalero": {
                 "literal_translations": ["peeling medicine"],
@@ -10036,8 +10054,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wildpumpkin": {
-            "CID": "C025",
-            "EID": "wildpumpkin",
+            "cid": "C025",
+            "eid": "wildpumpkin",
             "english": "wild pumpkin",
             "mescalero": {
                 "literal_translations": ["emerging order"],
@@ -10045,20 +10063,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wildroses": {
-            "CID": "C025",
-            "EID": "wildroses",
+            "cid": "C025",
+            "eid": "wildroses",
             "english": "wild roses",
             "mescalero": {"literal_translations": [], "words": ["'ichíyush"]},
         },
         "wildspinach": {
-            "CID": "C014",
-            "EID": "wildspinach",
+            "cid": "C014",
+            "eid": "wildspinach",
             "english": "wild spinach",
             "mescalero": {"literal_translations": ["leaf"], "words": ["'it'a'"]},
         },
         "wildtea": {
-            "CID": "C004",
-            "EID": "wildtea",
+            "cid": "C004",
+            "eid": "wildtea",
             "english": "wild tea",
             "mescalero": {
                 "literal_translations": [],
@@ -10066,8 +10084,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "willow": {
-            "CID": "C029",
-            "EID": "willow",
+            "cid": "C029",
+            "eid": "willow",
             "english": "willow",
             "mescalero": {
                 "literal_translations": ["where there is water"],
@@ -10075,8 +10093,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wind": {
-            "CID": "C007",
-            "EID": "wind",
+            "cid": "C007",
+            "eid": "wind",
             "english": "wind",
             "mescalero": {
                 "literal_translations": ["it is blowing"],
@@ -10084,14 +10102,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "windbreakbrush": {
-            "CID": "C003",
-            "EID": "windbreakbrush",
+            "cid": "C003",
+            "eid": "windbreakbrush",
             "english": "windbreak (brush)",
             "mescalero": {"literal_translations": [], "words": ["guusbi"]},
         },
         "windmilll": {
-            "CID": "C026",
-            "EID": "windmilll",
+            "cid": "C026",
+            "eid": "windmilll",
             "english": "windmill",
             "mescalero": {
                 "literal_translations": ["hanging arrow"],
@@ -10099,23 +10117,23 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "window": {
-            "CID": "C015",
-            "EID": "window",
+            "cid": "C015",
+            "eid": "window",
             "english": "window",
-            "mescalero": {"literal_translations": ["Spanish"], "words": ["mandána"]},
+            "mescalero": {"literal_translations": ["(via Spanish)"], "words": ["mandána"]},
         },
         "windpipe": {
-            "CID": "C001",
-            "EID": "windpipe",
+            "cid": "C001",
+            "eid": "windpipe",
             "english": "windpipe",
             "mescalero": {
-                "literal_translations": ["Chiricahua"],
+                "literal_translations": ["(via Chiricahua)"],
                 "words": ["-yen'áí", "-zuux dzįk'aí"],
             },
         },
         "wine": {
-            "CID": "C014",
-            "EID": "wine",
+            "cid": "C014",
+            "eid": "wine",
             "english": "wine",
             "mescalero": {
                 "literal_translations": ["grape's water"],
@@ -10123,14 +10141,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "winter": {
-            "CID": "C022",
-            "EID": "winter",
+            "cid": "C022",
+            "eid": "winter",
             "english": "winter",
             "mescalero": {"literal_translations": [], "words": ["xa"]},
         },
         "withintheboundary": {
-            "CID": "C026",
-            "EID": "withintheboundary",
+            "cid": "C026",
+            "eid": "withintheboundary",
             "english": "within the boundary",
             "mescalero": {
                 "literal_translations": ["reservation line"],
@@ -10138,8 +10156,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wolf": {
-            "CID": "C002",
-            "EID": "wolf",
+            "cid": "C002",
+            "eid": "wolf",
             "english": "wolf",
             "mescalero": {
                 "literal_translations": ["large coyote"],
@@ -10147,20 +10165,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "woman": {
-            "CID": "C018",
-            "EID": "woman",
+            "cid": "C018",
+            "eid": "woman",
             "english": "woman",
             "mescalero": {"literal_translations": [], "words": ["'isdzág"]},
         },
         "womb": {
-            "CID": "C001",
-            "EID": "womb",
+            "cid": "C001",
+            "eid": "womb",
             "english": "womb",
             "mescalero": {"literal_translations": [], "words": ["-tsą'"]},
         },
         "women": {
-            "CID": "C018",
-            "EID": "women",
+            "cid": "C018",
+            "eid": "women",
             "english": "women",
             "mescalero": {
                 "literal_translations": [],
@@ -10168,8 +10186,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wood": {
-            "CID": "C015",
-            "EID": "wood",
+            "cid": "C015",
+            "eid": "wood",
             "english": "wood",
             "mescalero": {
                 "literal_translations": ["metal with fire inside"],
@@ -10177,8 +10195,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "woodbox": {
-            "CID": "C015",
-            "EID": "woodbox",
+            "cid": "C015",
+            "eid": "woodbox",
             "english": "wood box",
             "mescalero": {
                 "literal_translations": ["that into which wood is put"],
@@ -10186,8 +10204,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "woodpecker": {
-            "CID": "C005",
-            "EID": "woodpecker",
+            "cid": "C005",
+            "eid": "woodpecker",
             "english": "woodpecker",
             "mescalero": {
                 "literal_translations": ["hammering on wood"],
@@ -10195,14 +10213,14 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "woodpile": {
-            "CID": "C020",
-            "EID": "woodpile",
+            "cid": "C020",
+            "eid": "woodpile",
             "english": "woodpile",
             "mescalero": {"literal_translations": [], "words": ["chish shijaa'e'"]},
         },
         "wormwood": {
-            "CID": "C025",
-            "EID": "wormwood",
+            "cid": "C025",
+            "eid": "wormwood",
             "english": "wormwood",
             "mescalero": {
                 "literal_translations": ["ghost medicine"],
@@ -10210,8 +10228,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "woven": {
-            "CID": "C027",
-            "EID": "woven",
+            "cid": "C027",
+            "eid": "woven",
             "english": "woven",
             "mescalero": {
                 "literal_translations": ["it is woven"],
@@ -10219,8 +10237,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wraparoundcloth": {
-            "CID": "C003",
-            "EID": "wraparoundcloth",
+            "cid": "C003",
+            "eid": "wraparoundcloth",
             "english": "wrap around cloth",
             "mescalero": {
                 "literal_translations": [],
@@ -10228,8 +10246,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wren": {
-            "CID": "C005",
-            "EID": "wren",
+            "cid": "C005",
+            "eid": "wren",
             "english": "wren",
             "mescalero": {
                 "literal_translations": ["handles waste"],
@@ -10237,26 +10255,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wrenhouse": {
-            "CID": "C005",
-            "EID": "wrenhouse",
+            "cid": "C005",
+            "eid": "wrenhouse",
             "english": "wren (house)",
             "mescalero": {"literal_translations": [], "words": ["chaąchu"]},
         },
         "wrist": {
-            "CID": "C001",
-            "EID": "wrist",
+            "cid": "C001",
+            "eid": "wrist",
             "english": "wrist",
             "mescalero": {"literal_translations": [], "words": ["-laatsfine'"]},
         },
         "wristguards": {
-            "CID": "C003",
-            "EID": "wristguards",
+            "cid": "C003",
+            "eid": "wristguards",
             "english": "wrist guards",
             "mescalero": {"literal_translations": [], "words": ["laatsíné násti'i'í"]},
         },
         "wristwatch": {
-            "CID": "C023",
-            "EID": "wristwatch",
+            "cid": "C023",
+            "eid": "wristwatch",
             "english": "wristwatch",
             "mescalero": {
                 "literal_translations": [],
@@ -10264,8 +10282,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "wrong": {
-            "CID": "C020",
-            "EID": "wrong",
+            "cid": "C020",
+            "eid": "wrong",
             "english": "wrong",
             "mescalero": {
                 "literal_translations": ["it is wrong"],
@@ -10273,8 +10291,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "yearone": {
-            "CID": "C022",
-            "EID": "yearone",
+            "cid": "C022",
+            "eid": "yearone",
             "english": "year (one)",
             "mescalero": {
                 "literal_translations": ["it has ripened again"],
@@ -10282,8 +10300,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "yellow": {
-            "CID": "C008",
-            "EID": "yellow",
+            "cid": "C008",
+            "eid": "yellow",
             "english": "yellow",
             "mescalero": {
                 "literal_translations": ["yellow fruit"],
@@ -10291,8 +10309,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "yellowhammer": {
-            "CID": "C005",
-            "EID": "yellowhammer",
+            "cid": "C005",
+            "eid": "yellowhammer",
             "english": "yellow hammer",
             "mescalero": {
                 "literal_translations": ["yellow bird"],
@@ -10300,8 +10318,8 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "yellowish": {
-            "CID": "C008",
-            "EID": "yellowish",
+            "cid": "C008",
+            "eid": "yellowish",
             "english": "yellowish",
             "mescalero": {
                 "literal_translations": ["used to describe blond or light hair"],
@@ -10309,20 +10327,20 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "yellowlake": {
-            "CID": "C026",
-            "EID": "yellowlake",
+            "cid": "C026",
+            "eid": "yellowlake",
             "english": "yellow lake",
             "mescalero": {"literal_translations": [], "words": ["tú zitsu siką"]},
         },
         "yesterday": {
-            "CID": "C009",
-            "EID": "yesterday",
+            "cid": "C009",
+            "eid": "yesterday",
             "english": "yesterday",
             "mescalero": {"literal_translations": [], "words": ["'adą́dą́dá"]},
         },
         "youareworthlessorweak": {
-            "CID": "C012",
-            "EID": "youareworthlessorweak",
+            "cid": "C012",
+            "eid": "youareworthlessorweak",
             "english": "you are worthless or weak",
             "mescalero": {
                 "literal_translations": [],
@@ -10330,26 +10348,26 @@ dictionary_data: list[dict[str, str | list[str]]] = {
             },
         },
         "youngergeneration": {
-            "CID": "C018",
-            "EID": "youngergeneration",
+            "cid": "C018",
+            "eid": "youngergeneration",
             "english": "younger generation",
             "mescalero": {"literal_translations": [], "words": ["'ánde náneest'ą́nde"]},
         },
         "youngpeople": {
-            "CID": "C018",
-            "EID": "youngpeople",
+            "cid": "C018",
+            "eid": "youngpeople",
             "english": "young people",
             "mescalero": {"literal_translations": [], "words": ["'ánde naakandé"]},
         },
         "youngwidow": {
-            "CID": "C017",
-            "EID": "youngwidow",
+            "cid": "C017",
+            "eid": "youngwidow",
             "english": "young widow",
             "mescalero": {"literal_translations": [], "words": ["zhannuuch'í"]},
         },
         "yourspouse": {
-            "CID": "C017",
-            "EID": "yourspouse",
+            "cid": "C017",
+            "eid": "yourspouse",
             "english": "your spouse",
             "mescalero": {"literal_translations": [], "words": ["biznan'aashń"]},
         },
