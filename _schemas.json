@@ -1,0 +1,541 @@
+[
+    {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "title": "Linguistic Dictionary Entry",
+        "description": "A formal schema for lexicographic entries, allowing for comprehensive dictionary data while supporting partial or incomplete records through strict nullability.",
+        "type": "object",
+        "properties": {
+            "entry_id": {
+                "type": [
+                    "string",
+                    "null"
+                ],
+                "description": "A unique identifier for the dictionary entry."
+            },
+            "headword": {
+                "type": [
+                    "string",
+                    "null"
+                ],
+                "description": "The lemma or canonical form of the word."
+            },
+            "homograph_number": {
+                "type": [
+                    "integer",
+                    "null"
+                ],
+                "description": "Used to distinguish between distinct words that share the same headword spelling."
+            },
+            "language": {
+                "type": [
+                    "string",
+                    "null"
+                ],
+                "description": "The language code (e.g., ISO 639-3) of the headword."
+            },
+            "is_standard": {
+                "type": [
+                    "boolean",
+                    "null"
+                ],
+                "description": "Indicates if the word is considered standard or non-standard/dialectal."
+            },
+            "part_of_speech": {
+                "type": [
+                    "string",
+                    "null"
+                ],
+                "description": "The primary grammatical category (e.g., noun, verb, adjective)."
+            },
+            "pronunciation": {
+                "type": [
+                    "object",
+                    "null"
+                ],
+                "description": "Phonetic and audio representation of the word.",
+                "properties": {
+                    "ipa": {
+                        "type": [
+                            "string",
+                            "null"
+                        ],
+                        "description": "International Phonetic Alphabet transcription."
+                    },
+                    "audio_url": {
+                        "type": [
+                            "string",
+                            "null"
+                        ],
+                        "description": "URI pointing to an audio recording of the pronunciation.",
+                        "format": "uri"
+                    }
+                },
+                "additionalProperties": false
+            },
+            "inflections": {
+                "type": [
+                    "array",
+                    "null"
+                ],
+                "description": "List of morphological variations of the headword.",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "form": {
+                            "type": [
+                                "string",
+                                "null"
+                            ]
+                        },
+                        "grammatical_feature": {
+                            "type": [
+                                "string",
+                                "null"
+                            ],
+                            "description": "The type of inflection (e.g., plural, past participle, genitive)."
+                        }
+                    },
+                    "additionalProperties": false
+                }
+            },
+            "etymology": {
+                "type": [
+                    "string",
+                    "null"
+                ],
+                "description": "The historical origin and development of the word."
+            },
+            "senses": {
+                "type": [
+                    "array",
+                    "null"
+                ],
+                "description": "The semantic uses or definitions of the word.",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "sense_id": {
+                            "type": [
+                                "string",
+                                "null"
+                            ]
+                        },
+                        "definition": {
+                            "type": [
+                                "string",
+                                "null"
+                            ]
+                        },
+                        "domain_tags": {
+                            "type": [
+                                "array",
+                                "null"
+                            ],
+                            "items": {
+                                "type": "string"
+                            },
+                            "description": "Field of study or context (e.g., 'medicine', 'slang')."
+                        },
+                        "examples": {
+                            "type": [
+                                "array",
+                                "null"
+                            ],
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "text": {
+                                        "type": [
+                                            "string",
+                                            "null"
+                                        ]
+                                    },
+                                    "translation": {
+                                        "type": [
+                                            "string",
+                                            "null"
+                                        ]
+                                    }
+                                },
+                                "additionalProperties": false
+                            }
+                        },
+                        "synonyms": {
+                            "type": [
+                                "array",
+                                "null"
+                            ],
+                            "items": {
+                                "type": "string"
+                            }
+                        },
+                        "antonyms": {
+                            "type": [
+                                "array",
+                                "null"
+                            ],
+                            "items": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "additionalProperties": false
+                }
+            },
+            "notes": {
+                "type": [
+                    "string",
+                    "null"
+                ],
+                "description": "General lexicographer notes, usage warnings, or editorial comments not meant for definition data."
+            }
+        },
+        "additionalProperties": false
+    },
+    {
+        "entry_id": "string (required, non-empty)",
+        "lemma": "string (required, non-empty)",
+        "language": "string (required, ISO 639-3)",
+        "script": "string | null",
+        "pronunciation": [
+            {
+                "ipa": "string | null",
+                "notation": "string | null",
+                "variety": "string | null",
+                "audio_url": "string | null",
+                "phonemic": true
+            }
+        ],
+        "part_of_speech": "string | null",
+        "morphology": {
+            "root": "string | null",
+            "word_formation": "string | null",
+            "affixes": [
+                {
+                    "morpheme": "string",
+                    "type": "string",
+                    "meaning": "string | null"
+                }
+            ],
+            "inflections": [
+                {
+                    "form": "string",
+                    "features": {
+                        "Tense": "string | null",
+                        "Aspect": "string | null",
+                        "Mood": "string | null",
+                        "Person": "string | null",
+                        "Number": "string | null",
+                        "Gender": "string | null",
+                        "Case": "string | null",
+                        "Voice": "string | null",
+                        "Degree": "string | null"
+                    },
+                    "regularity": "string | null"
+                }
+            ],
+            "morphological_class": "string | null"
+        },
+        "etymology": {
+            "description": "string | null",
+            "source_language": "string | null",
+            "source_word": "string | null",
+            "source_meaning": "string | null",
+            "period": "string | null",
+            "cognates": [
+                {
+                    "language": "string",
+                    "word": "string",
+                    "meaning": "string | null"
+                }
+            ],
+            "evolution_chain": [
+                {
+                    "stage": "string",
+                    "form": "string",
+                    "meaning": "string | null"
+                }
+            ]
+        },
+        "senses": [
+            {
+                "sense_id": "string",
+                "definition": "string",
+                "gloss": "string | null",
+                "definitions_ml": [
+                    {
+                        "language": "string",
+                        "text": "string"
+                    }
+                ],
+                "examples": [
+                    {
+                        "text": "string",
+                        "translation": "string | null",
+                        "source": "string | null"
+                    }
+                ],
+                "semantic_domain": "string | null",
+                "subject_field": "string | null",
+                "register": "string | null",
+                "connotation": "string | null",
+                "restrictions": {
+                    "animacy": "string | null",
+                    "countability": "string | null",
+                    "transitivity": "string | null"
+                },
+                "sense_relations": [
+                    {
+                        "type": "string",
+                        "target_entry_id": "string | null",
+                        "target_lemma": "string",
+                        "target_sense_id": "string | null"
+                    }
+                ]
+            }
+        ],
+        "alternatives": [
+            {
+                "form": "string",
+                "type": "string | null",
+                "region": "string | null",
+                "note": "string | null"
+            }
+        ],
+        "translations": {
+            "<iso639-3>": [
+                {
+                    "lemma": "string",
+                    "sense_id": "string | null",
+                    "part_of_speech": "string | null",
+                    "gender": "string | null",
+                    "note": "string | null",
+                    "target_entry_id": "string | null"
+                }
+            ]
+        },
+        "relations": {
+            "synonyms": [],
+            "antonyms": [],
+            "hypernyms": [],
+            "hyponyms": [],
+            "meronyms": [],
+            "holonyms": [],
+            "collocations": [],
+            "derived_forms": [],
+            "see_also": []
+        },
+        "cross_references": [
+            {
+                "target_entry_id": "string",
+                "relationship": "string | null",
+                "note": "string | null"
+            }
+        ],
+        "usage": {
+            "regional_labels": [],
+            "temporal_label": "string | null",
+            "audience": "string | null",
+            "notes": "string | null"
+        },
+        "cultural_notes": "string | null",
+        "frequency": {
+            "zipf_score": null,
+            "occurrences_per_million": null,
+            "corpus": "string | null",
+            "rank": null
+        },
+        "sources": [
+            {
+                "title": "string",
+                "author": "string | null",
+                "year": null,
+                "url": "string | null",
+                "page": "string | null",
+                "license": "string | null"
+            }
+        ],
+        "media": [
+            {
+                "type": "string",
+                "url": "string",
+                "description": "string | null",
+                "license": "string | null"
+            }
+        ],
+        "status": "string",
+        "metadata": {
+            "created_at": "string | null",
+            "updated_at": "string | null",
+            "contributors": [],
+            "version": null,
+            "confidence": null,
+            "tags": []
+        }
+    },
+    {
+        "id": null,
+        "headword": null,
+        "romanization": null,
+        "ipa_transcription": null,
+        "language": {
+            "code": null,
+            "name": null,
+            "family": null
+        },
+        "part_of_speech": null,
+        "morphology": {
+            "root": null,
+            "prefix": null,
+            "suffix": null,
+            "inflection_class": null,
+            "plural_form": null
+        },
+        "definitions": [],
+        "grammar": {
+            "gender": null,
+            "number": null,
+            "case_system": null,
+            "verb_transitivity": null,
+            "conjugation_class": null
+        },
+        "etymology": {
+            "origin_language": null,
+            "origin_word": null,
+            "derivation": null,
+            "notes": null
+        },
+        "usage": {
+            "register": null,
+            "frequency": null,
+            "region": null,
+            "notes": null
+        },
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "related_words": [],
+        "collocations": [],
+        "pronunciation_notes": null,
+        "audio": {
+            "file_path": null,
+            "speaker_dialect": null,
+            "format": null
+        },
+        "source": {
+            "title": null,
+            "author": null,
+            "url": null,
+            "date_accessed": null
+        },
+        "metadata": {
+            "date_created": null,
+            "date_modified": null,
+            "contributor": null,
+            "status": null,
+            "version": null
+        }
+    },
+    {
+        "id": "ja-00047",
+        "headword": "木漏れ日",
+        "romanization": "komorebi",
+        "ipa_transcription": "ko̞mo̞ɾe̞bi",
+        "language": {
+            "code": "ja",
+            "name": "Japanese",
+            "family": "Japonic"
+        },
+        "part_of_speech": "noun",
+        "morphology": {
+            "root": "漏れ (more, 'to leak')",
+            "prefix": "木 (ko, 'tree')",
+            "suffix": "日 (bi, 'sunlight')",
+            "inflection_class": null,
+            "plural_form": null
+        },
+        "definitions": [
+            {
+                "sense_number": 1,
+                "definition": "Sunlight filtering through the leaves of trees",
+                "semantic_domain": "nature/light"
+            },
+            {
+                "sense_number": 2,
+                "definition": "The interplay of light and shadow created by sunlight shining through foliage",
+                "semantic_domain": "aesthetics/nature"
+            }
+        ],
+        "grammar": {
+            "gender": null,
+            "number": "uncountable",
+            "case_system": "marked by particles (が, を, の, etc.)",
+            "verb_transitivity": null,
+            "conjugation_class": null
+        },
+        "etymology": {
+            "origin_language": "Japanese (native compound)",
+            "origin_word": "木 (ki/ko) + 漏れ (more) + 日 (hi/bi)",
+            "derivation": "compound noun formed by combining 'tree,' 'leaking,' and 'sun/day'",
+            "notes": "Rendaku (sequential voicing) changes hi to bi in the compound"
+        },
+        "usage": {
+            "register": "literary/poetic",
+            "frequency": "low-to-moderate",
+            "region": "all regions of Japan",
+            "notes": "Often cited as an example of an 'untranslatable' Japanese word; popular in haiku and nature writing"
+        },
+        "examples": [
+            {
+                "sentence": "公園で木漏れ日を浴びながら読書した。",
+                "romanization": "Kouen de komorebi wo abinagara dokusho shita.",
+                "translation": "I read a book while basking in the sunlight filtering through the trees in the park.",
+                "source": "Constructed example"
+            },
+            {
+                "sentence": "森の中の木漏れ日が美しかった。",
+                "romanization": "Mori no naka no komorebi ga utsukushikatta.",
+                "translation": "The dappled sunlight inside the forest was beautiful.",
+                "source": "Constructed example"
+            }
+        ],
+        "synonyms": [
+            "日だまり (hidamari, 'sunny spot')",
+            "木洩れ陽 (komorebi, 'alternate kanji spelling')"
+        ],
+        "antonyms": [],
+        "related_words": [
+            {
+                "word": "木陰 (kokage)",
+                "relationship": "semantically related — 'tree shade'"
+            },
+            {
+                "word": "日差し (hizashi)",
+                "relationship": "hypernym — 'sunlight/sunshine' in general"
+            }
+        ],
+        "collocations": [
+            "木漏れ日が差す (komorebi ga sasu — 'dappled light shines through')",
+            "木漏れ日を浴びる (komorebi wo abiru — 'to bathe in dappled light')"
+        ],
+        "pronunciation_notes": "Four morae: ko-mo-re-bi. Pitch accent is flat (heiban) in standard Tokyo dialect.",
+        "audio": {
+            "file_path": "/audio/ja/komorebi_01.mp3",
+            "speaker_dialect": "Standard Tokyo (標準語)",
+            "format": "mp3"
+        },
+        "source": {
+            "title": "Daijirin Japanese Dictionary, 4th Edition",
+            "author": "Sanseido Editorial Board",
+            "url": "https://example.com/daijirin/komorebi",
+            "date_accessed": "2025-06-15"
+        },
+        "metadata": {
+            "date_created": "2025-06-15",
+            "date_modified": "2025-06-15",
+            "contributor": "lexicographer_03",
+            "status": "reviewed",
+            "version": "1.0"
+        }
+    }
+]
